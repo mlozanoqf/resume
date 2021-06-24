@@ -1,0 +1,397 @@
+---
+title: "Curriculum Vitae"
+author: "Dr. Martín Lozano."
+output:
+  pdf_document:
+    #latex_engine: pdflatex
+    latex_engine: xelatex
+    template: cv-latex.tex
+  html_document:
+    df_print: paged
+geometry: margin=.7in
+fontawesome: yes
+jobtitle: Curriculum Vitae.
+email: mlozanoqf@gmail.com
+github: mlozanoqf
+updated: no
+keywords: R Markdown, academic CV, template
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue
+---
+
+# \faHome \hspace{1 mm} Contact.
+
+\faEnvelopeO \hspace{1 mm}{mlozanoqf@gmail.com} \href{mailto:mlozanoqf@gmail.com}{\color{black}} \hspace{1 mm} \faEnvelopeO \hspace{1 mm}{martin.lozano@udem.edu} \href{mailto:martin.lozano@udem.edu}{\color{black}} \hspace{1 mm} \faEnvelopeO \hspace{1 mm}{ml143@soas.ac.uk} \href{mailto:ml143@soas.ac.uk}{\color{black}} \hspace{1 mm}
+
+\faGithub \hspace{1 mm}\href{https://github.com/mlozanoqf/}{GitHub} \hspace{1 mm} \faYoutube \hspace{1 mm} \href{http://www.youtube.com/user/drmartinlozano}{YouTube} \hspace{1 mm} \faGlobe \hspace{1 mm} \href{http://sites.google.com/site/mlozanoqf/}{WEB} \hspace{1 mm}
+\aiGoogleScholar \hspace{1 mm} \href{http://scholar.google.com.mx/citations?user=w8boOboAAAAJ}{GoogleScholar} \hspace{1 mm}
+\aiOpenAccess \hspace{1 mm} \href{http://ssrn.com/AuthorID=1490785}{SSRN}
+
+# \faBookmark \hspace{1 mm} Expertise.
+
+**Areas of expertise.** Finance, Economics, Statistics, Data Science.
+
+**Computer skills.** Proficient in R, \LaTeX and other languages like Octave, MATLAB, Weka, GGobi. Commercial software like E-Views, Stata, Gretl, SPSS, among others.
+
+**Research interests.** Empirical asset pricing; beta and SDF pricing models and tests; financial econometrics; GMM estimation and inference; portfolio allocation models and performance; computational finance; data science applications in business.
+
+**Teaching interests.** Introductory economics (microeconomics, macroeconomics), quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics.
+
+# \faBriefcase \hspace{1 mm} Experience.
+
+**Professor of finance.** \hfill 2015 – current\
+Universidad de Monterrey (UDEM). Department of Economics and Finance. México.
+
+**Post-doctoral research fellow.** \hfill 2010 – 2012\
+Manchester Business School. Centre for the Analysis of Investment Risk. UK.
+
+**Pre-doctoral Marie Curie research fellow.** \hfill 2007 – 2008\
+The University of Manchester. UK.\
+*Supported by the Sixth European Community Framework Programme.*
+
+**Research assistant.** \hfill 2006 – 2007\
+Instituto Complutense de Estudios Internacionales (ICEI). Spain.\
+*Collaborate on European research projects in areas such as innovation and technology policy using microdata.*
+
+**Visiting PhD scholar.** \hfill 2005 – 2006\
+University of the Basque Country, Universidad Complutense de Madrid, University Carlos III of Madrid. Spain.
+
+**Academic coordinator.** \hfill 2002 – 2004\
+Universidad Virtual, Tecnológico de Monterrey.\
+*Responsible for the delivery, maintenance and development of finance and accounting undergraduate courses.*
+
+**Wharton Global Consulting Practicum consultant.** \hfill 2001 – 2002\
+EGADE Business School, and the Wharton School of the University of Pennsylvania.\
+*Develop the business plan for a Mexican company in the beverage industry to enter into the US market.*
+
+# \faFolderOpen \hspace{1 mm} Publications.
+
+1. *Portfolio performance of linear SDF models: An out-of-sample assessment. With Erwin Hansen and Massimo Guidolin.* **Quantitative Finance**.  Vol. 18, No. 8, 1425–1436, 2018. http://dx.doi.org/10.1080/14697688.2018.1429646.
+2.	*Evaluating alternative methods for testing asset pricing models with historical data.* With Gonzalo Rubio. **Journal of Empirical Finance.**  Volume 18, Issue 1, January 2011, Pages 136–146. 8 citations. http://dx.doi.org/10.1016/j.jempfin.2010.05.005
+3.	*Financial crisis: imbalances, irrationality and regulation.* Editorial for **Advances in Management.** February 2012. http://ssrn.com/abstract=1965011 Listed on SSRN’s top ten download list: Resource Financing Strategies: as of 12/11/2011.
+4.	Research assistance for: *Dividend Growth, Cash Flow and Discount Rate News.* Ian Garrett and Richard Priestley. **Journal of Financial and Quantitative Analysis.**  Vol. 47, No. 5, Oct. 2012, pp. 1003–1028. http://dx.doi.org/10.1017/S0022109012000427
+5.	Proceedings: *The efficiency of the SDF and Beta methods at evaluating multi-factor asset-pricing models.* With Stuart Hyde and Ian Garrett. **Southwestern Finance Association 48th Annual Meeting Proceedings.** Oklahoma City, USA. 2009.
+Media:
+6.	*La industria del acero.* Suplemento Grupo Milenio. June 2016.
+
+# \faFolder \hspace{1 mm} Working papers.
+
+1.	*Multifactor Empirical Asset Pricing Under Higher-Order Moment Variations.* 2020. With Massimo Guidolin, and Juan Arismendi Zambrano.
+2.	*Performance of asset allocation strategies in Europe: An out-of-sample assessment.* 2014. With Francisco Navarro. http://ssrn.com/abstract=2474542
+3.	*Portfolio choice in the presence of estimation error: A pricing model filter approach.* 2014. http://ssrn.com/abstract=2476321
+4.	*Trade-offs between efficiency and robustness in the empirical evaluation of asset pricing models.* 2011. With Stuart Hyde and Ian Garrett. http://papers.ssrn.com/abstract=1754743 Listed on SSRN’s top ten download list: Econometric & Statistical Methods, and Applied Econometric Modelling in Financial Economics: October 7, 2011 to December 6, 2011. 2 citations.
+5.	*Econometrics of asset pricing: methodological review and empirical exercise.* 2009. http://papers.ssrn.com/abstract=1754762
+
+# \faCommenting \hspace{1 mm} International conferences.
+1. **International Conference of the French Finance Association. Nantes, France.**\hfill May 2021
+Audencia Business School.\
+*Multifactor empirical asset pricing under higher-order moment variations.*
+2. **Frontiers of Factor Investing. UK.**\hfill April 2020\
+Lancaster University Management School.\
+*Multifactor empirical asset pricing under higher-order moment variations.*
+3. **World Congress of the Econometric Society. Milan, Italy.** \hfill August 2020\
+Bocconi University.\
+*Multifactor empirical asset pricing under higher-order moment variations.*
+4. **Recent Developments in Financial Econometrics and Applications. Australia.** \hfill Jan. 2014\
+Deakin University.\
+*Asset pricing applications.*
+5. **European Financial Management Association. Reading, UK.** \hfill June 2013\
+University of Reading. Henley Business School.\
+*Portfolio performance of linear SDF models: an out-of-sample assessment.*
+6. **Eastern Finance Association Annual Meeting. Washington D.C., USA.** \hfill May 2009\
+*Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
+7. **Southwestern Finance Association 48th Annual Meeting. Oklahoma City, USA.** \hfill Feb. 2009\
+*Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
+8. **XVI Spanish Association of Finance Forum. Barcelona, Spain.**\hfill November 2008\
+ESADE Business School.\
+*Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
+9. **XV Spanish Association of Finance Forum. Palma de Mallorca, Spain.** \hfill November 2007\
+Universitat de les Illes Balears.\
+*Evaluating alternative methods for testing asset pricing models with historical data.*
+
+# \faCommenting \hspace{1 mm} Research seminars.
+1. **University of Liverpool. Management School Seminar Series. UK.** \hfill November 2019\
+Multifactor empirical asset pricing under higher-order moment variations.
+2. **University College Dublin. Seminar Series. UK.** \hfill December 2019\
+Multifactor empirical asset pricing under higher-order moment variations.
+3. **Instituto de Contadores Públicos de Nuevo León ICPNL. México.** \hfill July 2017\
+Portfolio choice in the presence of estimation error: A pricing model filter approach.
+4. **Universidad de Monterrey. México.** \hfill June 2017\
+Portfolio choice in the presence of estimation error: A pricing model filter approach.
+5. **Universitat de Barcelona. Riskcenter. Spain.** \hfill September 2012\
+Estimation of asset pricing models: parameter efficiency and implications for asset allocation.
+6. **Stockholm University. School of Business. Sweden.** \hfill September 2011\
+Trade-offs between efficiency and robustness in the empirical evaluation of asset pricing models.
+7. **Lancaster University. Management School. UK.** \hfill July 2011\
+Trade-offs between efficiency and robustness in the empirical evaluation of asset pricing models.
+8. **Universidad de Castilla-La Mancha. Toledo, Spain.** \hfill August 2008\
+Finite sample properties of GMM asset pricing tests.
+9. **Manchester Business School. Annual Doctoral Conference. UK.** \hfill May 2008\
+Tests of multi-factor pricing models and the consumption-based asset pricing.
+10. **University Carlos III of Madrid. Spain.** \hfill April 2008\
+Finite sample properties of GMM asset pricing tests.
+11. **Universidad de Navarra. Pamplona, Spain.** \hfill March 2008\
+Evaluation of asset-pricing models using historical data.
+12. **Universitat de les Illes Balears. Palma de Mallorca, Spain.** \hfill February 2008\
+Evaluation of asset-pricing models using historical data.
+13. **University of the Basque Country. Bilbao, Spain.** \hfill June 2007\
+Testing asset pricing models.
+14. **Instituto Complutense de Análisis Económico. Madrid, Spain.** \hfill July 2007\
+Testing asset pricing models.
+15. **University of Valencia. Spain.** \hfill May 2006\
+Testing asset pricing models.
+
+# \faUniversity \hspace{1 mm} Education: PhD.
+
+**PhD in Quantitative Finance.** \hfill 2005 – 2010\
+University of the Basque Country. Spain.\
+*Supervisor: Prof. Gonzalo Rubio (Universidad CEU Cardenal Herrera). Internal: Prof. Alfonso Novales (Universidad Complutense de Madrid). PhD committee members: Dr. María Victoria Esteban (Universidad del País Vasco); Prof.  Ángel Pardo (Universidad de Valencia); Dr. Rosa Rodríguez (Universidad Carlos III de Madrid); External: Dr. Iñaki Rodríguez (University of Tromsø).*
+
+**Doctor *Europaeus* mention.** \hfill 2009\
+Several European universities.\
+*Supporting external reports from: Prof. Stuart Hyde (Manchester Business School); Dr. Angélica González (University of Edinburgh); Prof. Richard Stehle (Humboldt University); Dr. Andreas Schrimpf (Aarhus University); Prof. Leopold Sögner (University of Vienna); Dr. Valerio Potì (Dublin City University); Prof. Marcelo Fernandes (Queen Mary, University of London); Prof. Paul Söderlind (University of St. Gallen).*
+
+# \faGraduationCap \hspace{1 mm} Education: Post-graduate.
+
+**Master Degree in Statistical Learning and Data Mining.** \hfill 2019\
+UNED. Spain.
+
+**Diploma University Expert in Statistical Learning and Data Mining.** \hfill 2019\
+UNED. Spain.
+
+**Diploma University Expert in Statistical Techniques for the Scientific Analysis of Data.** \hfill 2017\
+UNED. Spain.
+
+**Master Degree in Modern Applied Statistical Methods.** \hfill 2016\
+UNED. Spain.
+
+**Diploma University Expert in Advanced Methods of Applied Statistics.** \hfill 2015\
+UNED. Spain.
+
+**Advanced Studies in Quantitative Finance.** \hfill 2005 – 2006\
+Universidad Complutense de Madrid. Spain.
+
+**MSc Finance.** \hfill 2000 – 2002\
+EGADE Business School. México.
+
+**BS Economics.** \hfill 1993–1997\
+Tecnológico de Monterrey, Campus Monterrey. México.
+
+# \faSpinner \hspace{1 mm} Profesional training.
+
+1. **Digital Humanities & Research Software Engineering Summer School.** \hfill 2021\
+The Alan Turing Institute. UK.
+2. **Diseño de indicadores para el desarrollo social.** \hfill 2020\
+Consejo Nacional de Evaluación de la Política de Desarrollo Social. México.
+3. **Applications of multi-level models to research policy and higher education studies.** \hfill 2020\
+RISIS (Research Infrastructure for Science and Innovation Policy Studies). Italy.
+4. **Summer School on Data Science for Studying Science, Technology and Innovation.** \hfill 2019\
+RISIS. Strathclyde Business School, Glasgow. UK.
+5. **Proyectos de Inversión en Bienes Inmobiliarios.** \hfill 2019\
+Riskmathics. México.
+6. **Faculty training.** \hfill 2015 – 2016\
+Universidad de Monterrey (UDEM). México.
+7. **Faculty training.** \hfill 2015\
+University of Liverpool’s Management School. UK.
+8. **Faculty training.** \hfill 2015\
+University of Roehampton, London Online. UK.
+9. **Course on Panel Data Analysis.** \hfill 2007\
+Instituto de Estudios Fiscales. Spain.
+10. **Teaching techniques: PBL, POL, collaborative learning, case-based method.** \hfill 1999 – 2002\
+Tecnológico de Monterrey, Campus Monterrey. México.
+11. **Ethics across the curriculum.** \hfill 1999\
+Loyola University Chicago.
+12. **Diploma in Economic and Financial Analysis.** \hfill 1998\
+Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
+
+# \faCheckSquare \hspace{1 mm} Certifications in R.
+
+**DataCamp Courses (42):** Introduction to R; Introduction to Importing Data in R; Introduction to R for Finance; Introduction to Writing Functions in R; Importing and Managing Financial Data in R; Intermediate R for Finance; Data Science for Everyone; Foundations of Probability in R; Time Series Analysis in R; Introduction to the Tidyverse; Credit Risk Modeling in R; Manipulating Time Series Data with \texttt{xts} and \texttt{zoo} in R; Intermediate R; Data Manipulation with \texttt{dplyr}; Joining Data with \texttt{dplyr}; Introduction to Data Visualization with \texttt{ggplot2}; Intermediate Data Visualization with \texttt{ggplot2}; Intermediate Importing Data in R; Data Cleaning in R; Working with Data in the Tidyverse; Working with Dates and Times in R; Exploratory Data Analysis in R; Case Study Exploratory Data Analysis in R; Correlation and Regression in R; Supervised Learning in R Classification; Supervised Learning in R: Regression; Unsupervised Learning in R; Cluster Analysis in R; Machine Learning with \texttt{caret} in R; Data Engineering for Everyone; ARIMA Models in R; Forecasting in R; Visualizing Time Series Data in R; Case Studies: Manipulating Time Series Data in R; Introduction to Portfolio Analysis in R; Intermediate Portfolio Analysis in R; Bond Valuation and Analysis in R; Quantitative Risk Management in R; Financial Trading in R; Equity Valuation in R; Life Insurance Products Valuation in R; GARCH Models in R.
+
+**DataCamp Skill Tracks (6):** Importing & Cleaning Data with R (4 courses); Finance Basics with R (4 courses); Machine Learning Fundamentals in R (4 courses); Time Series with R (6 courses); Finance Fundamentals in R (6 courses); Applied Finance in R (7 courses).
+
+**DataCamp Career Tracks (2):** Data Scientist with R (19 courses); Quantitative Analyst with R (15 courses).
+
+# \faShareAlt \hspace{1 mm} Service to the academia.
+
+**Reviewer:** Quarterly Review of Economics and Finance (since 2011); Journal of Banking and Finance (since 2010).
+
+**Editor:** Associate Editor Journal of Accounting, Finance and Economics (since 2014); Munich Paper of RePEc Archive MPRA (2010, 2011); Advances in Management (since 2011).
+
+**Scientific and academic committees:** Examiner for MScs and PG Diplomas in Financial and Management Studies University of London International Programmes (2012, 2015, 2016). Examination panel of biannual Finance PhD reviews Manchester Business School (06/2011 and 06/2012). Eastern Finance Association (2009, 2010 and 2012); Midwest Finance Association (2009 and 2010); Southwestern Finance Association (Annual Meetings: 48th and 49th).
+
+# \faCertificate \hspace{1 mm} Awards & honors.
+
+1. UDEM. Member of the research committee CIDINE. \hfill 2015 – current
+2. UDEM. President of the academia of finance. \hfill 2016 – 2019
+3. UDEM. Claustro universitario X. \hfill 2017 – 2018 
+4. UDEM. Finalist *Ser Sobresaliente 2016* award. \hfill 2016
+5. Sistema de Expertos de Educación Ejecutiva del Tecnológico de Monterrey. \hfill 2015 – 2020
+6. Listed on SSRN’s top ten download list. \hfill 2011
+7. European Community Framework Programme Marie Curie fellowship. UK. \hfill 2007 – 2008
+8. Basque Government mobility grant. Spain. \hfill 2007
+9. University of the Basque Country doctoral fellowship. Spain. \hfill 2005 – 2007
+10. BBVA Foundation doctoral fellowship. Spain. \hfill 2004 – 2005
+11. Universidad Virtual, Tecnológico de Monterrey. Academic senator member: \hfill 2003
+12. EGADE Business School MSc fellowship. México. \hfill 2000 – 2002
+
+# \faCogs \hspace{1 mm} Design course assessment material.
+
+**University of London, School of Oriental and African Studies.** \hfill 2015 – 2021\
+**MSc in Quantitative Finance and MSc in Economic Policy.**
+
+1. Derivatives (2015 – 2020).
+2. Financial Engineering (2019 – 2021).
+3. Banking and Capital Markets (2019 – 2021).
+
+# \faGroup \hspace{1 mm} Teaching: Postgraduate.
+
+**SOAS University of London, Dep. of Financial and Management Studies. UK.**\hfill 2012 – current\
+Finance and Risk Management in the Global Economy (summer school 2020, as Director of Financial Modelling with R); Banking & Capital Markets (2016, 2018, 2019, 2021); Econometric Analysis & Applications (2016 – 2019, 2021); Risk Management: Principles & Applications (2012, 2014 – 2017, 2019); Econometric Principles & Data Analysis (2012 – 2015, 2017, 2019); Derivatives (2015 – 2016); Risk Management in the Global Economy – MOOC FutureLearn platform (2016); Independent Study Project (2019, 2021); Financial Econometrics (2019, 2021); Financial Engineering (2021).
+
+**Alliance Manchester Business School. UK.** \hfill 2010 – 2018\
+Individual Projects 2010 – 2011 and 2014-15. Research Methods 2011 – 2012. Group Project 2013 – 2014. Global MBA Project 2014-15 and 2015-16. Live Business Project 2018 GMBA.
+
+**Universidad de Monterrey (UDEM). México.** \hfill 2015\
+Financial Project Evaluation.
+
+**University of Liverpool, Management School. UK.** \hfill 2015\
+Economics of Oil, Gas & Energy.
+
+**Manchester Business School, (Finance PhD). UK. ** \hfill 2011 – 2012\
+Three sessions of Advanced Finance Research Seminar I.
+
+**Tecnológico de Monterrey. México.** \hfill 2005 – 2009\
+Fundamentals of Managerial Finance (2008); Managerial Economics (2009); Economics for Decision Taking (2010); Economic Environment (2009); Economics of the Firm (2005).
+
+# \faGroup \hspace{1 mm} Teaching: Undergraduate.
+
+**Universidad de Monterrey (with applications in R). México.** \hfill 2015 – 2021\
+Topics in Finance (2015 – 2019); Econometrics for Financial Markets (2016 – 2021); Financial Engineering (2016 – 2021); Financial Project Evaluation (2015); Financial Structure and Cost of Capital (2015, 2017); Financial Risk Management (2015 – 2021); Financial Project Evaluation (2015).
+
+**Tecnológico de Monterrey (Most of them in English). México.** \hfill 1995 – 2015\
+Programming and financial modeling; Economics for International Business (2014, 2018, 2019); Competitive Intelligence and Geo-economics (2013 – 2019); Innovation Project on Regional Businesses (2015 – 2019); FDI and Country Risk (2015); Firm Economics (2015, 2018, 2019); Microeconomics (2015); Macroeconomics (2014, 2019); Financial Sources (2012, 2013); Financial Engineering (2003, 2004, 2012, 2013); Project and Firm Valuation (2011); Investments; Risk Evaluation in Financial Markets (2002 – 2004); Foreign Investment (2002 – 2004); Financial Economics (2002 – 2004); Financial Derivatives (2002 – 2004); Statistics (2002); International Finance (1999 – 2002); Econometrics (TA 1997); Microeconomic Theory (TA 1995 – 1998).
+
+**The University of Manchester. Economics Department. UK.** \hfill 2011 – 2012\
+Business Economics I; Business Economics II.
+
+**Universidad Autónoma de Nuevo León. México.** \hfill 2001\
+Economic Development.
+
+**Universidad Privada del Norte. Perú.** \hfill 2021\
+Microeconomía para administradores.
+
+# \faGroup \hspace{1 mm} Teaching: Executive training.
+
+Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019); Mexican fiscal reform 2014; entrepreneurial seminar 2014; corporate training in finance for enterprises such as Kimberly-Clark (2013), Stoneridge (2013), Magna (2014, 2017), COPARMEX (2014), Linamar (2015, 10 groups), Ternium (2021). 
+
+# \faEye \hspace{1 mm} Supervision: PhD.
+**The University of Manchester. PhD Finance.**\hfill 2010 – 2012
+
+1. *An economic evaluation of linear SDF models: An out-of-sample assessment.* Erwin Hansen (currently professor at the University of Chile). Co-supervision.
+
+# \faEye \hspace{1 mm} Supervision: MSc (28).
+**London School of Business & Finance. MSc Finance & Risk Management.**\hfill 2012
+
+1. *Asset pricing anomalies and stock return predictability: How relevant are they for the Swiss Stock market?* Julian Mittmann. Co-supervision. 2012. 
+
+**University of London, School of Oriental and African Studies.** \hfill 2012 – current\
+**MSc in Quantitative Finance and MSc in Economic Policy.**
+
+2. Saori Yamaguchi. MSc in Quantitative Finance. 2021.
+3. *Predicting sector volatility with GARCH models and artificial neural networks.* Curtis Nybo. 2020. MSc in Quantitative Finance.
+4. *Analysis and Monitor Retail Credit Risk using Machine Learning.* Jin Wang. MSc in Quantitative Finance. 2020.
+5. *Determinants of the UK current account: a NARDL approach.* Laura Thomson. MSc in Quantitative Finance. 2019. MSc Finance (Economic Policy).
+6.	*Determinants of investor choice among collective investment schemes: The South African context re-examined.* Inthiran Moodley. 2019. MSc in Quantitative Finance.
+7.	*Financial Regulation and Market Liquidity in the US: A Literature Review and Empirical Approach.* Edward Price. 2017. MSc Finance (Economic Policy).
+8.	*Incorporating conditional variance methods into internal models used to calculate regulatory capital requirements for market risk under Basel regulations.* Thomas Zellerer. 2016. MSc in Quantitative Finance.
+9.	*Is the Irish property market contagious or simply interdependent?* Norah Daly. 2015. MSc in Quantitative Finance.
+10.	*British business in El Salvador.* Zoë Rowland Smith. 2012. MSc in Economic Policy. 
+
+**The University of Manchester. MSc Finance.** \hfill 2011 – 2012
+
+11.	*Short-run investment advice and portfolio performance during economic cycles.* Yu Wang. 2012.
+12.	*Empirical evidence of the behaviour of stock volatility with real economic changes – A mean variance frontier perspective.* Linda Anna John. 2012.
+13.	*An exploration about risk diversification possibilities in the U.S.* Kush Arora. 2012.
+14.	*The role of return predictability in the accuracy of short-run investor advice.* Alexey Dorokhov. 2012.
+15.	*Industry dynamics and the momentum anomaly.* Jr-Wei, Kao. 2011.
+16.	*Food industry performance over business cycle on the US market.* Lin Wen. 2011.
+17.	*Advice to global investors about international portfolio diversification.* Meili Jiang. 2011.
+18.	*Testing the generalized method of moments (GMM) with US industries.* Mohammed Ali. 2011.
+19.	*Explaining the industry-based momentum anomaly in the US market – The role of momentum factor and autocorrelation.* Yu Zhang. 2011.
+20.	*The role of business cycles in the determination of industry portfolios in the US.* Jingsi Shen. 2011.
+
+**Universidad Complutense de Madrid.** \hfill 2012 – 2017\
+**MSc in Quantitative Finance and Banking.**
+
+21. *Exploration of properties of the implicit stochastic discount factor.* Marc Pallarés García. 2017.
+22.	*The role of copulas in the characterization of counterparty credit risk.* Norma Angélica Bautista Luna. 2017.
+23.	*Mean-variance asset allocation revisited.* David Tarin Bernad. 2017.
+24.	*Out-of-sample performance of investment strategies: A dynamic evaluation.* Guzmán Hernández Hernández. 2014.
+25.	*Out-of-sample performance of mean-variance strategies: Is active portfolio management worth the effort in Europe?* Francisco J. Navarro Sánchez. 2013.
+26.	*Intertemporal optimal demands for bonds and industry portfolios.* Pedro Antonio da Silva Faria. 2013.
+27.	*Aplicación empírica de las medidas mentales y carteras eficientes.* Boris Castro Guevara. 2012.
+28.	*Evolución temporal de la frontera media-varianza y su relación con la economía real.* Ana María Rivera Serrano. 2012.
+
+# \faEye \hspace{1 mm} Supervision: MBA (17).
+**The University of Manchester. Full-Time MBA.**\hfill 2012
+
+1.	*Not for Profit MBA Project.* Jorge Alvarez, Adriana Castellares, Kelly Higgins, Niyati Jhalaria, Siamnat Panassorn.
+
+**The University of Manchester. Global MBA.**\hfill 2012 – 2018
+
+2.	*Financial evaluation: A new treatment for acute myeloid leukemia patients.* Jie Zhang, Jie Fang, Yanfei Pan, Jufang Qian, Yiqing Guan, Xinshu Xu. 2018.
+3.	*Funding Models for Marginal Oil Fields (MOFs) Oil Exploration and Production in Nigeria: Case Study of the Umusadege Cluster Tigers.* Harrison Ibagere. 2016.
+4.	*Financial institutions before and after the 2008 global financial crisis.* Viktoriia Glazneva, Bukola Majekodunmi, Nigel Aldcroft, Venugopal Boravellyayyanna, Lynette C. Musonda. 2016.
+5.	*A demand-side assessment of Dubai M/SME finance needs and the creation of a risk mitigation tool to improve funding access.* Toni Arndell, Alex Carter, Martin JV Hughes, Eric Leung, Bradley Manser, Derek Sington. 2015.
+6.	*Post-IPO performance of listed companies in Singapore – Short run and long run.* Hnin Yi Thet. 2014.
+7.	*A response to the credit challenges confronting SMEs in Australia’s post-GFC climate of inflated property prices.* Francesco Ceravolo. 2013.
+8.	*An analysis of the adequacy of the risk management structure and practices in the Bank of Nova Scotia Jamaica Limited.* Frederick Green. 2013.
+9.	*Instruments in managing cross border M&A cost and their applications in Chinese outbound transactions.* Yang An. 2013.
+10.	*Study of efficiency of the Nigerian capital market and the implications for investors.* Ameen Akeem Alaba. 2012.
+11.	*The Jamaica Debt Exchange – How has the JDX affected financial institutions and pension funds?* Carla Neisha Thomas. 2012.
+12.	*Transforming BG – Strategy formulation and implementation in the context of a family business.* Fazly Muhammed Faleedeen. 2012.
+13.	*Challenges faced by the investment entities in the Gulf Cooperation Council (GCC) in the recent financial crisis, reasons and the way forward.* Moataz Bellah Abd Elbaset Hegab. 2012.
+14.	*Islamic finance – The concealed resilient architecture.* Mohamed El Ashmawy. 2012.
+15.	*An evaluation of Chinese companies listed on the Singapore Stock Exchange.* Stephen Chiew Hung Tan. 2012.
+16.	*The causal factors of commercial bank distress in Nigeria.* Emmanuel Duru. 2012.
+17.	*The Nigerian banks recapitalization: Impacts on the value creation and risks.* Ojekunle Ibrahim Olakunle. 2012.
+
+
+# \faEye \hspace{1 mm} Supervision: Undergraduate (30).
+**Universidad de Monterrey (UDEM).**\hfill 2015 – 2021\
+**Finance, accounting and economics degrees.** 
+
+1.	Guillermo Maldonado Villanueva, Mariana Guadalupe Gauna Escalera, Daniela Villarreal Amparán, Katya Villarreal Elizondo. 2021.
+2.	Mauricio Hernández García, Enrique Fernando Higuera Nafarrate, Carlos Enrique Echavarría Aguilar, Héctor Guillermo González Treviño. 2021.
+3.	Víctor Arnulfo González Campos, Carolina Villarreal Chaccourt, Fernando Chapa Guzmán, Montserrat González Cantú. 2021.
+4.	*Reference portfolio optimization for retirement in México.* Alejandra Barradas Álvarez, Alejandro Flores Gaytán, Andrea Gutiérrez Campos, Ivanna Garza Villarreal. 2021.
+5.	*Determinantes socioeconómicos del logro académico en la prueba pisa 2018: un análisis de regresión multinivel cuantílica para el caso de México.* Daniela Paola García Cruz, Katia Flores García, Norma Patricia Rodríguez Garza, Salvador de Jesús Ramos Rivera. 2020.
+6.	*La inversión en México y sus estados.* Carolina Mata Degollado, Alan Estrada Sáenz, Andrea García Puentes, Bárbara De la Garza Aguiñaga. 2020.
+7.	*Dynamic estimation of corporate bond yields based on the credit risk Merton model: practical implications for Mexican public firms.* María Fernanda Alanís Adame, Ana Daniella Martínez Medina, Mauro Lozano Trujillo. 2020.
+8.	Financial risk analysis for Axtel Corp: contributions to economic literature and recommendations for the company. Javier Cázares Salinas, Regina Marmolejo Torres. 2020.
+9.	*Credit risk.* Paola Alejandra Arizpe Flores, Pamela Alejandra Salinas Delgado, Adrián Delgadillo Miranda, José Marcelo Rosiles Cortés. 2020.
+10.	*Text mining and finance applications.* Aurelio Herrera Alonso, Juan Antonio Chapa Guzmán, Paulina Sarahí González Martínez, David Alejandro Almaguer Galván. 2020.
+11.	*Estrategias de inversión automatizadas basadas en violaciones de la paridad put-call.* Marijose Morales Lozano, María Fernanda González Espinoza, Florencia Ferado Calleros, Esteban Daniel Cauich Montes. 2020.
+12.	*Do irrational investment decisions create value? A tale of 101 artificially created investors.* Andrea Madero Acuña, Franklin R. Garza Tuñón, Daniela Valdez Rodríguez, Valeria Martínez Zambrano. 2019.
+13.	*How trustworthy are robo-advisors to take financial investment decisions?* María Laura Ruiz Peinado, Ana Victoria Garza Montemayor, Ana Fernanda Marroquín Leal, Jorge Alejandro Deux Guerra Saldívar. 2019.
+14.	*A big data approach for non-standardized weather derivatives in the context of insurtech for the Mexican agricultural sector.* Melissa Cavazos De la Rosa, Mariana Yépiz Ojeda, Verónica Daniela Briones Reyes. 2019.
+15.	*Sistema de control interno para empresas del sector inmobiliario en México en el contexto de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.* Estefanía Huerta Ocañas, Maximiliano Nienow González, Alejandro Emmanuel Garza Gauna. 2019.
+16.	*Determinants of attraction In Mexico’s foreign direct investment and their capacity to generate economic growth: The case of profit reinvestment.* Osvaldo Delgado, Héctor Valdés Ramones, Jorge Armando Espinal Landaverde, André González. 2019.
+17.	*Characteristics of the company and macroeconomic variables as determinants of the financial ratios and multiples of Mexican public companies: Implications for the improvement of the fundamental analysis.* Marcela Cristina Beltrán Díaz, Juan Uriel Sarmiento Cordero, Marco Antonio Muhlia Sánchez, Marco Alejandro Rodríguez Torres. 2019.
+18.	*Applying finance and statistics to explain and unveil the poverty determinants in Mexican municipalities.* Hugo Arnoldo Oliva Castillo, Lucía del Carmen Chávez De la Garza, Javier Eugenio Garza Martínez, Kalhid Marcelo García Adam. 2018.
+19.	*Portfolios of individual stocks versus portfolios of investment strategies: a machine learning approach.* Priscila Judith Huerta Sánchez, Katia Gómez Sagui, Martín Murillo Varona, Oscar David Elizondo Espinosa. 2018.
+20.	*Cross-country determinants of corruption and implications for economic policy.* Ana Sofía Villarreal Reyes, Mariana Flores, Ignacio Sánchez Paoli, Mauricio Rumbaut Canales. 2018.
+21.	*A proposal for a credit risk metric for private firms.* Kareeme Yuvisela Dávila Cisneros, Melissa Montserrat Copado López, Marco Antonio Infante Rodríguez, Juan Pablo Barradas. 2018.
+22.	*Introducing the weighted forward-looking volatility index: construction and empirical application.* Patricia Perches Carrillo, Liliana Juárez González, Elena Gaitán Álvarez, Iris Giovanna Masante Muñiz. 2017.
+23.	*An innovative credit risk estimation: implications for the credit risk rating market.* Regina Marcela Marta Varela, María Fernanda Herrera Quiroga, Marcelo Adrián Pérez Ayala, Juan Pablo González Martínez. 2017.
+24.	*Contraste de anomalías en el mercado mexicano: Implicaciones para el inversionista.* Daniela Castillo Gutiérrez, María Begoña Domínguez Ortega, Sonia María Leal Cárcamo, Mariana Itzel De la Rosa Reyes. 2017. Presented at: 1er. Coloquio de Jóvenes Investigadores: Gestión de la Innovación para el Desarrollo Sostenible de los Negocios 2017.
+25.	*Competitiveness patterns in Mexican microenterprises: Implications for credit risk models.* Itziar Olóriz De la Garza, Armando Víctor González Valdés, Jorge Edgardo Sánchez Garza, Pedro Cedillo Martínez. 2017.
+26.	*Impact on the US monetary policy on Mexican investment strategies.* Karen Beatriz Montoya Ortiz, Iris Aide Salinas Martínez, Elías Castro Flores, José Valero. 2016.
+27.	*Realized performance of investment preferences: The case of home bias puzzle conditioned on exchange rate volatility.* Magaly Carolina Pérez Martínez, Alejandra García Villarreal, Alejandra Prezas Martínez, Christopher Ledezma González. 2016.
+28.	Tutor for the honors program in leadership. Magaly Carolina Pérez Martínez. 2016.
+29.	*Trends and analysis of the incorporation of the peer-to-peer markets in the economic sectors of México.* Gabriela Romeroll Angulo, Cynthia Alejandra De la Vega Oates, Dulce María Pérez Acosta, Marco Antonio Hernández Díaz. 2016.
+30.	*Performance evaluation of investment strategies based on automated technical analysis algorithms.* Carlos Andrés Gutiérrez Mendivil, Danya Cecilia Martínez Ramírez, Paulina Torres Treviño, Ana María Barrera Portillo. 2016.
+

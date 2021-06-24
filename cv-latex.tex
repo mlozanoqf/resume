@@ -23,6 +23,7 @@ $endif$
   \else
     \usepackage{fontspec}
   \fi
+  \usepackage{academicons}
   \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
 $if(euro)$
   \newcommand{\euro}{€}
@@ -197,7 +198,6 @@ $endfor$
 
 % Use fontawesome. Note: you'll need TeXLive 2015. Update.
 $if(fontawesome)$\usepackage{fontawesome}$endif$
-
 % Fancyhdr, as I tend to do with these personal documents.
 \usepackage{fancyhdr,lastpage}
 \pagestyle{fancy}
@@ -242,25 +242,24 @@ $endif$
 
 \hrule
 
-\vspace{2 mm}
+\vspace{4 mm}
 %job title
-$if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
+$if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$ | \emph{Updated:} \today$endif$.} 
 %address
 $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
-\moveleft.5\hoffset\centerline{ 
+\moveleft.5\hoffset\centerline{ }
 %github
-$if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\color{black} $github$} \hspace{1 mm} $endif$  
+%$if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\color{black} $github$} \hspace{1 mm} $endif$  
 %github
-$if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{http://twitter.com/$twitter$}{\color{black} $twitter$} \hspace{1 mm} $endif$  
+%$if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{http://twitter.com/$twitter$}{\color{black} $twitter$} \hspace{1 mm} $endif$  
 %phone
-$if(phone)$$if(fontawesome)$ \faMobile \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$ 
+%$if(phone)$$if(fontawesome)$ \faMobile \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$ 
 %email
-$if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\color{black} $email$} \hspace{1 mm}$endif$ 
+%$if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\color{black} $email$} \hspace{1 mm}$endif$ 
 %website
-$if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}  $endif$ $if(updated)$ | \emph{Updated:} \today$endif$}
+%$if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}  $endif$ $if(updated)$ | \emph{Updated:} \today$endif$}
 
-
-\vspace{2 mm}
+%\vspace{1 mm}
 
 \hrule
 
