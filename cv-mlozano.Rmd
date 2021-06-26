@@ -84,7 +84,7 @@ Media:
 4.	*Trade-offs between efficiency and robustness in the empirical evaluation of asset pricing models.* 2011. With Stuart Hyde and Ian Garrett. http://papers.ssrn.com/abstract=1754743 Listed on SSRN’s top ten download list: Econometric & Statistical Methods, and Applied Econometric Modelling in Financial Economics: October 7, 2011 to December 6, 2011. 2 citations.
 5.	*Econometrics of asset pricing: methodological review and empirical exercise.* 2009. http://papers.ssrn.com/abstract=1754762
 
-# \faCommenting \hspace{1 mm} International conferences.
+# \faComments \hspace{1 mm} International conferences.
 1. **International Conference of the French Finance Association. Nantes, France.**\hfill May 2021
 Audencia Business School.\
 *Multifactor empirical asset pricing under higher-order moment variations.*
@@ -395,3 +395,8 @@ Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019)
 29.	*Trends and analysis of the incorporation of the peer-to-peer markets in the economic sectors of México.* Gabriela Romeroll Angulo, Cynthia Alejandra De la Vega Oates, Dulce María Pérez Acosta, Marco Antonio Hernández Díaz. 2016.
 30.	*Performance evaluation of investment strategies based on automated technical analysis algorithms.* Carlos Andrés Gutiérrez Mendivil, Danya Cecilia Martínez Ramírez, Paulina Torres Treviño, Ana María Barrera Portillo. 2016.
 
+# \faMusic \hspace{1 mm} Free time.
+
+I love art as the expression of human creativity and imagination. I spend some free time playing my Yamaha digital piano. I also used to be an active keyboardist, piano player, and orchestra director. Most of my experience in this field has been as a musician at live concerts in Mexico and Europe, piano solo concerts, and musicals organized by the Tecnológico de Monterrey for about a decade.
+
+I like mostly Spanish painters like Velázquez, Goya, Dalí, Picasso among others. I also like the music of Chick Corea, Wynton Marsalis, Paco de Lucía, among others.
