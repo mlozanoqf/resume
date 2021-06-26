@@ -25,7 +25,7 @@ urlcolor: blue
 
 \faEnvelopeO \hspace{1 mm}{mlozanoqf@gmail.com} \href{mailto:mlozanoqf@gmail.com}{\color{black}} \hspace{1 mm} \faEnvelopeO \hspace{1 mm}{martin.lozano@udem.edu} \href{mailto:martin.lozano@udem.edu}{\color{black}} \hspace{1 mm} \faEnvelopeO \hspace{1 mm}{ml143@soas.ac.uk} \href{mailto:ml143@soas.ac.uk}{\color{black}} \hspace{1 mm}
 
-\faGithub \hspace{1 mm}\href{https://github.com/mlozanoqf/}{GitHub} \hspace{1 mm} \faYoutube \hspace{1 mm} \href{http://www.youtube.com/user/drmartinlozano}{YouTube} \hspace{1 mm} \faGlobe \hspace{1 mm} \href{http://sites.google.com/site/mlozanoqf/}{WEB} \hspace{1 mm}
+\faGithub \hspace{1 mm}\href{https://github.com/mlozanoqf/}{GitHub} \hspace{1 mm} \faYoutubePlay \hspace{1 mm} \href{http://www.youtube.com/user/drmartinlozano}{YouTube} \hspace{1 mm} \faGlobe \hspace{1 mm} \href{http://sites.google.com/site/mlozanoqf/}{WEB} \hspace{1 mm}
 \faLinkedinSquare \hspace{1 mm}
 \href{https://linkedin.com/in/martin-lozano-21818a22}{LinkedIn} \hspace{1 mm}
 \aiGoogleScholar \hspace{1 mm} \href{http://scholar.google.com.mx/citations?user=w8boOboAAAAJ}{GoogleScholar} \hspace{1 mm}
