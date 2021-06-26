@@ -31,13 +31,15 @@ urlcolor: blue
 
 # \faBookmark \hspace{1 mm} Expertise.
 
-**Areas of expertise.** Finance, Economics, Statistics, Data Science.
+**Main areas.** Finance, Economics, Statistics, Data Science.
 
-**Computer skills.** Proficient in R, \LaTeX and other languages like Octave, MATLAB, Weka, GGobi. Commercial software like E-Views, Stata, Gretl, SPSS, among others.
+**Programming skills.** Proficient in R. I am familiar with Octave, MATLAB, Python and \LaTeX editors. 
+
+**Computer skills.** Weka, GGobi, E-Views, Stata, Gretl, SPSS, among others.
 
 **Research interests.** Empirical asset pricing; beta and SDF pricing models and tests; financial econometrics; GMM estimation and inference; portfolio allocation models and performance; computational finance; data science applications in business.
 
-**Teaching interests.** Introductory economics (microeconomics, macroeconomics), quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics.
+**Teaching interests.** Introductory economics (microeconomics, macroeconomics), economic analysis, quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics, statistics.
 
 # \faBriefcase \hspace{1 mm} Experience.
 
@@ -397,6 +399,6 @@ Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019)
 
 # \faMusic \hspace{1 mm} Free time.
 
-I love art as the expression of human creativity and imagination. I spend some free time playing my Yamaha digital piano. I also used to be an active keyboardist, piano player, and orchestra director. Most of my experience in this field has been as a musician at live concerts in Mexico and Europe, piano solo concerts, and musicals organized by the Tecnológico de Monterrey for about a decade.
+I love art as the expression of human creativity and imagination. I spend some free time playing my Yamaha digital piano. I used to be an active keyboardist, piano player, and orchestra director. Most of my experience in this field has been as a musician at live concerts in Mexico and Europe, piano solo concerts, and musicals organized by the Tecnológico de Monterrey for about a decade.
 
-I like mostly Spanish painters like Velázquez, Goya, Dalí, Picasso among others. I also like the music of Chick Corea, Wynton Marsalis, Paco de Lucía, among others.
+My top painters: Velázquez, Goya, Dalí, Picasso, R. Tamayo among others. My top musicians: Chick Corea, Wynton Marsalis, Paco de Lucía, among others.
