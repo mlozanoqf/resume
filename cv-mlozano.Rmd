@@ -26,6 +26,8 @@ urlcolor: blue
 \faEnvelopeO \hspace{1 mm}{mlozanoqf@gmail.com} \href{mailto:mlozanoqf@gmail.com}{\color{black}} \hspace{1 mm} \faEnvelopeO \hspace{1 mm}{martin.lozano@udem.edu} \href{mailto:martin.lozano@udem.edu}{\color{black}} \hspace{1 mm} \faEnvelopeO \hspace{1 mm}{ml143@soas.ac.uk} \href{mailto:ml143@soas.ac.uk}{\color{black}} \hspace{1 mm}
 
 \faGithub \hspace{1 mm}\href{https://github.com/mlozanoqf/}{GitHub} \hspace{1 mm} \faYoutube \hspace{1 mm} \href{http://www.youtube.com/user/drmartinlozano}{YouTube} \hspace{1 mm} \faGlobe \hspace{1 mm} \href{http://sites.google.com/site/mlozanoqf/}{WEB} \hspace{1 mm}
+\faLinkedinSquare \hspace{1 mm}
+\href{https://linkedin.com/in/martin-lozano-21818a22}{LinkedIn} \hspace{1 mm}
 \aiGoogleScholar \hspace{1 mm} \href{http://scholar.google.com.mx/citations?user=w8boOboAAAAJ}{GoogleScholar} \hspace{1 mm}
 \aiOpenAccess \hspace{1 mm} \href{http://ssrn.com/AuthorID=1490785}{SSRN}
 
@@ -158,7 +160,7 @@ Several European universities.\
 # \faGraduationCap \hspace{1 mm} Education: Post-graduate.
 
 **Master Degree in Statistical Learning and Data Mining.** \hfill 2019\
-UNED. Spain.
+Universidad Nacional de Educación a Distancia (UNED). Spain.
 
 **Diploma University Expert in Statistical Learning and Data Mining.** \hfill 2019\
 UNED. Spain.
@@ -183,15 +185,15 @@ Tecnológico de Monterrey, Campus Monterrey. México.
 
 # \faSpinner \hspace{1 mm} Profesional training.
 
-1. **Digital Humanities & Research Software Engineering Summer School.** \hfill 2021\
+1. **Digital humanities & research software engineering summer school.** \hfill 2021\
 The Alan Turing Institute. UK.
 2. **Diseño de indicadores para el desarrollo social.** \hfill 2020\
 Consejo Nacional de Evaluación de la Política de Desarrollo Social. México.
 3. **Applications of multi-level models to research policy and higher education studies.** \hfill 2020\
 RISIS (Research Infrastructure for Science and Innovation Policy Studies). Italy.
-4. **Summer School on Data Science for Studying Science, Technology and Innovation.** \hfill 2019\
+4. **Summer school on data science for studying science, technology and innovation.** \hfill 2019\
 RISIS. Strathclyde Business School, Glasgow. UK.
-5. **Proyectos de Inversión en Bienes Inmobiliarios.** \hfill 2019\
+5. **Proyectos de inversión en bienes inmobiliarios.** \hfill 2019\
 Riskmathics. México.
 6. **Faculty training.** \hfill 2015 – 2016\
 Universidad de Monterrey (UDEM). México.
@@ -199,30 +201,30 @@ Universidad de Monterrey (UDEM). México.
 University of Liverpool’s Management School. UK.
 8. **Faculty training.** \hfill 2015\
 University of Roehampton, London Online. UK.
-9. **Course on Panel Data Analysis.** \hfill 2007\
+9. **Course on panel data analysis.** \hfill 2007\
 Instituto de Estudios Fiscales. Spain.
 10. **Teaching techniques: PBL, POL, collaborative learning, case-based method.** \hfill 1999 – 2002\
 Tecnológico de Monterrey, Campus Monterrey. México.
 11. **Ethics across the curriculum.** \hfill 1999\
 Loyola University Chicago.
-12. **Diploma in Economic and Financial Analysis.** \hfill 1998\
+12. **Diploma in economic and financial analysis.** \hfill 1998\
 Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 
 # \faCheckSquare \hspace{1 mm} Certifications in R.
 
-**DataCamp Courses (42):** Introduction to R; Introduction to Importing Data in R; Introduction to R for Finance; Introduction to Writing Functions in R; Importing and Managing Financial Data in R; Intermediate R for Finance; Data Science for Everyone; Foundations of Probability in R; Time Series Analysis in R; Introduction to the Tidyverse; Credit Risk Modeling in R; Manipulating Time Series Data with \texttt{xts} and \texttt{zoo} in R; Intermediate R; Data Manipulation with \texttt{dplyr}; Joining Data with \texttt{dplyr}; Introduction to Data Visualization with \texttt{ggplot2}; Intermediate Data Visualization with \texttt{ggplot2}; Intermediate Importing Data in R; Data Cleaning in R; Working with Data in the Tidyverse; Working with Dates and Times in R; Exploratory Data Analysis in R; Case Study Exploratory Data Analysis in R; Correlation and Regression in R; Supervised Learning in R Classification; Supervised Learning in R: Regression; Unsupervised Learning in R; Cluster Analysis in R; Machine Learning with \texttt{caret} in R; Data Engineering for Everyone; ARIMA Models in R; Forecasting in R; Visualizing Time Series Data in R; Case Studies: Manipulating Time Series Data in R; Introduction to Portfolio Analysis in R; Intermediate Portfolio Analysis in R; Bond Valuation and Analysis in R; Quantitative Risk Management in R; Financial Trading in R; Equity Valuation in R; Life Insurance Products Valuation in R; GARCH Models in R.
+**DataCamp courses (42).** Introduction to R; Introduction to Importing Data in R; Introduction to R for Finance; Introduction to Writing Functions in R; Importing and Managing Financial Data in R; Intermediate R for Finance; Data Science for Everyone; Foundations of Probability in R; Time Series Analysis in R; Introduction to the Tidyverse; Credit Risk Modeling in R; Manipulating Time Series Data with \texttt{xts} and \texttt{zoo} in R; Intermediate R; Data Manipulation with \texttt{dplyr}; Joining Data with \texttt{dplyr}; Introduction to Data Visualization with \texttt{ggplot2}; Intermediate Data Visualization with \texttt{ggplot2}; Intermediate Importing Data in R; Data Cleaning in R; Working with Data in the Tidyverse; Working with Dates and Times in R; Exploratory Data Analysis in R; Case Study Exploratory Data Analysis in R; Correlation and Regression in R; Supervised Learning in R Classification; Supervised Learning in R: Regression; Unsupervised Learning in R; Cluster Analysis in R; Machine Learning with \texttt{caret} in R; Data Engineering for Everyone; ARIMA Models in R; Forecasting in R; Visualizing Time Series Data in R; Case Studies: Manipulating Time Series Data in R; Introduction to Portfolio Analysis in R; Intermediate Portfolio Analysis in R; Bond Valuation and Analysis in R; Quantitative Risk Management in R; Financial Trading in R; Equity Valuation in R; Life Insurance Products Valuation in R; GARCH Models in R.
 
-**DataCamp Skill Tracks (6):** Importing & Cleaning Data with R (4 courses); Finance Basics with R (4 courses); Machine Learning Fundamentals in R (4 courses); Time Series with R (6 courses); Finance Fundamentals in R (6 courses); Applied Finance in R (7 courses).
+**DataCamp skill tracks (6).** Importing & Cleaning Data with R (4 courses); Finance Basics with R (4 courses); Machine Learning Fundamentals in R (4 courses); Time Series with R (6 courses); Finance Fundamentals in R (6 courses); Applied Finance in R (7 courses).
 
-**DataCamp Career Tracks (2):** Data Scientist with R (19 courses); Quantitative Analyst with R (15 courses).
+**DataCamp career tacks (2).** Data Scientist with R (19 courses); Quantitative Analyst with R (15 courses).
 
 # \faShareAlt \hspace{1 mm} Service to the academia.
 
-**Reviewer:** Quarterly Review of Economics and Finance (since 2011); Journal of Banking and Finance (since 2010).
+**Reviewer.** Quarterly Review of Economics and Finance (since 2011); Journal of Banking and Finance (since 2010).
 
-**Editor:** Associate Editor Journal of Accounting, Finance and Economics (since 2014); Munich Paper of RePEc Archive MPRA (2010, 2011); Advances in Management (since 2011).
+**Editor.** Associate Editor Journal of Accounting, Finance and Economics (since 2014); Munich Paper of RePEc Archive MPRA (2010, 2011); Advances in Management (since 2011).
 
-**Scientific and academic committees:** Examiner for MScs and PG Diplomas in Financial and Management Studies University of London International Programmes (2012, 2015, 2016). Examination panel of biannual Finance PhD reviews Manchester Business School (06/2011 and 06/2012). Eastern Finance Association (2009, 2010 and 2012); Midwest Finance Association (2009 and 2010); Southwestern Finance Association (Annual Meetings: 48th and 49th).
+**Scientific and academic committees.** Examiner for MScs and PG Diplomas in Financial and Management Studies University of London International Programmes (2012, 2015, 2016). Examination panel of biannual Finance PhD reviews Manchester Business School (06/2011 and 06/2012). Eastern Finance Association (2009, 2010 and 2012); Midwest Finance Association (2009 and 2010); Southwestern Finance Association (Annual Meetings: 48th and 49th).
 
 # \faCertificate \hspace{1 mm} Awards & honors.
 
