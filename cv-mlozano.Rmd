@@ -89,29 +89,33 @@ Media:
 5.	*Econometrics of asset pricing: methodological review and empirical exercise.* 2009. http://papers.ssrn.com/abstract=1754762
 
 # \faComments \hspace{1 mm} International conferences.
-1. **International Conference of the French Finance Association. Nantes, France.**\hfill May 2021
+
+1. **Econometric Research in Finance (ERFIN) Workshop. Warsaw, Poland.**\hfill September 2021
+SGH Warsaw School of Economics.\
+*Multifactor empirical asset pricing under higher-order moment variations.*
+2. **International Conference of the French Finance Association. Nantes, France.**\hfill May 2021
 Audencia Business School.\
 *Multifactor empirical asset pricing under higher-order moment variations.*
-2. **Frontiers of Factor Investing. UK.**\hfill April 2020\
+3. **Frontiers of Factor Investing. UK.**\hfill April 2020\
 Lancaster University Management School.\
 *Multifactor empirical asset pricing under higher-order moment variations.*
-3. **World Congress of the Econometric Society. Milan, Italy.** \hfill August 2020\
+4. **World Congress of the Econometric Society. Milan, Italy.** \hfill August 2020\
 Bocconi University.\
 *Multifactor empirical asset pricing under higher-order moment variations.*
-4. **Recent Developments in Financial Econometrics and Applications. Australia.** \hfill Jan. 2014\
+5. **Recent Developments in Financial Econometrics and Applications. Australia.** \hfill Jan. 2014\
 Deakin University.\
 *Asset pricing applications.*
-5. **European Financial Management Association. Reading, UK.** \hfill June 2013\
+6. **European Financial Management Association. Reading, UK.** \hfill June 2013\
 University of Reading. Henley Business School.\
 *Portfolio performance of linear SDF models: an out-of-sample assessment.*
-6. **Eastern Finance Association Annual Meeting. Washington D.C., USA.** \hfill May 2009\
+7. **Eastern Finance Association Annual Meeting. Washington D.C., USA.** \hfill May 2009\
 *Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
-7. **Southwestern Finance Association 48th Annual Meeting. Oklahoma City, USA.** \hfill Feb. 2009\
+8. **Southwestern Finance Association 48th Annual Meeting. Oklahoma City, USA.** \hfill Feb. 2009\
 *Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
-8. **XVI Spanish Association of Finance Forum. Barcelona, Spain.**\hfill November 2008\
+9. **XVI Spanish Association of Finance Forum. Barcelona, Spain.**\hfill November 2008\
 ESADE Business School.\
 *Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
-9. **XV Spanish Association of Finance Forum. Palma de Mallorca, Spain.** \hfill November 2007\
+10. **XV Spanish Association of Finance Forum. Palma de Mallorca, Spain.** \hfill November 2007\
 Universitat de les Illes Balears.\
 *Evaluating alternative methods for testing asset pricing models with historical data.*
 
@@ -368,36 +372,37 @@ Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019)
 **Universidad de Monterrey (UDEM).**\hfill 2015 – 2021\
 **Finance, accounting and economics degrees.** 
 
-1.	Guillermo Maldonado Villanueva, Mariana Guadalupe Gauna Escalera, Daniela Villarreal Amparán, Katya Villarreal Elizondo. 2021.
-2.	Mauricio Hernández García, Enrique Fernando Higuera Nafarrate, Carlos Enrique Echavarría Aguilar, Héctor Guillermo González Treviño. 2021.
-3.	Víctor Arnulfo González Campos, Carolina Villarreal Chaccourt, Fernando Chapa Guzmán, Montserrat González Cantú. 2021.
-4.	*Reference portfolio optimization for retirement in México.* Alejandra Barradas Álvarez, Alejandro Flores Gaytán, Andrea Gutiérrez Campos, Ivanna Garza Villarreal. 2021.
-5.	*Determinantes socioeconómicos del logro académico en la prueba pisa 2018: un análisis de regresión multinivel cuantílica para el caso de México.* Daniela Paola García Cruz, Katia Flores García, Norma Patricia Rodríguez Garza, Salvador de Jesús Ramos Rivera. 2020.
-6.	*La inversión en México y sus estados.* Carolina Mata Degollado, Alan Estrada Sáenz, Andrea García Puentes, Bárbara De la Garza Aguiñaga. 2020.
-7.	*Dynamic estimation of corporate bond yields based on the credit risk Merton model: practical implications for Mexican public firms.* María Fernanda Alanís Adame, Ana Daniella Martínez Medina, Mauro Lozano Trujillo. 2020.
-8.	Financial risk analysis for Axtel Corp: contributions to economic literature and recommendations for the company. Javier Cázares Salinas, Regina Marmolejo Torres. 2020.
-9.	*Credit risk.* Paola Alejandra Arizpe Flores, Pamela Alejandra Salinas Delgado, Adrián Delgadillo Miranda, José Marcelo Rosiles Cortés. 2020.
-10.	*Text mining and finance applications.* Aurelio Herrera Alonso, Juan Antonio Chapa Guzmán, Paulina Sarahí González Martínez, David Alejandro Almaguer Galván. 2020.
-11.	*Estrategias de inversión automatizadas basadas en violaciones de la paridad put-call.* Marijose Morales Lozano, María Fernanda González Espinoza, Florencia Ferado Calleros, Esteban Daniel Cauich Montes. 2020.
-12.	*Do irrational investment decisions create value? A tale of 101 artificially created investors.* Andrea Madero Acuña, Franklin R. Garza Tuñón, Daniela Valdez Rodríguez, Valeria Martínez Zambrano. 2019.
-13.	*How trustworthy are robo-advisors to take financial investment decisions?* María Laura Ruiz Peinado, Ana Victoria Garza Montemayor, Ana Fernanda Marroquín Leal, Jorge Alejandro Deux Guerra Saldívar. 2019.
-14.	*A big data approach for non-standardized weather derivatives in the context of insurtech for the Mexican agricultural sector.* Melissa Cavazos De la Rosa, Mariana Yépiz Ojeda, Verónica Daniela Briones Reyes. 2019.
-15.	*Sistema de control interno para empresas del sector inmobiliario en México en el contexto de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.* Estefanía Huerta Ocañas, Maximiliano Nienow González, Alejandro Emmanuel Garza Gauna. 2019.
-16.	*Determinants of attraction In Mexico’s foreign direct investment and their capacity to generate economic growth: The case of profit reinvestment.* Osvaldo Delgado, Héctor Valdés Ramones, Jorge Armando Espinal Landaverde, André González. 2019.
-17.	*Characteristics of the company and macroeconomic variables as determinants of the financial ratios and multiples of Mexican public companies: Implications for the improvement of the fundamental analysis.* Marcela Cristina Beltrán Díaz, Juan Uriel Sarmiento Cordero, Marco Antonio Muhlia Sánchez, Marco Alejandro Rodríguez Torres. 2019.
-18.	*Applying finance and statistics to explain and unveil the poverty determinants in Mexican municipalities.* Hugo Arnoldo Oliva Castillo, Lucía del Carmen Chávez De la Garza, Javier Eugenio Garza Martínez, Kalhid Marcelo García Adam. 2018.
-19.	*Portfolios of individual stocks versus portfolios of investment strategies: a machine learning approach.* Priscila Judith Huerta Sánchez, Katia Gómez Sagui, Martín Murillo Varona, Oscar David Elizondo Espinosa. 2018.
-20.	*Cross-country determinants of corruption and implications for economic policy.* Ana Sofía Villarreal Reyes, Mariana Flores, Ignacio Sánchez Paoli, Mauricio Rumbaut Canales. 2018.
-21.	*A proposal for a credit risk metric for private firms.* Kareeme Yuvisela Dávila Cisneros, Melissa Montserrat Copado López, Marco Antonio Infante Rodríguez, Juan Pablo Barradas. 2018.
-22.	*Introducing the weighted forward-looking volatility index: construction and empirical application.* Patricia Perches Carrillo, Liliana Juárez González, Elena Gaitán Álvarez, Iris Giovanna Masante Muñiz. 2017.
-23.	*An innovative credit risk estimation: implications for the credit risk rating market.* Regina Marcela Marta Varela, María Fernanda Herrera Quiroga, Marcelo Adrián Pérez Ayala, Juan Pablo González Martínez. 2017.
-24.	*Contraste de anomalías en el mercado mexicano: Implicaciones para el inversionista.* Daniela Castillo Gutiérrez, María Begoña Domínguez Ortega, Sonia María Leal Cárcamo, Mariana Itzel De la Rosa Reyes. 2017. Presented at: 1er. Coloquio de Jóvenes Investigadores: Gestión de la Innovación para el Desarrollo Sostenible de los Negocios 2017.
-25.	*Competitiveness patterns in Mexican microenterprises: Implications for credit risk models.* Itziar Olóriz De la Garza, Armando Víctor González Valdés, Jorge Edgardo Sánchez Garza, Pedro Cedillo Martínez. 2017.
-26.	*Impact on the US monetary policy on Mexican investment strategies.* Karen Beatriz Montoya Ortiz, Iris Aide Salinas Martínez, Elías Castro Flores, José Valero. 2016.
-27.	*Realized performance of investment preferences: The case of home bias puzzle conditioned on exchange rate volatility.* Magaly Carolina Pérez Martínez, Alejandra García Villarreal, Alejandra Prezas Martínez, Christopher Ledezma González. 2016.
-28.	Tutor for the honors program in leadership. Magaly Carolina Pérez Martínez. 2016.
-29.	*Trends and analysis of the incorporation of the peer-to-peer markets in the economic sectors of México.* Gabriela Romeroll Angulo, Cynthia Alejandra De la Vega Oates, Dulce María Pérez Acosta, Marco Antonio Hernández Díaz. 2016.
-30.	*Performance evaluation of investment strategies based on automated technical analysis algorithms.* Carlos Andrés Gutiérrez Mendivil, Danya Cecilia Martínez Ramírez, Paulina Torres Treviño, Ana María Barrera Portillo. 2016.
+1.	María Fernanda Posada Leal, Aleydis Schauer, José Alfredo Zamora González, Rodrigo López Morales. 2022.
+2.	Guillermo Maldonado Villanueva, Mariana Guadalupe Gauna Escalera, Daniela Villarreal Amparán, Katya Villarreal Elizondo. 2021.
+3.	Lourdes Sofía Elizondo Guajardo, Daniela Díaz Delgado, Bernardo Ortega Chávez, Gabriel González Bataller. 2021.
+4.	Víctor Arnulfo González Campos, Carolina Villarreal Chaccourt, Fernando Chapa Guzmán, Montserrat González Cantú. 2021.
+5.	*Reference portfolio optimization for retirement in México.* Alejandra Barradas Álvarez, Alejandro Flores Gaytán, Andrea Gutiérrez Campos, Ivanna Garza Villarreal. 2021.
+6.	*Determinantes socioeconómicos del logro académico en la prueba pisa 2018: un análisis de regresión multinivel cuantílica para el caso de México.* Daniela Paola García Cruz, Katia Flores García, Norma Patricia Rodríguez Garza, Salvador de Jesús Ramos Rivera. 2020.
+7.	*La inversión en México y sus estados.* Carolina Mata Degollado, Alan Estrada Sáenz, Andrea García Puentes, Bárbara De la Garza Aguiñaga. 2020.
+8.	*Dynamic estimation of corporate bond yields based on the credit risk Merton model: practical implications for Mexican public firms.* María Fernanda Alanís Adame, Ana Daniella Martínez Medina, Mauro Lozano Trujillo. 2020.
+9.	Financial risk analysis for Axtel Corp: contributions to economic literature and recommendations for the company. Javier Cázares Salinas, Regina Marmolejo Torres. 2020.
+10.	*Credit risk.* Paola Alejandra Arizpe Flores, Pamela Alejandra Salinas Delgado, Adrián Delgadillo Miranda, José Marcelo Rosiles Cortés. 2020.
+11.	*Text mining and finance applications.* Aurelio Herrera Alonso, Juan Antonio Chapa Guzmán, Paulina Sarahí González Martínez, David Alejandro Almaguer Galván. 2020.
+12.	*Estrategias de inversión automatizadas basadas en violaciones de la paridad put-call.* Marijose Morales Lozano, María Fernanda González Espinoza, Florencia Ferado Calleros, Esteban Daniel Cauich Montes. 2020.
+13.	*Do irrational investment decisions create value? A tale of 101 artificially created investors.* Andrea Madero Acuña, Franklin R. Garza Tuñón, Daniela Valdez Rodríguez, Valeria Martínez Zambrano. 2019.
+14.	*How trustworthy are robo-advisors to take financial investment decisions?* María Laura Ruiz Peinado, Ana Victoria Garza Montemayor, Ana Fernanda Marroquín Leal, Jorge Alejandro Deux Guerra Saldívar. 2019.
+15.	*A big data approach for non-standardized weather derivatives in the context of insurtech for the Mexican agricultural sector.* Melissa Cavazos De la Rosa, Mariana Yépiz Ojeda, Verónica Daniela Briones Reyes. 2019.
+16.	*Sistema de control interno para empresas del sector inmobiliario en México en el contexto de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.* Estefanía Huerta Ocañas, Maximiliano Nienow González, Alejandro Emmanuel Garza Gauna. 2019.
+17.	*Determinants of attraction In Mexico’s foreign direct investment and their capacity to generate economic growth: The case of profit reinvestment.* Osvaldo Delgado, Héctor Valdés Ramones, Jorge Armando Espinal Landaverde, André González. 2019.
+18.	*Characteristics of the company and macroeconomic variables as determinants of the multiples and financial ratios of Mexican public companies.* Marcela Cristina Beltrán Díaz, Juan Uriel Sarmiento Cordero, Marco Antonio Muhlia Sánchez, Marco Alejandro Rodríguez Torres. 2019+.
+19.	*Applying finance and statistics to explain and unveil the poverty determinants in Mexican municipalities.* Hugo Arnoldo Oliva Castillo, Lucía del Carmen Chávez De la Garza, Javier Eugenio Garza Martínez, Kalhid Marcelo García Adam. 2018.
+20.	*Portfolios of individual stocks versus portfolios of investment strategies: a machine learning approach.* Priscila Judith Huerta Sánchez, Katia Gómez Sagui, Martín Murillo Varona, Oscar David Elizondo Espinosa. 2018.
+21.	*Cross-country determinants of corruption and implications for economic policy.* Ana Sofía Villarreal Reyes, Mariana Flores, Ignacio Sánchez Paoli, Mauricio Rumbaut Canales. 2018.
+22.	*A proposal for a credit risk metric for private firms.* Kareeme Yuvisela Dávila Cisneros, Melissa Montserrat Copado López, Marco Antonio Infante Rodríguez, Juan Pablo Barradas. 2018.
+23.	*Introducing the weighted forward-looking volatility index: construction and empirical application.* Patricia Perches Carrillo, Liliana Juárez González, Elena Gaitán Álvarez, Iris Giovanna Masante Muñiz. 2017.
+24.	*An innovative credit risk estimation: implications for the credit risk rating market.* Regina Marcela Marta Varela, María Fernanda Herrera Quiroga, Marcelo Adrián Pérez Ayala, Juan Pablo González Martínez. 2017.
+25.	*Contraste de anomalías en el mercado mexicano: Implicaciones para el inversionista.* Daniela Castillo Gutiérrez, María Begoña Domínguez Ortega, Sonia María Leal Cárcamo, Mariana Itzel De la Rosa Reyes. 2017. Presented at: 1er. Coloquio de Jóvenes Investigadores: Gestión de la Innovación para el Desarrollo Sostenible de los Negocios 2017.
+26.	*Competitiveness patterns in Mexican microenterprises: Implications for credit risk models.* Itziar Olóriz De la Garza, Armando Víctor González Valdés, Jorge Edgardo Sánchez Garza, Pedro Cedillo Martínez. 2017.
+27.	*Impact on the US monetary policy on Mexican investment strategies.* Karen Beatriz Montoya Ortiz, Iris Aide Salinas Martínez, Elías Castro Flores, José Valero. 2016.
+28.	*Realized performance of investment preferences: The case of home bias puzzle conditioned on exchange rate volatility.* Magaly Carolina Pérez Martínez, Alejandra García Villarreal, Alejandra Prezas Martínez, Christopher Ledezma González. 2016.
+29.	Tutor for the honors program in leadership. Magaly Carolina Pérez Martínez. 2016.
+30.	*Trends and analysis of the incorporation of the peer-to-peer markets in the economic sectors of México.* Gabriela Romeroll Angulo, Cynthia Alejandra De la Vega Oates, Dulce María Pérez Acosta, Marco Antonio Hernández Díaz. 2016.
+31.	*Performance evaluation of investment strategies based on automated technical analysis algorithms.* Carlos Andrés Gutiérrez Mendivil, Danya Cecilia Martínez Ramírez, Paulina Torres Treviño, Ana María Barrera Portillo. 2016.
 
 # \faMusic \hspace{1 mm} Free time.
 
