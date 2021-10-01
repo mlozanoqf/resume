@@ -41,7 +41,7 @@ urlcolor: blue
 
 **Research interests.** Empirical asset pricing; beta and SDF pricing models and tests; financial econometrics; GMM estimation and inference; portfolio allocation models and performance; computational finance; data science applications in business.
 
-**Teaching interests.** Introductory economics (microeconomics, macroeconomics), economic analysis, quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics, statistics.
+**Teaching interests.** Introductory economics (microeconomics, macroeconomics), economic analysis, quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics, statistics, innovation.
 
 # \faBriefcase \hspace{1 mm} Experience.
 
@@ -100,7 +100,7 @@ Audencia Business School.\
 Lancaster University Management School.\
 *Multifactor empirical asset pricing under higher-order moment variations.*
 4. **World Congress of the Econometric Society. Milan, Italy.** \hfill August 2020\
-Bocconi University.\
+The Econometric Society and Bocconi University.\
 *Multifactor empirical asset pricing under higher-order moment variations.*
 5. **Recent Developments in Financial Econometrics and Applications. Australia.** \hfill Jan. 2014\
 Deakin University.\
@@ -122,7 +122,7 @@ Universitat de les Illes Balears.\
 # \faCommenting \hspace{1 mm} Research seminars.
 1. **University of Liverpool. Management School Seminar Series. UK.** \hfill November 2019\
 Multifactor empirical asset pricing under higher-order moment variations.
-2. **University College Dublin. Seminar Series. UK.** \hfill December 2019\
+2. **University College Dublin. Seminar Series. Ireland.** \hfill December 2019\
 Multifactor empirical asset pricing under higher-order moment variations.
 3. **Instituto de Contadores Públicos de Nuevo León ICPNL. México.** \hfill July 2017\
 Portfolio choice in the presence of estimation error: A pricing model filter approach.
@@ -157,9 +157,9 @@ Testing asset pricing models.
 University of the Basque Country. Spain.\
 Inter-university programme including Universidad de Valencia, Universidad Complutense de Madrid, Universidad del País Vasco, Universidad Carlos III de Madrid. *Supervisor: Prof. Gonzalo Rubio (Universidad CEU Cardenal Herrera). Internal: Prof. Alfonso Novales (Universidad Complutense de Madrid). PhD committee members: Dr. María Victoria Esteban (Universidad del País Vasco); Prof.  Ángel Pardo (Universidad de Valencia); Dr. Rosa Rodríguez (Universidad Carlos III de Madrid); External: Dr. Iñaki Rodríguez (University of Tromsø).*
 
-**Doctor *Europaeus* mention.** \hfill 2009\
-Several European universities.\
-*Supporting external reports from: Prof. Stuart Hyde (Manchester Business School); Dr. Angélica González (University of Edinburgh); Prof. Richard Stehle (Humboldt University); Dr. Andreas Schrimpf (Aarhus University); Prof. Leopold Sögner (University of Vienna); Dr. Valerio Potì (Dublin City University); Prof. Marcelo Fernandes (Queen Mary, University of London); Prof. Paul Söderlind (University of St. Gallen).*
+**Doctor *Europaeus* mention.** \hfill 2010\
+European University Association.\
+*Supporting reviews by: Dr. Angélica González (University of Edinburgh) and Prof. Leopold Sögner (University of Vienna). Additional external reports from: Prof. Stuart Hyde (Manchester Business School); Prof. Richard Stehle (Humboldt University); Dr. Andreas Schrimpf (Aarhus University); Dr. Valerio Potì (Dublin City University); Prof. Marcelo Fernandes (Queen Mary, University of London); Prof. Paul Söderlind (University of St. Gallen).*
 
 # \faGraduationCap \hspace{1 mm} Education: Post-graduate.
 
@@ -189,29 +189,31 @@ Tecnológico de Monterrey, Campus Monterrey. México.
 
 # \faSpinner \hspace{1 mm} Profesional training.
 
-1. **Digital humanities & research software engineering summer school.** \hfill 2021\
+1. **Science, technology and innovation policy evaluation.**\hfill 2021\
+Manchester Institute of Innovation Research (MIOIR). UK.
+2. **Digital humanities & research software engineering summer school.** \hfill 2021\
 The Alan Turing Institute. UK.
-2. **Diseño de indicadores para el desarrollo social.** \hfill 2020\
+3. **Diseño de indicadores para el desarrollo social.** \hfill 2020\
 Consejo Nacional de Evaluación de la Política de Desarrollo Social. México.
-3. **Applications of multi-level models to research policy and higher education studies.** \hfill 2020\
+4. **Applications of multi-level models to research policy and higher education studies.** \hfill 2020\
 RISIS (Research Infrastructure for Science and Innovation Policy Studies). Italy.
-4. **Summer school on data science for studying science, technology and innovation.** \hfill 2019\
+5. **Summer school on data science for studying science, technology and innovation.** \hfill 2019\
 RISIS. Strathclyde Business School, Glasgow. UK.
-5. **Proyectos de inversión en bienes inmobiliarios.** \hfill 2019\
+6. **Proyectos de inversión en bienes inmobiliarios.** \hfill 2019\
 Riskmathics. México.
-6. **Faculty training.** \hfill 2015 – 2016\
+7. **Faculty training.** \hfill 2015 – 2016\
 Universidad de Monterrey (UDEM). México.
-7. **Faculty training.** \hfill 2015\
-University of Liverpool’s Management School. UK.
 8. **Faculty training.** \hfill 2015\
+University of Liverpool’s Management School. UK.
+9. **Faculty training.** \hfill 2015\
 University of Roehampton, London Online. UK.
-9. **Course on panel data analysis.** \hfill 2007\
+10. **Course on panel data analysis.** \hfill 2007\
 Instituto de Estudios Fiscales. Spain.
-10. **Teaching techniques: PBL, POL, collaborative learning, case-based method.** \hfill 1999 – 2002\
+11. **Teaching techniques: PBL, POL, collaborative learning, case-based method.** \hfill 1999 – 2002\
 Tecnológico de Monterrey, Campus Monterrey. México.
-11. **Ethics across the curriculum.** \hfill 1999\
+12. **Ethics across the curriculum.** \hfill 1999\
 Loyola University Chicago.
-12. **Diploma in economic and financial analysis.** \hfill 1998\
+13. **Diploma in economic and financial analysis.** \hfill 1998\
 Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 
 # \faCheckSquare \hspace{1 mm} Certifications in R.
@@ -308,7 +310,7 @@ Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019)
 **University of London, School of Oriental and African Studies.** \hfill 2012 – current\
 **MSc in Quantitative Finance and MSc in Economic Policy.**
 
-2. Saori Yamaguchi. MSc in Quantitative Finance. 2021.
+2. *A bubble identification for the Nikkei 225.* Saori Yamaguchi. MSc in Quantitative Finance. 2021.
 3. *Predicting sector volatility with GARCH models and artificial neural networks.* Curtis Nybo. 2020. MSc in Quantitative Finance.
 4. *Analysis and Monitor Retail Credit Risk using Machine Learning.* Jin Wang. MSc in Quantitative Finance. 2020.
 5. *Determinants of the UK current account: a NARDL approach.* Laura Thomson. MSc in Quantitative Finance. 2019. MSc Finance (Economic Policy).
@@ -346,7 +348,7 @@ Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019)
 # \faEye \hspace{1 mm} Supervision: MBA (17).
 **The University of Manchester. Full-Time MBA.**\hfill 2012
 
-1.	*Not for Profit MBA Project.* Jorge Alvarez, Adriana Castellares, Kelly Higgins, Niyati Jhalaria, Siamnat Panassorn.
+1.	*Not for Profit MBA Project: Sustainability of SafeBase (After Adoption).* Jorge Alvarez, Adriana Castellares, Kelly Higgins, Niyati Jhalaria, Siamnat Panassorn.
 
 **The University of Manchester. Global MBA.**\hfill 2012 – 2018
 
@@ -369,18 +371,18 @@ Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019)
 
 
 # \faEye \hspace{1 mm} Supervision: Undergraduate (30).
-**Universidad de Monterrey (UDEM).**\hfill 2015 – 2021\
+**Universidad de Monterrey (UDEM).**\hfill 2015 – 2022\
 **Finance, accounting and economics degrees.** 
 
 1.	María Fernanda Posada Leal, Aleydis Schauer, José Alfredo Zamora González, Rodrigo López Morales. 2022.
 2.	Guillermo Maldonado Villanueva, Mariana Guadalupe Gauna Escalera, Daniela Villarreal Amparán, Katya Villarreal Elizondo. 2021.
-3.	Lourdes Sofía Elizondo Guajardo, Daniela Díaz Delgado, Bernardo Ortega Chávez, Gabriel González Bataller. 2021.
+3.	*Delinquency rate determinants in the Mexican housing credit market: a regional analysis.* Lourdes Sofía Elizondo Guajardo, Daniela Díaz Delgado, Bernardo Ortega Chávez, Gabriel González Bataller. 2021.
 4.	Víctor Arnulfo González Campos, Carolina Villarreal Chaccourt, Fernando Chapa Guzmán, Montserrat González Cantú. 2021.
 5.	*Reference portfolio optimization for retirement in México.* Alejandra Barradas Álvarez, Alejandro Flores Gaytán, Andrea Gutiérrez Campos, Ivanna Garza Villarreal. 2021.
 6.	*Determinantes socioeconómicos del logro académico en la prueba pisa 2018: un análisis de regresión multinivel cuantílica para el caso de México.* Daniela Paola García Cruz, Katia Flores García, Norma Patricia Rodríguez Garza, Salvador de Jesús Ramos Rivera. 2020.
 7.	*La inversión en México y sus estados.* Carolina Mata Degollado, Alan Estrada Sáenz, Andrea García Puentes, Bárbara De la Garza Aguiñaga. 2020.
 8.	*Dynamic estimation of corporate bond yields based on the credit risk Merton model: practical implications for Mexican public firms.* María Fernanda Alanís Adame, Ana Daniella Martínez Medina, Mauro Lozano Trujillo. 2020.
-9.	Financial risk analysis for Axtel Corp: contributions to economic literature and recommendations for the company. Javier Cázares Salinas, Regina Marmolejo Torres. 2020.
+9.	*Financial risk analysis for Axtel Corp: contributions to economic literature and recommendations for the company.* Javier Cázares Salinas, Regina Marmolejo Torres. 2020.
 10.	*Credit risk.* Paola Alejandra Arizpe Flores, Pamela Alejandra Salinas Delgado, Adrián Delgadillo Miranda, José Marcelo Rosiles Cortés. 2020.
 11.	*Text mining and finance applications.* Aurelio Herrera Alonso, Juan Antonio Chapa Guzmán, Paulina Sarahí González Martínez, David Alejandro Almaguer Galván. 2020.
 12.	*Estrategias de inversión automatizadas basadas en violaciones de la paridad put-call.* Marijose Morales Lozano, María Fernanda González Espinoza, Florencia Ferado Calleros, Esteban Daniel Cauich Montes. 2020.
