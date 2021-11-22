@@ -209,7 +209,7 @@ Tecnológico de Monterrey, Campus Monterrey. México.
 
 # \faSpinner \hspace{1 mm} Profesional training.
 
-1. **Norges Bank-CEPR workshop: Frontier research in banking**\hfill 2021\
+1. **Norges Bank-CEPR workshop: Frontier research in banking.**\hfill 2021\
 Christiania Qvartalet Meeting Center, Oslo. Norway.
 2. **Carbon literacy training for business schools.**\hfill 2021\
 Nottingham Business School; UN PRME Champions; and The Carbon Literacy Project.
