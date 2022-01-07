@@ -209,37 +209,43 @@ Tecnológico de Monterrey, Campus Monterrey. México.
 
 # \faSpinner \hspace{1 mm} Profesional training.
 
-1. **Norges Bank-CEPR workshop: Frontier research in banking.**\hfill 2021\
+1. **Synthetic data for privacy, security and augmentation.**\hfill 2022\
+ART-AI. University of Bath.
+2. **Computer vision.**\hfill 2022\
+Duke Machine Learning Winter School. Duke University.
+3. **Dealing with heteroscedasticity and other issues in regressions about scaling.**\hfill 2022\
+Methods in Action. USI – Università della Svizzera Italiana. Italy.
+4. **Norges Bank-CEPR workshop: Frontier research in banking.**\hfill 2021\
 Christiania Qvartalet Meeting Center, Oslo. Norway.
-2. **Carbon literacy training for business schools.**\hfill 2021\
+5. **Carbon literacy training for business schools.**\hfill 2021\
 Nottingham Business School; UN PRME Champions; and The Carbon Literacy Project.
-3. **Diplomado: Introducción a las migraciones internacionales.**\hfill 2021\
+6. **Diplomado: Introducción a las migraciones internacionales.**\hfill 2021\
 Universidad Complutense de Madrid & Instituto Complutense de Estudios Internacionales. Spain.
-4. **Science, technology and innovation policy evaluation.**\hfill 2021\
+7. **Science, technology and innovation policy evaluation.**\hfill 2021\
 Manchester Institute of Innovation Research (MIOIR). UK.
-5. **Digital humanities & research software engineering summer school.** \hfill 2021\
+8. **Digital humanities & research software engineering summer school.** \hfill 2021\
 The Alan Turing Institute. UK.
-6. **Diseño de indicadores para el desarrollo social.** \hfill 2020\
+9. **Diseño de indicadores para el desarrollo social.** \hfill 2020\
 Consejo Nacional de Evaluación de la Política de Desarrollo Social. México.
-7. **Applications of multi-level models to research policy and higher education studies.** \hfill 2020\
+10. **Applications of multi-level models to research policy and higher education studies.** \hfill 2020\
 RISIS (Research Infrastructure for Science and Innovation Policy Studies). Italy.
-8. **Summer school on data science for studying science, technology and innovation.** \hfill 2019\
+11. **Summer school on data science for studying science, technology and innovation.** \hfill 2019\
 RISIS. Strathclyde Business School, Glasgow. UK.
-9. **Proyectos de inversión en bienes inmobiliarios.** \hfill 2019\
+12. **Proyectos de inversión en bienes inmobiliarios.** \hfill 2019\
 Riskmathics. México.
-10. **Faculty training.** \hfill 2015 – 2016\
+13. **Faculty training.** \hfill 2015 – 2016\
 Universidad de Monterrey (UDEM). México.
-11. **Faculty training.** \hfill 2015\
+14. **Faculty training.** \hfill 2015\
 University of Liverpool’s Management School. UK.
-12. **Faculty training.** \hfill 2015\
+15. **Faculty training.** \hfill 2015\
 University of Roehampton, London Online. UK.
-13. **Course on panel data analysis.** \hfill 2007\
+16. **Course on panel data analysis.** \hfill 2007\
 Instituto de Estudios Fiscales. Spain.
-14. **Teaching techniques: PBL, POL, collaborative learning, case-based method.** \hfill 1999 – 2002\
+17. **Teaching techniques: PBL, POL, collaborative learning, case-based method.** \hfill 1999 – 2002\
 Tecnológico de Monterrey, Campus Monterrey. México.
-15. **Ethics across the curriculum.** \hfill 1999\
+18. **Ethics across the curriculum.** \hfill 1999\
 Loyola University Chicago.
-16. **Diploma in economic and financial analysis.** \hfill 1998\
+19. **Diploma in economic and financial analysis.** \hfill 1998\
 Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 
 \hspace{1 mm}
@@ -267,17 +273,18 @@ Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 # \faCertificate \hspace{1 mm} Awards & honors.
 
 1. UDEM. Member of the research committee CIDINE. \hfill 2015 – current
-2. UDEM. President of the academia of finance. \hfill 2016 – 2019
-3. UDEM. Claustro universitario X. \hfill 2017 – 2018 
-4. UDEM. Finalist *Ser Sobresaliente 2016* award. \hfill 2016
-5. Sistema de Expertos de Educación Ejecutiva del Tecnológico de Monterrey. \hfill 2015 – 2020
-6. Listed on SSRN’s top ten download list. \hfill 2011
-7. European Community Framework Programme Marie Curie fellowship. UK. \hfill 2007 – 2008
-8. Basque Government mobility grant. Spain. \hfill 2007
-9. University of the Basque Country doctoral fellowship. Spain. \hfill 2005 – 2007
-10. BBVA Foundation doctoral fellowship. Spain. \hfill 2004 – 2005
-11. Universidad Virtual, Tecnológico de Monterrey. Academic senator member: \hfill 2003
-12. EGADE Business School MSc fellowship. México. \hfill 2000 – 2002
+2. UDEM. Nominated as "Profesor sobresaliente" (business school). \hfill 2019
+3. UDEM. President of the academia of finance. \hfill 2016 – 2019
+4. UDEM. Claustro universitario X. \hfill 2017 – 2018 
+5. UDEM. Finalist *Ser Sobresaliente 2016* award. \hfill 2016
+6. Sistema de Expertos de Educación Ejecutiva del Tecnológico de Monterrey. \hfill 2015 – 2020
+7. Listed on SSRN’s top ten download list. \hfill 2011
+8. European Community Framework Programme Marie Curie fellowship. UK. \hfill 2007 – 2008
+9. Basque Government mobility grant. Spain. \hfill 2007
+10. University of the Basque Country doctoral fellowship. Spain. \hfill 2005 – 2007
+11. BBVA Foundation doctoral fellowship. Spain. \hfill 2004 – 2005
+12. Universidad Virtual, Tecnológico de Monterrey. Academic senator member: \hfill 2003
+13. EGADE Business School MSc fellowship. México. \hfill 2000 – 2002
 
 \hspace{1 mm}
 
