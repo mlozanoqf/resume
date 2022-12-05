@@ -26,10 +26,10 @@ urlcolor: blue
 
 \faEnvelopeO \hspace{1 mm}{mlozanoqf@gmail.com} \href{mailto:mlozanoqf@gmail.com}{\color{black}} \hspace{1 mm} \faEnvelopeO \hspace{1 mm}{martin.lozano@udem.edu} \href{mailto:martin.lozano@udem.edu}{\color{black}} \hspace{1 mm} \faEnvelopeO \hspace{1 mm}{ml143@soas.ac.uk} \href{mailto:ml143@soas.ac.uk}{\color{black}} \hspace{1 mm}
 
-\faGithub \hspace{1 mm}\href{https://github.com/mlozanoqf/}{GitHub} \hspace{1 mm} \faYoutubePlay \hspace{1 mm} \href{http://www.youtube.com/user/drmartinlozano}{YouTube} \hspace{1 mm} \faGlobe \hspace{1 mm} \href{http://sites.google.com/site/mlozanoqf/}{WEB} \hspace{1 mm}
+\faGithub \hspace{1 mm}\href{https://github.com/mlozanoqf/}{GitHub} \hspace{1 mm} \faYoutubePlay \hspace{1 mm} \href{http://www.youtube.com/user/drmartinlozano}{YouTube} \hspace{1 mm} \faGithubSquare \hspace{1 mm} \href{https://mlozanoqf.github.io/}{GitHub Pages} \hspace{1 mm} \faGlobe \hspace{1 mm} \href{http://sites.google.com/site/mlozanoqf/}{Web} \hspace{1 mm}
 \faLinkedinSquare \hspace{1 mm}
 \href{https://linkedin.com/in/martin-lozano-21818a22}{LinkedIn} \hspace{1 mm}
-\aiGoogleScholar \hspace{1 mm} \href{http://scholar.google.com.mx/citations?user=w8boOboAAAAJ}{GoogleScholar} \hspace{1 mm}
+\aiGoogleScholar \hspace{1 mm} \href{http://scholar.google.com.mx/citations?user=w8boOboAAAAJ}{Google Scholar} \hspace{1 mm}
 \aiOpenAccess \hspace{1 mm} \href{http://ssrn.com/AuthorID=1490785}{SSRN}
 
 \hspace{1 mm}
@@ -217,47 +217,51 @@ Tecnológico de Monterrey, Campus Monterrey. México.
 
 # \faSpinner \hspace{1 mm} Profesional training.
 
-1. **Spatial models for estimating determinants of regional knowledge creation.**\hfill 2022\
+1. **Training on the European tertiary education register (ETER)**\hfill 2022\
+European Tertiary Education Register. Università della Svizzera italiana.
+2. **Evaluación de políticas y programas públicos.**\hfill 2022\
+Secretaría de Hacienda y Crédito Público SHCP. México.
+3. **Spatial models for estimating determinants of regional knowledge creation.**\hfill 2022\
 Methods in Action. AIT Austrian Institute of Technology.
-2. **Introduction to sustainable finance.**\hfill 2022\
+4. **Introduction to sustainable finance.**\hfill 2022\
 United Nations Climate Change Learning Partnership (UN CC:Learn).
-3. **Synthetic data for privacy, security and augmentation.**\hfill 2022\
+5. **Synthetic data for privacy, security and augmentation.**\hfill 2022\
 ART-AI. University of Bath.
-4. **Computer vision.**\hfill 2022\
+6. **Computer vision.**\hfill 2022\
 Duke Machine Learning Winter School. Duke University.
-5. **Dealing with heteroscedasticity and other issues in regressions about scaling.**\hfill 2022\
+7. **Dealing with heteroscedasticity and other issues in regressions about scaling.**\hfill 2022\
 Methods in Action. USI – Università della Svizzera Italiana. Lugano, Switzerland.
-6. **Norges Bank-CEPR workshop: Frontier research in banking.**\hfill 2021\
+8. **Norges Bank-CEPR workshop: Frontier research in banking.**\hfill 2021\
 Christiania Qvartalet Meeting Center, Oslo. Norway.
-7. **Carbon literacy training for business schools.**\hfill 2021\
+9. **Carbon literacy training for business schools.**\hfill 2021\
 Nottingham Business School; UN PRME Champions; and The Carbon Literacy Project.
-8. **Diplomado: Introducción a las migraciones internacionales.**\hfill 2021\
+10. **Diplomado: Introducción a las migraciones internacionales.**\hfill 2021\
 Universidad Complutense de Madrid & Instituto Complutense de Estudios Internacionales. Spain.
-9. **Science, technology and innovation policy evaluation.**\hfill 2021\
+11. **Science, technology and innovation policy evaluation.**\hfill 2021\
 Manchester Institute of Innovation Research (MIOIR). UK.
-10. **Digital humanities & research software engineering summer school.** \hfill 2021\
+12. **Digital humanities & research software engineering summer school.** \hfill 2021\
 The Alan Turing Institute. UK.
-11. **Diseño de indicadores para el desarrollo social.** \hfill 2020\
+13. **Diseño de indicadores para el desarrollo social.** \hfill 2020\
 Consejo Nacional de Evaluación de la Política de Desarrollo Social. México.
-12. **Applications of multi-level models to research policy and higher education studies.** \hfill 2020\
+14. **Applications of multi-level models to research policy and higher education studies.** \hfill 2020\
 RISIS (Research Infrastructure for Science and Innovation Policy Studies). Italy.
-13. **Summer school on data science for studying science, technology and innovation.** \hfill 2019\
+15. **Summer school on data science for studying science, technology and innovation.** \hfill 2019\
 RISIS. Strathclyde Business School, Glasgow. UK.
-14. **Proyectos de inversión en bienes inmobiliarios.** \hfill 2019\
+16. **Proyectos de inversión en bienes inmobiliarios.** \hfill 2019\
 Riskmathics. México.
-15. **Faculty training.** \hfill 2015 – 2016\
+17. **Faculty training.** \hfill 2015 – 2016\
 Universidad de Monterrey (UDEM). México.
-16. **Faculty training.** \hfill 2015\
+18. **Faculty training.** \hfill 2015\
 University of Liverpool’s Management School. UK.
-17. **Faculty training.** \hfill 2015\
+19. **Faculty training.** \hfill 2015\
 University of Roehampton, London Online. UK.
-18. **Course on panel data analysis.** \hfill 2007\
+20. **Course on panel data analysis.** \hfill 2007\
 Instituto de Estudios Fiscales. Spain.
-19. **Teaching techniques: PBL, POL, collaborative learning, case-based method.** \hfill 1999 – 2002\
+21. **Teaching techniques: PBL, POL, collaborative learning, case-based method.** \hfill 1999 – 2002\
 Tecnológico de Monterrey, Campus Monterrey. México.
-20. **Ethics across the curriculum.** \hfill 1999\
+22. **Ethics across the curriculum.** \hfill 1999\
 Loyola University Chicago.
-21. **Diploma in economic and financial analysis.** \hfill 1998\
+23. **Diploma in economic and financial analysis.** \hfill 1998\
 Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 
 \hspace{1 mm}
@@ -286,7 +290,7 @@ Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 
 1. UN Climate Change Conference UK. Coventry University. Certified as *carbon literate*. \hfill 2022
 *This certification is part of the Carbon Literacy standard. Unlike other training courses, the Carbon Literacy certificate is not just a recognition of participation. The certificate transforms the course from an educational tool into a recognised qualification and represents a robust understanding of the climate context of each learner’s day-to-day life, and a commitment to recognise ways to adjust our behaviour to reduce our carbon footprint, as well as influencing our social and professional circles.*
-2. UDEM. Member of the research committee CIDINE. \hfill 2015 – current
+2. UDEM. Member of the research committee CIDINE. \hfill 2015 – 2022
 3. UDEM. Nominated as "Profesor sobresaliente" (business school). \hfill 2019
 4. UDEM. President of the academia of finance. \hfill 2016 – 2019
 5. UDEM. Claustro universitario X. \hfill 2017 – 2018 
@@ -438,46 +442,50 @@ Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019)
 
 \hspace{1 mm}
 
-# \faEye \hspace{1 mm} Supervision: Undergraduate (35).
-**Universidad de Monterrey (UDEM).**\hfill 2015 – 2022\
+# \faEye \hspace{1 mm} Supervision: Undergraduate (40).
+**Universidad de Monterrey (UDEM).**\hfill 2015 – 2023\
 **Finance, accounting and economics degrees.** 
 
-1. Saulh Andre Gómez Rodríguez, Miranda Lizeth Porras Reyes, Karla Paola Castillón Garza, Carla Lucía Salinas Garza. 2022.
-2. Eugenio Felipe Pérez Villarreal. 2022.
-3. David Eduardo Colunga Amador, Ericka Ivonne Hinojosa Ortega, Florencia García Saucedo, Ludivina Martínez Aldape. 2022.
-4. Marcelo Alanís Álvarez, Celeste Aida Martínez Ortíz, Graciela García Colin Fonseca, Karla Mariana Sepúlveda Cuevas. 2022.
-5.	Tutor for the honors program in leadership 16th edition. Paulina Garza García. 2022.
-6.	*New evidence on equity fund performance: A trivariate sort of drivers approach.* María Fernanda Posada Leal, Aleydis Schauer Tinajero, José Alfredo Zamora González, Rodrigo López Morales. 2022.
-7.	*One size does not fit all: WACC distribution to improve investment decision making.* Guillermo Maldonado Villanueva, Mariana Guadalupe Gauna Escalera, Daniela Villarreal Amparán, Katya Villarreal Elizondo. 2021.
-8.	*Delinquency rate determinants in the Mexican housing credit market: a regional analysis.* Lourdes Sofía Elizondo Guajardo, Daniela Díaz Delgado, Bernardo Ortega Chávez, Gabriel González Bataller. 2021.
-9.	*Evaluating the contribution of asset classes in the creation of a crisis resistant portfolio.* Víctor Arnulfo González Campos, Carolina Villarreal Chaccourt, Fernando Chapa Guzmán, Montserrat González Cantú. 2021.
-10.	*Reference portfolio optimization for retirement in México.* Alejandra Barradas Álvarez, Alejandro Flores Gaytán, Andrea Gutiérrez Campos, Ivanna Garza Villarreal. 2021.
-11.	*Determinantes socioeconómicos del logro académico en la prueba pisa 2018: un análisis de regresión multinivel cuantílica para el caso de México.* Daniela Paola García Cruz, Katia Flores García, Norma Patricia Rodríguez Garza, Salvador de Jesús Ramos Rivera. 2020.
-12.	*La inversión en México y sus estados.* Carolina Mata Degollado, Alan Estrada Sáenz, Andrea García Puentes, Bárbara De la Garza Aguiñaga. 2020.
-13.	*Dynamic estimation of corporate bond yields based on the credit risk Merton model: practical implications for Mexican public firms.* María Fernanda Alanís Adame, Ana Daniella Martínez Medina, Mauro Lozano Trujillo. 2020.
-14.	*Financial risk analysis for Axtel Corp: contributions to economic literature and recommendations for the company.* Javier Cázares Salinas, Regina Marmolejo Torres. 2020.
-15.	*Risktech: Consultoría en administración del riesgo de crédito basada en inteligencia artifical.* Paola Alejandra Arizpe Flores, Pamela Alejandra Salinas Delgado, Adrián Delgadillo Miranda, José Marcelo Rosiles Cortés. 2020.
-16.	*Text mining and finance applications.* Aurelio Herrera Alonso, Juan Antonio Chapa Guzmán, Paulina Sarahí González Martínez, David Alejandro Almaguer Galván. 2020.
-17.	*Estrategias de inversión automatizadas basadas en violaciones de la paridad put-call.* Marijose Morales Lozano, María Fernanda González Espinoza, Florencia Ferado Calleros, Esteban Daniel Cauich Montes. 2020.
-18.	*Do irrational investment decisions create value? A tale of 101 artificially created investors.* Andrea Madero Acuña, Franklin R. Garza Tuñón, Daniela Valdez Rodríguez, Valeria Martínez Zambrano. 2019.
-19.	*How trustworthy are robo-advisors to take financial investment decisions?* María Laura Ruiz Peinado, Ana Victoria Garza Montemayor, Ana Fernanda Marroquín Leal, Jorge Alejandro Deux Guerra Saldívar. 2019.
-20.	*A big data approach for non-standardized weather derivatives in the context of insurtech for the Mexican agricultural sector.* Melissa Cavazos De la Rosa, Mariana Yépiz Ojeda, Verónica Daniela Briones Reyes. 2019.
-21.	*Sistema de control interno para empresas del sector inmobiliario en México en el contexto de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.* Estefanía Huerta Ocañas, Maximiliano Nienow González, Alejandro Emmanuel Garza Gauna. 2019.
-22.	*Determinants of attraction In Mexico’s foreign direct investment and their capacity to generate economic growth: The case of profit reinvestment.* Osvaldo Delgado, Héctor Valdés Ramones, Jorge Armando Espinal Landaverde, André González. 2019.
-23.	*Characteristics of the company and macroeconomic variables as determinants of the multiples and financial ratios of Mexican public companies.* Marcela Cristina Beltrán Díaz, Juan Uriel Sarmiento Cordero, Marco Antonio Muhlia Sánchez, Marco Alejandro Rodríguez Torres. 2019.
-24.	*Applying finance and statistics to explain and unveil the poverty determinants in Mexican municipalities.* Hugo Arnoldo Oliva Castillo, Lucía del Carmen Chávez De la Garza, Javier Eugenio Garza Martínez, Kalhid Marcelo García Adam. 2018.
-25.	*Portfolios of individual stocks versus portfolios of investment strategies: a machine learning approach.* Priscila Judith Huerta Sánchez, Katia Gómez Sagui, Martín Murillo Varona, Oscar David Elizondo Espinosa. 2018.
-26.	*Cross-country determinants of corruption and implications for economic policy.* Ana Sofía Villarreal Reyes, Mariana Flores, Ignacio Sánchez Paoli, Mauricio Rumbaut Canales. 2018.
-27.	*A proposal for a credit risk metric for private firms.* Kareeme Yuvisela Dávila Cisneros, Melissa Montserrat Copado López, Marco Antonio Infante Rodríguez, Juan Pablo Barradas. 2018.
-28.	*Introducing the weighted forward-looking volatility index: construction and empirical application.* Patricia Perches Carrillo, Liliana Juárez González, Elena Gaitán Álvarez, Iris Giovanna Masante Muñiz. 2017.
-29.	*An innovative credit risk estimation: implications for the credit risk rating market.* Regina Marcela Marta Varela, María Fernanda Herrera Quiroga, Marcelo Adrián Pérez Ayala, Juan Pablo González Martínez. 2017.
-30.	*Contraste de anomalías en el mercado mexicano: Implicaciones para el inversionista.* Daniela Castillo Gutiérrez, María Begoña Domínguez Ortega, Sonia María Leal Cárcamo, Mariana Itzel De la Rosa Reyes. 2017. Presented at: 1er. Coloquio de Jóvenes Investigadores: Gestión de la Innovación para el Desarrollo Sostenible de los Negocios 2017.
-31.	*Competitiveness patterns in Mexican microenterprises: Implications for credit risk models.* Itziar Olóriz De la Garza, Armando Víctor González Valdés, Jorge Edgardo Sánchez Garza, Pedro Cedillo Martínez. 2017.
-32.	*Impact on the US monetary policy on Mexican investment strategies.* Karen Beatriz Montoya Ortiz, Iris Aide Salinas Martínez, Elías Castro Flores, José Valero. 2016.
-33.	*Realized performance of investment preferences: The case of home bias puzzle conditioned on exchange rate volatility.* Magaly Carolina Pérez Martínez, Alejandra García Villarreal, Alejandra Prezas Martínez, Christopher Ledezma González. 2016.
-34.	Tutor for the honors program in leadership 10th edition. Magaly Carolina Pérez Martínez. 2016.
-35.	*Trends and analysis of the incorporation of the peer-to-peer markets in the economic sectors of México.* Gabriela Romeroll Angulo, Cynthia Alejandra De la Vega Oates, Dulce María Pérez Acosta, Marco Antonio Hernández Díaz. 2016.
-36.	*Performance evaluation of investment strategies based on automated technical analysis algorithms.* Carlos Andrés Gutiérrez Mendivil, Danya Cecilia Martínez Ramírez, Paulina Torres Treviño, Ana María Barrera Portillo. 2016.
+1. Analucía Díaz Treviño, Carlos Alberto Ibarra Treviño, Iliana Lizeth Salinas López, Paola Torres Angulo. 2023.
+2. Laura Samantha Osorio Reynoso, Juan Luis Pérez, Anette Alejandra Narváez Santos, Estefany Sarahí Santos Hernández. 2023.
+3. Paulina Cardenas Rodriguez, Mariana Ocañas Zapata, Samantha Valdez Güereca, Pablo Emilio Ramírez Salazar. 2023.
+4. Héctor Misael González Valerio, Sergio Octavio Castro Cobos, Daniela Garza Rendón, Ana Sofía Dominguez Almaraz. 2023.
+5. Esteban González Pedraza, Stephanie Marie Manzur Barragán, José Flavio Rodríguez Picazo, Daniela Zambrano Frias. 2023.
+6. *Financial performance and ESG in the US and Mexican stock markets.* Saulh Andre Gómez Rodríguez, Karla Paola Castillón Garza, Carla Lucía Salinas Garza. 2022.
+7. *Stock price forecast using LSTM neural networks.* Eugenio Felipe Pérez Villarreal. 2022.
+8. *Sesgos de Inversionistas durante Crisis Financieras: Una Revisión Literaria.* David Eduardo Colunga Amador, Ericka Ivonne Hinojosa Ortega, Florencia García Saucedo, Ludivina Martínez Aldape. 2022.
+9.	Tutor for the honors program in leadership 16th edition. Paulina Garza García. 2022.
+10.	*New evidence on equity fund performance: A trivariate sort of drivers approach.* María Fernanda Posada Leal, Aleydis Schauer Tinajero, José Alfredo Zamora González, Rodrigo López Morales. 2022.
+11.	*One size does not fit all: WACC distribution to improve investment decision making.* Guillermo Maldonado Villanueva, Mariana Guadalupe Gauna Escalera, Daniela Villarreal Amparán, Katya Villarreal Elizondo. 2021.
+12.	*Delinquency rate determinants in the Mexican housing credit market: a regional analysis.* Lourdes Sofía Elizondo Guajardo, Daniela Díaz Delgado, Bernardo Ortega Chávez, Gabriel González Bataller. 2021.
+13.	*Evaluating the contribution of asset classes in the creation of a crisis resistant portfolio.* Víctor Arnulfo González Campos, Carolina Villarreal Chaccourt, Fernando Chapa Guzmán, Montserrat González Cantú. 2021.
+14.	*Reference portfolio optimization for retirement in México.* Alejandra Barradas Álvarez, Alejandro Flores Gaytán, Andrea Gutiérrez Campos, Ivanna Garza Villarreal. 2021.
+15.	*Determinantes socioeconómicos del logro académico en la prueba pisa 2018: un análisis de regresión multinivel cuantílica para el caso de México.* Daniela Paola García Cruz, Katia Flores García, Norma Patricia Rodríguez Garza, Salvador de Jesús Ramos Rivera. 2020.
+16.	*La inversión en México y sus estados.* Carolina Mata Degollado, Alan Estrada Sáenz, Andrea García Puentes, Bárbara De la Garza Aguiñaga. 2020.
+17.	*Dynamic estimation of corporate bond yields based on the credit risk Merton model: practical implications for Mexican public firms.* María Fernanda Alanís Adame, Ana Daniella Martínez Medina, Mauro Lozano Trujillo. 2020.
+18.	*Financial risk analysis for Axtel Corp: contributions to economic literature and recommendations for the company.* Javier Cázares Salinas, Regina Marmolejo Torres. 2020.
+19.	*Risktech: Consultoría en administración del riesgo de crédito basada en inteligencia artifical.* Paola Alejandra Arizpe Flores, Pamela Alejandra Salinas Delgado, Adrián Delgadillo Miranda, José Marcelo Rosiles Cortés. 2020.
+20.	*Text mining and finance applications.* Aurelio Herrera Alonso, Juan Antonio Chapa Guzmán, Paulina Sarahí González Martínez, David Alejandro Almaguer Galván. 2020.
+21.	*Estrategias de inversión automatizadas basadas en violaciones de la paridad put-call.* Marijose Morales Lozano, María Fernanda González Espinoza, Florencia Ferado Calleros, Esteban Daniel Cauich Montes. 2020.
+22.	*Do irrational investment decisions create value? A tale of 101 artificially created investors.* Andrea Madero Acuña, Franklin R. Garza Tuñón, Daniela Valdez Rodríguez, Valeria Martínez Zambrano. 2019.
+23.	*How trustworthy are robo-advisors to take financial investment decisions?* María Laura Ruiz Peinado, Ana Victoria Garza Montemayor, Ana Fernanda Marroquín Leal, Jorge Alejandro Deux Guerra Saldívar. 2019.
+24.	*A big data approach for non-standardized weather derivatives in the context of insurtech for the Mexican agricultural sector.* Melissa Cavazos De la Rosa, Mariana Yépiz Ojeda, Verónica Daniela Briones Reyes. 2019.
+25.	*Sistema de control interno para empresas del sector inmobiliario en México en el contexto de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.* Estefanía Huerta Ocañas, Maximiliano Nienow González, Alejandro Emmanuel Garza Gauna. 2019.
+26.	*Determinants of attraction In Mexico’s foreign direct investment and their capacity to generate economic growth: The case of profit reinvestment.* Osvaldo Delgado, Héctor Valdés Ramones, Jorge Armando Espinal Landaverde, André González. 2019.
+27.	*Characteristics of the company and macroeconomic variables as determinants of the multiples and financial ratios of Mexican public companies.* Marcela Cristina Beltrán Díaz, Juan Uriel Sarmiento Cordero, Marco Antonio Muhlia Sánchez, Marco Alejandro Rodríguez Torres. 2019.
+28.	*Applying finance and statistics to explain and unveil the poverty determinants in Mexican municipalities.* Hugo Arnoldo Oliva Castillo, Lucía del Carmen Chávez De la Garza, Javier Eugenio Garza Martínez, Kalhid Marcelo García Adam. 2018.
+29.	*Portfolios of individual stocks versus portfolios of investment strategies: a machine learning approach.* Priscila Judith Huerta Sánchez, Katia Gómez Sagui, Martín Murillo Varona, Oscar David Elizondo Espinosa. 2018.
+30.	*Cross-country determinants of corruption and implications for economic policy.* Ana Sofía Villarreal Reyes, Mariana Flores, Ignacio Sánchez Paoli, Mauricio Rumbaut Canales. 2018.
+31.	*A proposal for a credit risk metric for private firms.* Kareeme Yuvisela Dávila Cisneros, Melissa Montserrat Copado López, Marco Antonio Infante Rodríguez, Juan Pablo Barradas. 2018.
+32.	*Introducing the weighted forward-looking volatility index: construction and empirical application.* Patricia Perches Carrillo, Liliana Juárez González, Elena Gaitán Álvarez, Iris Giovanna Masante Muñiz. 2017.
+33.	*An innovative credit risk estimation: implications for the credit risk rating market.* Regina Marcela Marta Varela, María Fernanda Herrera Quiroga, Marcelo Adrián Pérez Ayala, Juan Pablo González Martínez. 2017.
+34.	*Contraste de anomalías en el mercado mexicano: Implicaciones para el inversionista.* Daniela Castillo Gutiérrez, María Begoña Domínguez Ortega, Sonia María Leal Cárcamo, Mariana Itzel De la Rosa Reyes. 2017. Presented at: 1er. Coloquio de Jóvenes Investigadores: Gestión de la Innovación para el Desarrollo Sostenible de los Negocios 2017.
+35.	*Competitiveness patterns in Mexican microenterprises: Implications for credit risk models.* Itziar Olóriz De la Garza, Armando Víctor González Valdés, Jorge Edgardo Sánchez Garza, Pedro Cedillo Martínez. 2017.
+36.	*Impact on the US monetary policy on Mexican investment strategies.* Karen Beatriz Montoya Ortiz, Iris Aide Salinas Martínez, Elías Castro Flores, José Valero. 2016.
+37.	*Realized performance of investment preferences: The case of home bias puzzle conditioned on exchange rate volatility.* Magaly Carolina Pérez Martínez, Alejandra García Villarreal, Alejandra Prezas Martínez, Christopher Ledezma González. 2016.
+38.	Tutor for the honors program in leadership 10th edition. Magaly Carolina Pérez Martínez. 2016.
+39.	*Trends and analysis of the incorporation of the peer-to-peer markets in the economic sectors of México.* Gabriela Romeroll Angulo, Cynthia Alejandra De la Vega Oates, Dulce María Pérez Acosta, Marco Antonio Hernández Díaz. 2016.
+40.	*Performance evaluation of investment strategies based on automated technical analysis algorithms.* Carlos Andrés Gutiérrez Mendivil, Danya Cecilia Martínez Ramírez, Paulina Torres Treviño, Ana María Barrera Portillo. 2016.
 
 \hspace{1 mm}
 
