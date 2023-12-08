@@ -44,7 +44,7 @@ urlcolor: blue
 
 **Programming skills.** Proficient in R. I am familiar with Octave, MATLAB, Python and \LaTeX editors. 
 
-**Computer skills.** Weka, GGobi, E-Views, Stata, Gretl, SPSS, among others.
+**Computer skills.** RMarkdow, Quarto, Weka, GGobi, E-Views, Stata, Gretl, SPSS, among others.
 
 **Research interests.** Empirical asset pricing; beta and SDF pricing models and tests; financial econometrics; GMM estimation and inference; portfolio allocation models and performance; computational finance; data science applications in business.
 
@@ -95,9 +95,9 @@ EGADE Business School, and the Wharton School of the University of Pennsylvania.
 
 # \faFolderOpen \hspace{1 mm} Publications.
 
-1. *Portfolio performance of linear SDF models: An out-of-sample assessment. With Erwin Hansen and Massimo Guidolin.* **Quantitative Finance**.  Vol. 18, No. 8, 1425–1436, 2018. http://dx.doi.org/10.1080/14697688.2018.1429646.
+1. *Portfolio performance of linear SDF models: An out-of-sample assessment.* With Erwin Hansen and Massimo Guidolin. **Quantitative Finance**.  Vol. 18, No. 8, 1425–1436, 2018. http://dx.doi.org/10.1080/14697688.2018.1429646.
 2.	*Evaluating alternative methods for testing asset pricing models with historical data.* With Gonzalo Rubio. **Journal of Empirical Finance.**  Volume 18, Issue 1, January 2011, Pages 136–146. http://dx.doi.org/10.1016/j.jempfin.2010.05.005
-3.	*Financial crisis: imbalances, irrationality and regulation.* Editorial for **Advances in Management.** February 2012. http://ssrn.com/abstract=1965011 Listed on SSRN’s top ten download list: Resource Financing Strategies: as of 12/11/2011.
+3.	*Financial crisis: imbalances, irrationality and regulation.* Editorial for **Advances in Management.** February 2012. Listed on SSRN’s top ten download list: Resource Financing Strategies: as of 12/11/2011. http://ssrn.com/abstract=1965011
 4.	Research assistance for: *Dividend Growth, Cash Flow and Discount Rate News.* Ian Garrett and Richard Priestley. **Journal of Financial and Quantitative Analysis.**  Vol. 47, No. 5, Oct. 2012, pp. 1003–1028. http://dx.doi.org/10.1017/S0022109012000427
 5.	Proceedings: *The efficiency of the SDF and Beta methods at evaluating multi-factor asset-pricing models.* With Stuart Hyde and Ian Garrett. **Southwestern Finance Association 48th Annual Meeting Proceedings.** Oklahoma City, USA. 2009.
 Media:
@@ -107,7 +107,13 @@ Media:
 
 # \faGithub \hspace{1 mm} Open access.
 
-1. *Quantitative finance with R.* Available at https://mlozanoqf.github.io/
+1. *Quantitative finance with R.* 2024. Available at https://mlozanoqf.github.io/
+
+\hspace{1 mm}
+
+# \faGithub \hspace{1 mm} Open source software projects.
+
+1. *Credit risk in public firms.* 2023. First stage collaborators: Hernán González Aguilera, and Ramiro Castellanos Barrón. Available at https://github.com/mlozanoqf/RunwayFinance
 
 \hspace{1 mm}
 
@@ -360,7 +366,7 @@ Fundamentals of Managerial Finance (2008); Managerial Economics (2009); Economic
 # \faGroup \hspace{1 mm} Teaching: Undergraduate.
 
 **Universidad de Monterrey (with applications in R and Python). México.** \hfill 2015 – current\
-Topics in Finance (2015 – 2019); Econometrics for Financial Markets (2016 – 2023) COIL course joint with Universidad Pontificia Bolivariana; Financial Engineering (2016 – 2023); Financial Project Evaluation (2015, 2022); Financial Structure and Cost of Capital (2015, 2017); Financial Risk Management (2015 – 2023).
+Topics in Finance (2015 – 2019); Econometrics for Financial Markets (2016 – 2023) COIL course joint with Universidad Pontificia Bolivariana; Financial Engineering (2016 – 2023); Financial Project Evaluation (2015, 2022); Financial Structure and Cost of Capital (2015, 2017); Financial Risk Management (2015 – 2023); Quantitative Foundations in Finance (2023 - 2024); Research Methods for Business (2024).
 
 **Universidad Privada del Norte. Perú.** \hfill 2021\
 Microeconomía para administradores.
@@ -399,7 +405,7 @@ Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019)
 **University of London, School of Oriental and African Studies.** \hfill 2012 – current\
 **MSc in Quantitative Finance and MSc in Economic Policy.**
 
-2. Martina Maria Farrugia. MSc in Quantitative Finance. 2023.
+2. *Unveiling implied volatility dynamics in option pricing: A sectorial  analysis.* Martina Maria Farrugia. MSc in Quantitative Finance. 2023.
 3. *A bubble identification for the Nikkei 225.* Saori Yamaguchi. MSc in Quantitative Finance. 2021.
 4. *Predicting sector volatility with GARCH models and artificial neural networks.* Curtis Nybo. 2020. MSc in Quantitative Finance.
 5. *Analysis and monitor retail credit risk using machine learning.* Jin Wang. MSc in Quantitative Finance. 2020.
