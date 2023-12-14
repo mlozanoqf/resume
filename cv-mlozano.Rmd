@@ -100,8 +100,13 @@ EGADE Business School, and the Wharton School of the University of Pennsylvania.
 3.	*Financial crisis: imbalances, irrationality and regulation.* Editorial for **Advances in Management.** February 2012. Listed on SSRN’s top ten download list: Resource Financing Strategies: as of 12/11/2011. http://ssrn.com/abstract=1965011
 4.	Research assistance for: *Dividend Growth, Cash Flow and Discount Rate News.* Ian Garrett and Richard Priestley. **Journal of Financial and Quantitative Analysis.**  Vol. 47, No. 5, Oct. 2012, pp. 1003–1028. http://dx.doi.org/10.1017/S0022109012000427
 5.	Proceedings: *The efficiency of the SDF and Beta methods at evaluating multi-factor asset-pricing models.* With Stuart Hyde and Ian Garrett. **Southwestern Finance Association 48th Annual Meeting Proceedings.** Oklahoma City, USA. 2009.
-Media:
-6.	*La industria del acero.* Suplemento Grupo Milenio. June 2016.
+
+\hspace{1 mm}
+
+# \faSpotify \hspace{1 mm} Media.
+
+1. *Retos y oportunidadades en el aprendizaje de ciencia de datos en las escuelas de negocios* Podcast: Café de Datos. Datlas. Temporada 9, capítulo 132. https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=3PFdOGAGSmq8sNtjQBBtng
+2. *La industria del acero.* Suplemento Grupo Milenio. June 2016.
 
 \hspace{1 mm}
 
