@@ -34,7 +34,7 @@ urlcolor: blue
 \faLinkedinSquare \hspace{1 mm}
 \href{https://linkedin.com/in/martin-lozano-21818a22}{LinkedIn} \hspace{1 mm}
 \aiGoogleScholar \hspace{1 mm} \href{http://scholar.google.com.mx/citations?user=w8boOboAAAAJ}{Google Scholar} \hspace{1 mm}
-\aiOpenAccess \hspace{1 mm} \href{http://ssrn.com/AuthorID=1490785}{SSRN}
+\aiOpenAccess \hspace{1 mm} \href{https://ssrn.com/author=1490785}{SSRN}
 
 \hspace{1 mm}
 
