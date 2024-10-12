@@ -24,6 +24,9 @@ knitr::opts_chunk$set(fig.pos = "H", out.extra = "")
 ```
 
 
+```{r experience, child = 'Experience.Rmd'}
+```
+
 <!-- ```{r overview, child = 'Course overview.Rmd'} -->
 <!-- ``` -->
 
