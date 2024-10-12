@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>index</title>
+<title>Dr.&nbsp;Martín Lozano</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,44 +29,232 @@ ul.task-list li input[type="checkbox"] {
 <script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
 <script src="index_files/libs/quarto-html/anchor.min.js"></script>
 <link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="index_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="index_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="index_files/libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<style>html{ scroll-behavior: smooth; }</style>
 
+
+
+
+
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+
+    #btn-back-to-top {
+
+      position: fixed;
+
+      bottom: 20px;
+
+      right: 20px;
+
+      width: 15px; /* Adjust the width */
+
+      height: 15px; /* Adjust the height */
+
+      box-sizing: content-box;
+
+      z-index: 1000;
+
+      background-color: rgba(0, 123, 255, 0.7);
+
+      border: none;
+
+      color: white;
+
+      display: flex;
+
+      align-items: center;
+
+      justify-content: center;
+
+    }
+
+  </style>
 
 </head>
 
-<body class="fullcontent">
-
-<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
-
-<main class="content" id="quarto-document-content">
+<body>
 
 
 
+<button type="button" class="btn btn-primary btn-lg bi bi-arrow-up" id="btn-back-to-top"></button>
 
-<!-- ````{=html} -->
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- xfun::file_string('contact.html') -->
-<!-- ``` -->
-<!-- ```` -->
-<section id="contact." class="level1">
-<h1> Contact.</h1>
-<p> </p>
-<p> </p>
-<p> </p>
+
+
+<script>
+
+  let backToTopButton = document.getElementById("btn-back-to-top");
+
+
+
+  backToTopButton.addEventListener("click", function () {
+
+    document.documentElement.scrollTop = 0;
+
+  });
+
+</script>
+
+
+
+
+
+
+
+<div id="progress-bar" style="width: 0%; height:2px; background-color: rgb(89 127 235);; position: fixed; top: 0px; z-index: 2000;"></div>
+
+
+
+<script id="progressbar" type="text/javascript">
+
+
+
+document.addEventListener("DOMContentLoaded", function() {
+
+
+
+    const bar = document.querySelector('#progress-bar');
+
+    const post = document.querySelector('#quarto-content');
+
+    const html = document.documentElement;
+
+    
+
+    const height = post.scrollHeight + post.offsetTop;
+
+    
+
+    window.addEventListener('scroll', () => {
+
+        bar.style.width = (html.scrollTop / (height- html.clientHeight)) * 100 + '%';
+
+    });
+
+});
+
+</script>
+
+
+
+
+
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-full toc-left">
+<div id="quarto-sidebar-toc-left" class="sidebar toc-left">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul class="collapse">
+  <li><a href="#contact." id="toc-contact." class="nav-link active" data-scroll-target="#contact."><span class="header-section-number">1</span> Contact.</a></li>
+  <li><a href="#expertise." id="toc-expertise." class="nav-link" data-scroll-target="#expertise."><span class="header-section-number">2</span> Expertise.</a></li>
+  <li><a href="#experience." id="toc-experience." class="nav-link" data-scroll-target="#experience."><span class="header-section-number">3</span> Experience.</a></li>
+  <li><a href="#publications." id="toc-publications." class="nav-link" data-scroll-target="#publications."><span class="header-section-number">4</span> Publications.</a></li>
+  <li><a href="#media." id="toc-media." class="nav-link" data-scroll-target="#media."><span class="header-section-number">5</span> Media.</a></li>
+  <li><a href="#open-access." id="toc-open-access." class="nav-link" data-scroll-target="#open-access."><span class="header-section-number">6</span> Open access.</a></li>
+  <li><a href="#open-source-software-projects." id="toc-open-source-software-projects." class="nav-link" data-scroll-target="#open-source-software-projects."><span class="header-section-number">7</span> Open source software projects.</a></li>
+  <li><a href="#working-papers." id="toc-working-papers." class="nav-link" data-scroll-target="#working-papers."><span class="header-section-number">8</span> Working papers.</a></li>
+  <li><a href="#international-conferences." id="toc-international-conferences." class="nav-link" data-scroll-target="#international-conferences."><span class="header-section-number">9</span> International conferences.</a></li>
+  <li><a href="#research-seminars." id="toc-research-seminars." class="nav-link" data-scroll-target="#research-seminars."><span class="header-section-number">10</span> Research seminars.</a></li>
+  <li><a href="#education-phd." id="toc-education-phd." class="nav-link" data-scroll-target="#education-phd."><span class="header-section-number">11</span> Education: PhD.</a></li>
+  <li><a href="#education-post-graduate." id="toc-education-post-graduate." class="nav-link" data-scroll-target="#education-post-graduate."><span class="header-section-number">12</span> Education: Post-graduate.</a></li>
+  <li><a href="#profesional-training." id="toc-profesional-training." class="nav-link" data-scroll-target="#profesional-training."><span class="header-section-number">13</span> Profesional training.</a></li>
+  <li><a href="#certifications-in-r." id="toc-certifications-in-r." class="nav-link" data-scroll-target="#certifications-in-r."><span class="header-section-number">14</span> Certifications in R.</a></li>
+  <li><a href="#service-to-the-academia." id="toc-service-to-the-academia." class="nav-link" data-scroll-target="#service-to-the-academia."><span class="header-section-number">15</span> Service to the academia.</a></li>
+  <li><a href="#awards-honors." id="toc-awards-honors." class="nav-link" data-scroll-target="#awards-honors."><span class="header-section-number">16</span> Awards &amp; honors.</a></li>
+  <li><a href="#design-course-assessment-material." id="toc-design-course-assessment-material." class="nav-link" data-scroll-target="#design-course-assessment-material."><span class="header-section-number">17</span> Design course assessment material.</a></li>
+  <li><a href="#teaching-postgraduate." id="toc-teaching-postgraduate." class="nav-link" data-scroll-target="#teaching-postgraduate."><span class="header-section-number">18</span> Teaching: Postgraduate.</a></li>
+  <li><a href="#teaching-undergraduate." id="toc-teaching-undergraduate." class="nav-link" data-scroll-target="#teaching-undergraduate."><span class="header-section-number">19</span> Teaching: Undergraduate.</a></li>
+  <li><a href="#teaching-executive-training." id="toc-teaching-executive-training." class="nav-link" data-scroll-target="#teaching-executive-training."><span class="header-section-number">20</span> Teaching: Executive training.</a></li>
+  <li><a href="#supervision-phd." id="toc-supervision-phd." class="nav-link" data-scroll-target="#supervision-phd."><span class="header-section-number">21</span> Supervision: PhD.</a></li>
+  <li><a href="#supervision-msc-31." id="toc-supervision-msc-31." class="nav-link" data-scroll-target="#supervision-msc-31."><span class="header-section-number">22</span> Supervision: MSc (31).</a></li>
+  <li><a href="#supervision-mba-18." id="toc-supervision-mba-18." class="nav-link" data-scroll-target="#supervision-mba-18."><span class="header-section-number">23</span> Supervision: MBA (18).</a></li>
+  <li><a href="#supervision-undergraduate-41." id="toc-supervision-undergraduate-41." class="nav-link" data-scroll-target="#supervision-undergraduate-41."><span class="header-section-number">24</span> Supervision: Undergraduate (41).</a></li>
+  <li><a href="#free-time." id="toc-free-time." class="nav-link" data-scroll-target="#free-time."><span class="header-section-number">25</span> Free time.</a></li>
+  </ul>
+</nav>
+</div>
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+</div>
+<main class="content column-page-right" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Dr.&nbsp;Martín Lozano</h1>
+<p class="subtitle lead">Curriculum vitae.</p>
+</div>
+
+
+
+<div class="quarto-title-meta column-page-right">
+
+    
+  
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">October 12, 2024, 03:04:24 am.</p>
+    </div>
+  </div>
+    
+  </div>
+  
+
+
+</header>
+
+
+
+<br>
+<p align="right"> 
+  <a href="https://mlozanoqf.github.io/">
+    <span style="color: black">Back to Quantitative Finance with </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="R Icon" style="width: 30px; height: 30px;">
+  </a>
+</p>
+
+<p align="right"> 
+    <a href="https://github.com/mlozanoqf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="martin-lozano-21818a22" height="20" width="30"></a>
+    <a href="https://ssrn.com/author=1490785" target="blank"><img align="center" src="./ssrn.svg" height="90" width="30"></a>
+    <a href="mailto:mlozanoqf@gmail.com" target="blank"><img align="center" src="./envelope-solid.svg" alt="mailto:mlozanoqf@gmail.com" height="20" width="30"></a>
+    <a href="https://linkedin.com/in/martin-lozano-21818a22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martin-lozano-21818a22" height="20" width="30"></a>
+    <a href="https://www.youtube.com/user/drmartinlozano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/drmartinlozano" height="20" width="30"></a>
+    <a href="https://scholar.google.com/citations?user=w8boOboAAAAJ&amp;hl=en" target="blank"><img align="center" src="./google-scholar.svg" height="30" width="25"></a>
+    <a href="https://sites.google.com/site/mlozanoqf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="https://www.youtube.com/channel/drmartinlozano" height="20" width="30"></a>
+    <a href="https://us02web.zoom.us/j/9209945512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="60" width="50"></a>
+</p>
+
+<hr style="border:2px solid gray">
+<section id="contact." class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Contact.</h1>
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"></path></svg> Personal: <a href="mailto:mlozanoqf@gmail.com">mlozanoqf@gmail.com</a></p>
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"></path></svg> UDEM: <a href="mailto:martin.lozano@udem.edu">martin.lozano@udem.edu</a></p>
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"></path></svg> SOAS: <a href="mailto:ml143@soas.ac.uk">ml143@soas.ac.uk</a></p>
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"></path></svg> UoM: <a href="martin.lozanobanda@manchester.ac.uk">martin.lozanobanda@manchester.ac.uk</a></p>
+<p><svg aria-hidden="true" role="img" viewbox="0 0 496 512" style="height:1em;width:0.97em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg> <i class="fa-brands fa-github"></i> <a href="https://github.com/mlozanoqf/">https://github.com/mlozanoqf/</a></p>
+<p><img src="./ssrn.svg" height="65" width="35"> <a href="https://ssrn.com/author=1490785">https://ssrn.com/author=1490785</a></p>
+<p><svg aria-hidden="true" role="img" viewbox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg><a href="http://www.youtube.com/user/drmartinlozano">http://www.youtube.com/user/drmartinlozano</a></p>
+<p>{YouTube} </p>
 </section>
-<section id="expertise." class="level1">
-<h1> Expertise.</h1>
+<section id="expertise." class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Expertise.</h1>
 <p><strong>Main areas.</strong> Finance, Economics, Statistics, Data Science.</p>
 <p><strong>Programming skills.</strong> Proficient in R. I am familiar with Octave, MATLAB, Python and editors.</p>
 <p><strong>Computer skills.</strong> RMarkdow, Quarto, Weka, GGobi, E-Views, Stata, Gretl, SPSS, among others.</p>
 <p><strong>Research interests.</strong> Empirical asset pricing; beta and SDF pricing models and tests; financial econometrics; GMM estimation and inference; portfolio allocation models and performance; computational finance; data science applications in business.</p>
 <p><strong>Teaching interests.</strong> Introductory economics (microeconomics, macroeconomics), economic analysis, quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics, statistics, innovation.</p>
 </section>
-<section id="experience." class="level1">
-<h1>Experience.</h1>
+<section id="experience." class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Experience.</h1>
 <p><strong>Professor of finance.</strong> 2015 – current<br>
 Universidad de Monterrey (UDEM). Department of Economics and Finance. México.</p>
 <p><strong>Post-doctoral research fellow.</strong> 2010 – 2012<br>
@@ -95,8 +283,8 @@ Universidad Virtual, Tecnológico de Monterrey.<br>
 EGADE Business School, and the Wharton School of the University of Pennsylvania.<br>
 <em>Develop the business plan for a Mexican company in the beverage industry to enter into the US market.</em></p>
 </section>
-<section id="publications." class="level1">
-<h1> Publications.</h1>
+<section id="publications." class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Publications.</h1>
 <ol type="1">
 <li><em>Portfolio performance of linear SDF models: An out-of-sample assessment.</em> With Erwin Hansen and Massimo Guidolin. <strong>Quantitative Finance</strong>. Vol. 18, No.&nbsp;8, 1425–1436, 2018. http://dx.doi.org/10.1080/14697688.2018.1429646.</li>
 <li><em>Evaluating alternative methods for testing asset pricing models with historical data.</em> With Gonzalo Rubio. <strong>Journal of Empirical Finance.</strong> Volume 18, Issue 1, January 2011, Pages 136–146. http://dx.doi.org/10.1016/j.jempfin.2010.05.005</li>
@@ -105,27 +293,27 @@ EGADE Business School, and the Wharton School of the University of Pennsylvania.
 <li>Proceedings: <em>The efficiency of the SDF and Beta methods at evaluating multi-factor asset-pricing models.</em> With Stuart Hyde and Ian Garrett. <strong>Southwestern Finance Association 48th Annual Meeting Proceedings.</strong> Oklahoma City, USA. 2009.</li>
 </ol>
 </section>
-<section id="media." class="level1">
-<h1> Media.</h1>
+<section id="media." class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Media.</h1>
 <ol type="1">
 <li><em>Retos y oportunidadades en el aprendizaje de ciencia de datos en las escuelas de negocios.</em> Podcast: Café de Datos, Datlas. Temporada 9, capítulo 132. <a href="https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=5s9ik8ffQcW_Sy9NVU5sxg">Episodio en Spotify</a>; <a href="https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC">episodio en YouTube</a>.</li>
 <li><em>La industria del acero.</em> Suplemento Grupo Milenio. June 2016.</li>
 </ol>
 </section>
-<section id="open-access." class="level1">
-<h1> Open access.</h1>
+<section id="open-access." class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Open access.</h1>
 <ol type="1">
 <li><em>Quantitative finance with R.</em> 2024. Available at https://mlozanoqf.github.io/</li>
 </ol>
 </section>
-<section id="open-source-software-projects." class="level1">
-<h1> Open source software projects.</h1>
+<section id="open-source-software-projects." class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Open source software projects.</h1>
 <ol type="1">
 <li><em>Credit risk in public firms.</em> 2023. First stage collaborators: Hernán González Aguilera, and Ramiro Castellanos Barrón. Available at https://github.com/mlozanoqf/RunwayFinance</li>
 </ol>
 </section>
-<section id="working-papers." class="level1">
-<h1> Working papers.</h1>
+<section id="working-papers." class="level1" data-number="8">
+<h1 data-number="8"><span class="header-section-number">8</span> Working papers.</h1>
 <ol type="1">
 <li><em>Multifactor Empirical Asset Pricing Under Higher-Order Moment Variations.</em> 2020. With Massimo Guidolin, and Juan Arismendi Zambrano.</li>
 <li><em>Performance of asset allocation strategies in Europe: An out-of-sample assessment.</em> 2014. With Francisco Navarro. http://ssrn.com/abstract=2474542</li>
@@ -134,8 +322,8 @@ EGADE Business School, and the Wharton School of the University of Pennsylvania.
 <li><em>Econometrics of asset pricing: methodological review and empirical exercise.</em> 2009. http://papers.ssrn.com/abstract=1754762</li>
 </ol>
 </section>
-<section id="international-conferences." class="level1">
-<h1> International conferences.</h1>
+<section id="international-conferences." class="level1" data-number="9">
+<h1 data-number="9"><span class="header-section-number">9</span> International conferences.</h1>
 <ol type="1">
 <li><strong>Econometric Research in Finance (ERFIN) Workshop. Warsaw, Poland.</strong>September 2021 SGH Warsaw School of Economics.<br>
 <em>Multifactor empirical asset pricing under higher-order moment variations.</em></li>
@@ -165,8 +353,8 @@ Universitat de les Illes Balears.<br>
 <em>Evaluating alternative methods for testing asset pricing models with historical data.</em></li>
 </ol>
 </section>
-<section id="research-seminars." class="level1">
-<h1> Research seminars.</h1>
+<section id="research-seminars." class="level1" data-number="10">
+<h1 data-number="10"><span class="header-section-number">10</span> Research seminars.</h1>
 <ol type="1">
 <li><strong>University of Liverpool. Management School Seminar Series. UK.</strong> November 2019<br>
 Multifactor empirical asset pricing under higher-order moment variations.</li>
@@ -200,8 +388,8 @@ Testing asset pricing models.</li>
 Testing asset pricing models.</li>
 </ol>
 </section>
-<section id="education-phd." class="level1">
-<h1> Education: PhD.</h1>
+<section id="education-phd." class="level1" data-number="11">
+<h1 data-number="11"><span class="header-section-number">11</span> Education: PhD.</h1>
 <p><strong>PhD in Quantitative Finance.</strong> 2005 – 2010<br>
 University of the Basque Country. Spain.<br>
 Inter-university programme including Universidad de Valencia, Universidad Complutense de Madrid, Universidad del País Vasco, Universidad Carlos III de Madrid. <em>Supervisor: Prof.&nbsp;Gonzalo Rubio (Universidad CEU Cardenal Herrera). Internal: Prof.&nbsp;Alfonso Novales (Universidad Complutense de Madrid). PhD committee members: Dr.&nbsp;María Victoria Esteban (Universidad del País Vasco); Prof.&nbsp;Ángel Pardo (Universidad de Valencia); Dr.&nbsp;Rosa Rodríguez (Universidad Carlos III de Madrid); External: Dr.&nbsp;Iñaki Rodríguez (University of Tromsø).</em></p>
@@ -212,8 +400,8 @@ European University Association.<br>
 The University of Manchester. UK.<br>
 <em>Supported by the Sixth European Community Framework Programme.</em></p>
 </section>
-<section id="education-post-graduate." class="level1">
-<h1> Education: Post-graduate.</h1>
+<section id="education-post-graduate." class="level1" data-number="12">
+<h1 data-number="12"><span class="header-section-number">12</span> Education: Post-graduate.</h1>
 <p><strong>Master Degree in Statistical Learning and Data Mining.</strong> 2019<br>
 Universidad Nacional de Educación a Distancia (UNED). Spain.</p>
 <p><strong>Diploma University Expert in Statistical Learning and Data Mining.</strong> 2019<br>
@@ -231,8 +419,8 @@ EGADE Business School. México.</p>
 <p><strong>BS Economics.</strong> 1993–1997<br>
 Tecnológico de Monterrey, Campus Monterrey. México.</p>
 </section>
-<section id="profesional-training." class="level1">
-<h1> Profesional training.</h1>
+<section id="profesional-training." class="level1" data-number="13">
+<h1 data-number="13"><span class="header-section-number">13</span> Profesional training.</h1>
 <ol type="1">
 <li><strong>Training on the European tertiary education register (ETER)</strong>2022<br>
 European Tertiary Education Register. Università della Svizzera italiana.</li>
@@ -282,20 +470,20 @@ Loyola University Chicago.</li>
 Asociación Mexicana de Intermediarios Bursátiles, A.C. México.</li>
 </ol>
 </section>
-<section id="certifications-in-r." class="level1">
-<h1> Certifications in R.</h1>
+<section id="certifications-in-r." class="level1" data-number="14">
+<h1 data-number="14"><span class="header-section-number">14</span> Certifications in R.</h1>
 <p><strong>DataCamp courses (42).</strong> Introduction to R; Introduction to Importing Data in R; Introduction to R for Finance; Introduction to Writing Functions in R; Importing and Managing Financial Data in R; Intermediate R for Finance; Data Science for Everyone; Foundations of Probability in R; Time Series Analysis in R; Introduction to the Tidyverse; Credit Risk Modeling in R; Manipulating Time Series Data with and in R; Intermediate R; Data Manipulation with ; Joining Data with ; Introduction to Data Visualization with ; Intermediate Data Visualization with ; Intermediate Importing Data in R; Data Cleaning in R; Working with Data in the Tidyverse; Working with Dates and Times in R; Exploratory Data Analysis in R; Case Study Exploratory Data Analysis in R; Correlation and Regression in R; Supervised Learning in R Classification; Supervised Learning in R: Regression; Unsupervised Learning in R; Cluster Analysis in R; Machine Learning with in R; Data Engineering for Everyone; ARIMA Models in R; Forecasting in R; Visualizing Time Series Data in R; Case Studies: Manipulating Time Series Data in R; Introduction to Portfolio Analysis in R; Intermediate Portfolio Analysis in R; Bond Valuation and Analysis in R; Quantitative Risk Management in R; Financial Trading in R; Equity Valuation in R; Life Insurance Products Valuation in R; GARCH Models in R.</p>
 <p><strong>DataCamp skill tracks (6).</strong> Importing &amp; Cleaning Data with R (4 courses); Finance Basics with R (4 courses); Machine Learning Fundamentals in R (4 courses); Time Series with R (6 courses); Finance Fundamentals in R (6 courses); Applied Finance in R (7 courses).</p>
 <p><strong>DataCamp career tacks (2).</strong> Data Scientist with R (19 courses); Quantitative Analyst with R (15 courses).</p>
 </section>
-<section id="service-to-the-academia." class="level1">
-<h1> Service to the academia.</h1>
+<section id="service-to-the-academia." class="level1" data-number="15">
+<h1 data-number="15"><span class="header-section-number">15</span> Service to the academia.</h1>
 <p><strong>Reviewer.</strong> Quarterly Review of Economics and Finance (since 2011); Journal of Banking and Finance (since 2010).</p>
 <p><strong>Editor.</strong> Associate Editor Journal of Accounting, Finance and Economics (since 2014); Munich Paper of RePEc Archive MPRA (2010, 2011); Advances in Management (2011).</p>
 <p><strong>Scientific and academic committees.</strong> External evaluator for Agencia Nacional de Investigación y Desarrollo (ANID) del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación de Chile (2021). Examiner for MScs and PG Diplomas in Financial and Management Studies University of London International Programmes (2012, 2015, 2016). Examination panel of biannual Finance PhD reviews Manchester Business School (06/2011 and 06/2012). Eastern Finance Association (2009, 2010 and 2012); Midwest Finance Association (2009 and 2010); Southwestern Finance Association (Annual Meetings: 48th and 49th).</p>
 </section>
-<section id="awards-honors." class="level1">
-<h1> Awards &amp; honors.</h1>
+<section id="awards-honors." class="level1" data-number="16">
+<h1 data-number="16"><span class="header-section-number">16</span> Awards &amp; honors.</h1>
 <ol type="1">
 <li>UN Climate Change Conference UK. Coventry University. Certified as <em>carbon literate</em>. 2022 <em>This certification is part of the Carbon Literacy standard. Unlike other training courses, the Carbon Literacy certificate is not just a recognition of participation. The certificate transforms the course from an educational tool into a recognised qualification and represents a robust understanding of the climate context of each learner’s day-to-day life, and a commitment to recognise ways to adjust our behaviour to reduce our carbon footprint, as well as influencing our social and professional circles.</em></li>
 <li>UDEM. Member of the research committee CIDINE. 2015 – 2022</li>
@@ -313,8 +501,8 @@ Asociación Mexicana de Intermediarios Bursátiles, A.C. México.</li>
 <li>EGADE Business School MSc fellowship. México. 2000 – 2002</li>
 </ol>
 </section>
-<section id="design-course-assessment-material." class="level1">
-<h1> Design course assessment material.</h1>
+<section id="design-course-assessment-material." class="level1" data-number="17">
+<h1 data-number="17"><span class="header-section-number">17</span> Design course assessment material.</h1>
 <p><strong>University of London, School of Oriental and African Studies.</strong> 2015 – 2022<br>
 <strong>MSc in Quantitative Finance and MSc in Economic Policy.</strong></p>
 <ol type="1">
@@ -323,8 +511,8 @@ Asociación Mexicana de Intermediarios Bursátiles, A.C. México.</li>
 <li>Banking and Capital Markets (2019 – 2021).</li>
 </ol>
 </section>
-<section id="teaching-postgraduate." class="level1">
-<h1> Teaching: Postgraduate.</h1>
+<section id="teaching-postgraduate." class="level1" data-number="18">
+<h1 data-number="18"><span class="header-section-number">18</span> Teaching: Postgraduate.</h1>
 <p><strong>SOAS University of London, Dep. of Financial and Management Studies. UK.</strong>2012 – current<br>
 Finance and Risk Management in the Global Economy (summer school 2020, as Director of Financial Modelling with R); Banking &amp; Capital Markets (2016, 2018, 2019, 2021); Econometric Analysis &amp; Applications (2016 – 2019, 2021, 2022); Risk Management: Principles &amp; Applications (2012, 2014 – 2017, 2019, 2022); Econometric Principles &amp; Data Analysis (2012 – 2015, 2017, 2019, 2023); Derivatives (2015 – 2016); Risk Management in the Global Economy – MOOC FutureLearn platform (2016); Independent Study Project (2019, 2021); Financial Econometrics (2019, 2021, 2022, 2023); Financial Engineering (2021, 2022).</p>
 <p><strong>Alliance Manchester Business School. UK.</strong> 2010 – 2023<br>
@@ -338,8 +526,8 @@ Three sessions of Advanced Finance Research Seminar I.</p>
 <p><strong>Tecnológico de Monterrey. México.</strong> 2005 – 2009<br>
 Fundamentals of Managerial Finance (2008); Managerial Economics (2009); Economics for Decision Taking (2010); Economic Environment (2009); Economics of the Firm (2005).</p>
 </section>
-<section id="teaching-undergraduate." class="level1">
-<h1> Teaching: Undergraduate.</h1>
+<section id="teaching-undergraduate." class="level1" data-number="19">
+<h1 data-number="19"><span class="header-section-number">19</span> Teaching: Undergraduate.</h1>
 <p><strong>Universidad de Monterrey (with applications in R and Python). México.</strong> 2015 – current<br>
 Topics in Finance (2015 – 2019); Econometrics for Financial Markets (2016 – 2023) COIL course joint with Universidad Pontificia Bolivariana; Financial Engineering (2016 – 2023); Financial Project Evaluation (2015, 2022); Financial Structure and Cost of Capital (2015, 2017); Financial Risk Management (2015 – 2023); Quantitative Foundations in Finance (2023 - 2024); Research Methods for Business (2024).</p>
 <p><strong>Universidad Privada del Norte. Perú.</strong> 2021<br>
@@ -351,20 +539,20 @@ Business Economics I; Business Economics II.</p>
 <p><strong>Universidad Autónoma de Nuevo León. México.</strong> 2001<br>
 Economic Development.</p>
 </section>
-<section id="teaching-executive-training." class="level1">
-<h1> Teaching: Executive training.</h1>
+<section id="teaching-executive-training." class="level1" data-number="20">
+<h1 data-number="20"><span class="header-section-number">20</span> Teaching: Executive training.</h1>
 <p>Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019); Mexican fiscal reform 2014; entrepreneurial seminar 2014; corporate training in finance for enterprises such as Kimberly-Clark (2013), Stoneridge (2013), Magna (2014, 2017), COPARMEX (2014), Linamar (2015, 10 groups), Ternium (2021).</p>
 </section>
-<section id="supervision-phd." class="level1">
-<h1> Supervision: PhD.</h1>
+<section id="supervision-phd." class="level1" data-number="21">
+<h1 data-number="21"><span class="header-section-number">21</span> Supervision: PhD.</h1>
 <p><strong>The University of Manchester.</strong> 2010 – 2012<br>
 <strong>PhD Finance.</strong></p>
 <ol type="1">
 <li><em>An economic evaluation of linear SDF models: An out-of-sample assessment.</em> Erwin Hansen (currently professor at the University of Chile). Co-supervision.</li>
 </ol>
 </section>
-<section id="supervision-msc-31." class="level1">
-<h1>Supervision: MSc (31).</h1>
+<section id="supervision-msc-31." class="level1" data-number="22">
+<h1 data-number="22"><span class="header-section-number">22</span> Supervision: MSc (31).</h1>
 <p><strong>London School of Business &amp; Finance.</strong>2012<br>
 <strong>MSc Finance &amp; Risk Management.</strong></p>
 <ol type="1">
@@ -417,8 +605,8 @@ Economic Development.</p>
 <li><em>Evolución temporal de la frontera media-varianza y su relación con la economía real.</em> Ana María Rivera Serrano. 2012.</li>
 </ol>
 </section>
-<section id="supervision-mba-18." class="level1">
-<h1> Supervision: MBA (18).</h1>
+<section id="supervision-mba-18." class="level1" data-number="23">
+<h1 data-number="23"><span class="header-section-number">23</span> Supervision: MBA (18).</h1>
 <p><strong>The University of Manchester.</strong> 2012<br>
 <strong>Full-Time MBA.</strong></p>
 <ol type="1">
@@ -450,8 +638,8 @@ Economic Development.</p>
 <li><em>Proyecto de consultoría de gestión relacionada a la vinculación estratégica entre mercadotecnia y ventas en la organización Empresa Mexicana de Manufacturas S.A. de C.V. (EMMSA).</em> Cesar Alejandro González Galarza, Mónica Rayos Hernández, Jorge Antonio Cisneros de Arce, Jorge Alberto Salazar Barreda. 2023</li>
 </ol>
 </section>
-<section id="supervision-undergraduate-41." class="level1">
-<h1> Supervision: Undergraduate (41).</h1>
+<section id="supervision-undergraduate-41." class="level1" data-number="24">
+<h1 data-number="24"><span class="header-section-number">24</span> Supervision: Undergraduate (41).</h1>
 <p><strong>Universidad de Monterrey (UDEM).</strong>2015 – 2023<br>
 <strong>Finance, accounting, business and economics degrees.</strong></p>
 <ol type="1">
@@ -498,8 +686,8 @@ Economic Development.</p>
 <li><em>Performance evaluation of investment strategies based on automated technical analysis algorithms.</em> Carlos Andrés Gutiérrez Mendivil, Danya Cecilia Martínez Ramírez, Paulina Torres Treviño, Ana María Barrera Portillo. 2016.</li>
 </ol>
 </section>
-<section id="free-time." class="level1">
-<h1> Free time.</h1>
+<section id="free-time." class="level1" data-number="25">
+<h1 data-number="25"><span class="header-section-number">25</span> Free time.</h1>
 <p>I love art as the expression of human creativity and imagination. I spend some free time playing my Yamaha digital piano. I used to be an active keyboardist, piano player, and orchestra director. Most of my experience in this field has been as a musician at live concerts in Mexico and Europe, piano solo concerts, and musicals organized by the Tecnológico de Monterrey for about a decade.</p>
 <p>My top painters: Velázquez, Goya, Dalí, Picasso, Tamayo among others. My top musicians: Chick Corea, Wynton Marsalis, Paco de Lucía, Dave Brubeck, George Gershwin, Leonard Bernstein, among others.</p>
 <!-- ```{r overview, child = 'Course overview.Rmd'} -->
@@ -518,7 +706,7 @@ Economic Development.</p>
 <!-- ``` -->
 <!-- ```{r resources, child = 'Internet resources.Rmd'} -->
 <!-- ``` -->
-<p>This document took 0.31 seconds to compile in Quarto version 1.5.54, and R version 4.4.1 (2024-06-14 ucrt).</p>
+<p>This document took 0.36 seconds to compile in Quarto version 1.5.54, and R version 4.4.1 (2024-06-14 ucrt).</p>
 <!-- # `<svg aria-hidden="true" role="img" viewBox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M249.6 471.5c10.8 3.8 22.4-4.1 22.4-15.5V78.6c0-4.2-1.6-8.4-5-11C247.4 52 202.4 32 144 32C93.5 32 46.3 45.3 18.1 56.1C6.8 60.5 0 71.7 0 83.8V454.1c0 11.9 12.8 20.2 24.1 16.5C55.6 460.1 105.5 448 144 448c33.9 0 79 14 105.6 23.5zm76.8 0C353 462 398.1 448 432 448c38.5 0 88.4 12.1 119.9 22.6c11.3 3.8 24.1-4.6 24.1-16.5V83.8c0-12.1-6.8-23.3-18.1-27.6C529.7 45.3 482.5 32 432 32c-58.4 0-103.4 20-123 35.6c-3.3 2.6-5 6.8-5 11V456c0 11.4 11.7 19.3 22.4 15.5z"/></svg>`{=html} References. {.unnumbered} -->
 <!-- ::: {#refs} -->
 <!-- ::: -->
@@ -546,6 +734,150 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -615,6 +947,57 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       container: window.document.getElementById('quarto-embedded-source-code-modal')
     });
     clipboardModal.on('success', onCopySuccess);
+  }
+  const viewSource = window.document.getElementById('quarto-view-source') ||
+                     window.document.getElementById('quarto-code-tools-source');
+  if (viewSource) {
+    const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
+    viewSource.addEventListener("click", function(e) {
+      if (sourceUrl) {
+        // rstudio viewer pane
+        if (/\bcapabilities=\b/.test(window.location)) {
+          window.open(sourceUrl);
+        } else {
+          window.location.href = sourceUrl;
+        }
+      } else {
+        const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
+        modal.show();
+      }
+      return false;
+    });
+  }
+  function toggleCodeHandler(show) {
+    return function(e) {
+      const detailsSrc = window.document.querySelectorAll(".cell > details > .sourceCode");
+      for (let i=0; i<detailsSrc.length; i++) {
+        const details = detailsSrc[i].parentElement;
+        if (show) {
+          details.open = true;
+        } else {
+          details.removeAttribute("open");
+        }
+      }
+      const cellCodeDivs = window.document.querySelectorAll(".cell > .sourceCode");
+      const fromCls = show ? "hidden" : "unhidden";
+      const toCls = show ? "unhidden" : "hidden";
+      for (let i=0; i<cellCodeDivs.length; i++) {
+        const codeDiv = cellCodeDivs[i];
+        if (codeDiv.classList.contains(fromCls)) {
+          codeDiv.classList.remove(fromCls);
+          codeDiv.classList.add(toCls);
+        } 
+      }
+      return false;
+    }
+  }
+  const hideAllCode = window.document.getElementById("quarto-hide-all-code");
+  if (hideAllCode) {
+    hideAllCode.addEventListener("click", toggleCodeHandler(false));
+  }
+  const showAllCode = window.document.getElementById("quarto-show-all-code");
+  if (showAllCode) {
+    showAllCode.addEventListener("click", toggleCodeHandler(true));
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
@@ -951,4 +1334,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="index_files/libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

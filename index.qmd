@@ -14,11 +14,11 @@ knitr::opts_chunk$set(fig.pos = "H", out.extra = "")
 ```
 
 
-<!-- ````{=html} -->
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- xfun::file_string('contact.html') -->
-<!-- ``` -->
-<!-- ```` -->
+````{=html}
+```{r, echo=FALSE, results='asis'}
+xfun::file_string('contact.html')
+```
+````
 
 ```{r introduction, child = 'cv-mlozano.Rmd'}
 ```

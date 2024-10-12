@@ -24,13 +24,25 @@ urlcolor: blue
 
 # \faHome \hspace{1 mm} Contact.
 
-\faEnvelopeO \hspace{1 mm}{mlozanoqf@gmail.com} \href{mailto:mlozanoqf@gmail.com}{\color{black}}
+`r fontawesome::fa("envelope")` Personal: <a href="mailto:mlozanoqf@gmail.com">mlozanoqf@gmail.com</a>
 
-\faEnvelopeO \hspace{1 mm}{martin.lozano@udem.edu} \href{mailto:martin.lozano@udem.edu}{\color{black}} \hspace{1 mm} \faEnvelopeO \hspace{1 mm}{ml143@soas.ac.uk} \href{mailto:ml143@soas.ac.uk}{\color{black}} \hspace{1 mm}
-\faEnvelopeO \hspace{1 mm}{martin.lozanobanda@manchester.ac.uk}\href{mailto:martin.lozanobanda@manchester.ac.uk}{\color{black}}
-\hspace{1 mm}
+`r fontawesome::fa("envelope")` UDEM: <a href="mailto:martin.lozano@udem.edu">martin.lozano@udem.edu</a> 
 
-\faGithub \hspace{1 mm}\href{https://github.com/mlozanoqf/}{GitHub} \hspace{1 mm} \faYoutubePlay \hspace{1 mm} \href{http://www.youtube.com/user/drmartinlozano}{YouTube} \hspace{1 mm} \faGithubSquare \hspace{1 mm} \href{https://mlozanoqf.github.io/}{GitHub Pages} \hspace{1 mm} \faGlobe \hspace{1 mm} \href{http://sites.google.com/site/mlozanoqf/}{Web} \hspace{1 mm}
+`r fontawesome::fa("envelope")` SOAS: <a href="mailto:ml143@soas.ac.uk">ml143@soas.ac.uk</a> 
+
+`r fontawesome::fa("envelope")` UoM: <a href="martin.lozanobanda@manchester.ac.uk">martin.lozanobanda@manchester.ac.uk</a>
+
+`r fontawesome::fa("github")`
+<i class="fa-brands fa-github"></i> [https://github.com/mlozanoqf/](https://github.com/mlozanoqf/)
+
+<img src="./ssrn.svg" height="65" width="35" />
+[https://ssrn.com/author=1490785](https://ssrn.com/author=1490785)
+
+`r fontawesome::fa("youtube")`[http://www.youtube.com/user/drmartinlozano](http://www.youtube.com/user/drmartinlozano)
+
+
+
+{YouTube} \hspace{1 mm} \faGithubSquare \hspace{1 mm} \href{https://mlozanoqf.github.io/}{GitHub Pages} \hspace{1 mm} \faGlobe \hspace{1 mm} \href{http://sites.google.com/site/mlozanoqf/}{Web} \hspace{1 mm}
 \faLinkedinSquare \hspace{1 mm}
 \href{https://linkedin.com/in/martin-lozano-21818a22}{LinkedIn} \hspace{1 mm}
 \aiGoogleScholar \hspace{1 mm} \href{http://scholar.google.com.mx/citations?user=w8boOboAAAAJ}{Google Scholar} \hspace{1 mm}

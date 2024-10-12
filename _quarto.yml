@@ -1,0 +1,37 @@
+title: Dr. Martín Lozano
+subtitle: Curriculum vitae.
+#author: Dr. Martín Lozano <tt>`<martin.lozano@udem.edu>`</tt>
+date-modified: now
+date-format: "MMMM D, YYYY, HH:mm:ss a."
+
+
+#abstract: A course syllabus is an academic document containing relevant information for students. This document serves as your ultimate guide to successfully completing this course. Please read it regularly and carefully. Within this document, you will find a comprehensive description of the course goals, rules, objectives, recommendations, grading details, a detailed schedule, activities, resources, references, and learning outcomes. The objective of this document is to provide you with complete certainty regarding what to expect from this course, starting from day 1 until the final exam. Based on my experience, reading this syllabus is positively correlated with students' performance.
+#bibliography: mybibfile.bib
+  
+theme:
+  light: flatly
+  dark: darkly
+  
+format: 
+  html:
+    toc: true
+    toc-title: Contents
+    smooth-scroll: true
+    code-fold: false
+    code-tools:
+      source: false
+      toggle: true
+    code-block-bg: true
+    code-block-border-left: "#31BAE9"
+    code-line-numbers: true
+    number-sections: true
+    toc-location: left
+    toc-depth: 2
+    page-layout: full
+#    include-after-body: analytics_fcf.html
+    include-in-header: 
+      - back-to-top.html
+      - progressbar.html
+        
+link-citations: true
+
