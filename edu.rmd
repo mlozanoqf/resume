@@ -1,0 +1,148 @@
+# \faUniversity \hspace{1 mm} Education.
+
+## PhD.
+
+**PhD in Quantitative Finance.** \hfill 2005 – 2010\
+University of the Basque Country. Spain.\
+Inter-university programme including Universidad de Valencia, Universidad Complutense de Madrid, Universidad del País Vasco, Universidad Carlos III de Madrid. *Supervisor: Prof. Gonzalo Rubio (Universidad CEU Cardenal Herrera). Internal: Prof. Alfonso Novales (Universidad Complutense de Madrid). PhD committee members: Dr. María Victoria Esteban (Universidad del País Vasco); Prof.  Ángel Pardo (Universidad de Valencia); Dr. Rosa Rodríguez (Universidad Carlos III de Madrid); External: Dr. Iñaki Rodríguez (University of Tromsø).*
+
+**Doctor *Europaeus* mention.** \hfill 2010\
+European University Association.\
+*Supporting reviews by: Dr. Angélica González (University of Edinburgh) and Prof. Leopold Sögner (University of Vienna). Additional external reports from: Prof. Stuart Hyde (Manchester Business School); Prof. Richard Stehle (Humboldt University); Dr. Andreas Schrimpf (Aarhus University); Dr. Valerio Potì (Dublin City University); Prof. Marcelo Fernandes (Queen Mary, University of London); Prof. Paul Söderlind (University of St. Gallen).*
+
+**Pre-doctoral Marie Curie research fellow.** \hfill 2007 – 2008\
+The University of Manchester. UK.\
+*Supported by the Sixth European Community Framework Programme.*
+
+\hspace{1 mm}
+
+## Post-graduate.
+
+**Master Degree in Statistical Learning and Data Mining.** \hfill 2019\
+Universidad Nacional de Educación a Distancia (UNED). Spain.
+
+**Diploma University Expert in Statistical Learning and Data Mining.** \hfill 2019\
+UNED. Spain.
+
+**Diploma University Expert in Statistical Techniques for the Scientific Analysis of Data.** \hfill 2017\
+UNED. Spain.
+
+**Master Degree in Modern Applied Statistical Methods.** \hfill 2016\
+UNED. Spain.
+
+**Diploma University Expert in Advanced Methods of Applied Statistics.** \hfill 2015\
+UNED. Spain.
+
+**Advanced Studies in Quantitative Finance.** \hfill 2005 – 2006\
+Universidad Complutense de Madrid. Spain.
+
+**MSc Finance.** \hfill 2000 – 2002\
+EGADE Business School. México.
+
+**BS Economics.** \hfill 1993–1997\
+Tecnológico de Monterrey, Campus Monterrey. México.
+
+\hspace{1 mm}
+
+## Profesional training.
+
+1. **Training on the European tertiary education register (ETER)**\hfill 2022\
+European Tertiary Education Register. Università della Svizzera italiana.
+2. **Evaluación de políticas y programas públicos.**\hfill 2022\
+Secretaría de Hacienda y Crédito Público SHCP. México.
+3. **Spatial models for estimating determinants of regional knowledge creation.**\hfill 2022\
+Methods in Action. AIT Austrian Institute of Technology.
+4. **Introduction to sustainable finance.**\hfill 2022\
+United Nations Climate Change Learning Partnership (UN CC:Learn).
+5. **Synthetic data for privacy, security and augmentation.**\hfill 2022\
+ART-AI. University of Bath.
+6. **Computer vision.**\hfill 2022\
+Duke Machine Learning Winter School. Duke University.
+7. **Dealing with heteroscedasticity and other issues in regressions about scaling.**\hfill 2022\
+Methods in Action. USI – Università della Svizzera Italiana. Lugano, Switzerland.
+8. **Norges Bank-CEPR workshop: Frontier research in banking.**\hfill 2021\
+Christiania Qvartalet Meeting Center, Oslo. Norway.
+9. **Carbon literacy training for business schools.**\hfill 2021\
+Nottingham Business School; UN PRME Champions; and The Carbon Literacy Project.
+10. **Diplomado: Introducción a las migraciones internacionales.**\hfill 2021\
+Universidad Complutense de Madrid & Instituto Complutense de Estudios Internacionales. Spain.
+11. **Science, technology and innovation policy evaluation.**\hfill 2021\
+Manchester Institute of Innovation Research (MIOIR). UK.
+12. **Digital humanities & research software engineering summer school.** \hfill 2021\
+The Alan Turing Institute. UK.
+13. **Diseño de indicadores para el desarrollo social.** \hfill 2020\
+Consejo Nacional de Evaluación de la Política de Desarrollo Social. México.
+14. **Applications of multi-level models to research policy and higher education studies.** \hfill 2020\
+RISIS (Research Infrastructure for Science and Innovation Policy Studies). Italy.
+15. **Summer school on data science for studying science, technology and innovation.** \hfill 2019\
+RISIS. Strathclyde Business School, Glasgow. UK.
+16. **Proyectos de inversión en bienes inmobiliarios.** \hfill 2019\
+Riskmathics. México.
+17. **Faculty training.** \hfill 2015 – 2016\
+Universidad de Monterrey (UDEM). México.
+18. **Faculty training.** \hfill 2015\
+University of Liverpool’s Management School. UK.
+19. **Faculty training.** \hfill 2015\
+University of Roehampton, London Online. UK.
+20. **Course on panel data analysis.** \hfill 2007\
+Instituto de Estudios Fiscales. Spain.
+21. **Teaching techniques: PBL, POL, collaborative learning, case-based method.** \hfill 1999 – 2002\
+Tecnológico de Monterrey, Campus Monterrey. México.
+22. **Ethics across the curriculum.** \hfill 1999\
+Loyola University Chicago.
+23. **Diploma in economic and financial analysis.** \hfill 1998\
+Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
+
+\hspace{1 mm}
+
+## Certifications in R.
+
+**DataCamp courses (42).** Introduction to R; Introduction to Importing Data in R; Introduction to R for Finance; Introduction to Writing Functions in R; Importing and Managing Financial Data in R; Intermediate R for Finance; Data Science for Everyone; Foundations of Probability in R; Time Series Analysis in R; Introduction to the Tidyverse; Credit Risk Modeling in R; Manipulating Time Series Data with \texttt{xts} and \texttt{zoo} in R; Intermediate R; Data Manipulation with \texttt{dplyr}; Joining Data with \texttt{dplyr}; Introduction to Data Visualization with \texttt{ggplot2}; Intermediate Data Visualization with \texttt{ggplot2}; Intermediate Importing Data in R; Data Cleaning in R; Working with Data in the Tidyverse; Working with Dates and Times in R; Exploratory Data Analysis in R; Case Study Exploratory Data Analysis in R; Correlation and Regression in R; Supervised Learning in R Classification; Supervised Learning in R: Regression; Unsupervised Learning in R; Cluster Analysis in R; Machine Learning with \texttt{caret} in R; Data Engineering for Everyone; ARIMA Models in R; Forecasting in R; Visualizing Time Series Data in R; Case Studies: Manipulating Time Series Data in R; Introduction to Portfolio Analysis in R; Intermediate Portfolio Analysis in R; Bond Valuation and Analysis in R; Quantitative Risk Management in R; Financial Trading in R; Equity Valuation in R; Life Insurance Products Valuation in R; GARCH Models in R.
+
+**DataCamp skill tracks (6).** Importing & Cleaning Data with R (4 courses); Finance Basics with R (4 courses); Machine Learning Fundamentals in R (4 courses); Time Series with R (6 courses); Finance Fundamentals in R (6 courses); Applied Finance in R (7 courses).
+
+**DataCamp career tacks (2).** Data Scientist with R (19 courses); Quantitative Analyst with R (15 courses).
+
+\hspace{1 mm}
+
+# \faShareAlt \hspace{1 mm} Service to the academia.
+
+**Reviewer.** Quarterly Review of Economics and Finance (since 2011); Journal of Banking and Finance (since 2010).
+
+**Editor.** Associate Editor Journal of Accounting, Finance and Economics (since 2014); Munich Paper of RePEc Archive MPRA (2010, 2011); Advances in Management (2011).
+
+**Scientific and academic committees.** External evaluator for Agencia Nacional de Investigación y Desarrollo (ANID) del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación de Chile (2021). Examiner for MScs and PG Diplomas in Financial and Management Studies University of London International Programmes (2012, 2015, 2016). Examination panel of biannual Finance PhD reviews Manchester Business School (06/2011 and 06/2012). Eastern Finance Association (2009, 2010 and 2012); Midwest Finance Association (2009 and 2010); Southwestern Finance Association (Annual Meetings: 48th and 49th).
+
+\hspace{1 mm}
+
+# \faCertificate \hspace{1 mm} Awards & honors.
+
+1. UN Climate Change Conference UK. Coventry University. Certified as *carbon literate*. \hfill 2022
+*This certification is part of the Carbon Literacy standard. Unlike other training courses, the Carbon Literacy certificate is not just a recognition of participation. The certificate transforms the course from an educational tool into a recognised qualification and represents a robust understanding of the climate context of each learner’s day-to-day life, and a commitment to recognise ways to adjust our behaviour to reduce our carbon footprint, as well as influencing our social and professional circles.*
+2. UDEM. Member of the research committee CIDINE. \hfill 2015 – 2022
+3. UDEM. Nominated as "Profesor sobresaliente" (business school). \hfill 2019
+4. UDEM. President of the academia of finance. \hfill 2016 – 2019
+5. UDEM. Claustro universitario X. \hfill 2017 – 2018 
+6. UDEM. Finalist *Ser Sobresaliente 2016* award. \hfill 2016
+7. Sistema de Expertos de Educación Ejecutiva del Tecnológico de Monterrey. \hfill 2015 – 2020
+8. Listed on SSRN’s top ten download list. \hfill 2011
+9. European Community Framework Programme Marie Curie fellowship. UK. \hfill 2007 – 2008
+10. Basque Government mobility grant. Spain. \hfill 2007
+11. University of the Basque Country doctoral fellowship. Spain. \hfill 2005 – 2007
+12. BBVA Foundation doctoral fellowship. Spain. \hfill 2004 – 2005
+13. Universidad Virtual, Tecnológico de Monterrey. Academic senator member: \hfill 2003
+14. EGADE Business School MSc fellowship. México. \hfill 2000 – 2002
+
+\hspace{1 mm}
+
+# \faCogs \hspace{1 mm} Design course assessment material.
+
+**University of London, School of Oriental and African Studies.** \hfill 2015 – 2022\
+**MSc in Quantitative Finance and MSc in Economic Policy.**
+
+1. Derivatives (2015 – 2020).
+2. Financial Engineering (2019 – 2022).
+3. Banking and Capital Markets (2019 – 2021).
+
+\hspace{1 mm}
+

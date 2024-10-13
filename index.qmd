@@ -20,16 +20,27 @@ xfun::file_string('contact.html')
 ```
 ````
 
-```{r introduction, child = 'cv-mlozano.Rmd'}
+```{r experience, child = 'expertexper.Rmd'}
 ```
 
 
-```{r experience, child = 'Experience.Rmd'}
+```{r publications, child = 'publi.Rmd'}
 ```
 
-<!-- ```{r overview, child = 'Course overview.Rmd'} -->
-<!-- ``` -->
 
+```{r conferences, child = 'conf.Rmd'}
+```
+
+```{r education, child = 'edu.Rmd'}
+```
+
+
+```{r teaching, child = 'teaching.Rmd'}
+```
+
+
+```{r supervision, child = 'supervision.Rmd'}
+```
 
 <!-- ```{r data science, child = 'Data Science.Rmd'} -->
 <!-- ``` -->
