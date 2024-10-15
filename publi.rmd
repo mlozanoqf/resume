@@ -1,41 +1,41 @@
-# \faFolderOpen \hspace{1 mm} Publications.
+# `r fontawesome::fa("folder-plus")` Publications.
 
-## Journal publications.
+## `r fontawesome::fa("folder")` Journal publications.
 
-1. *Portfolio performance of linear SDF models: An out-of-sample assessment.* With Erwin Hansen and Massimo Guidolin. **Quantitative Finance**.  Vol. 18, No. 8, 1425–1436, 2018. http://dx.doi.org/10.1080/14697688.2018.1429646.
-2.	*Evaluating alternative methods for testing asset pricing models with historical data.* With Gonzalo Rubio. **Journal of Empirical Finance.**  Volume 18, Issue 1, January 2011, Pages 136–146. http://dx.doi.org/10.1016/j.jempfin.2010.05.005
-3.	*Financial crisis: imbalances, irrationality and regulation.* Editorial for **Advances in Management.** February 2012. Listed on SSRN’s top ten download list: Resource Financing Strategies: as of 12/11/2011. http://ssrn.com/abstract=1965011
-4.	Research assistance for: *Dividend Growth, Cash Flow and Discount Rate News.* Ian Garrett and Richard Priestley. **Journal of Financial and Quantitative Analysis.**  Vol. 47, No. 5, Oct. 2012, pp. 1003–1028. http://dx.doi.org/10.1017/S0022109012000427
+1. *Portfolio performance of linear SDF models: An out-of-sample assessment.* With Erwin Hansen and Massimo Guidolin. **Quantitative Finance**.  Vol. 18, No. 8, 1425–1436, 2018. [http://dx.doi.org/10.1080/14697688.2018.1429646](http://dx.doi.org/10.1080/14697688.2018.1429646).
+2.	*Evaluating alternative methods for testing asset pricing models with historical data.* With Gonzalo Rubio. **Journal of Empirical Finance.**  Volume 18, Issue 1, January 2011, Pages 136–146. [http://dx.doi.org/10.1016/j.jempfin.2010.05.005](http://dx.doi.org/10.1016/j.jempfin.2010.05.005)
+3.	*Financial crisis: imbalances, irrationality and regulation.* Editorial for **Advances in Management.** February 2012. Listed on SSRN’s top ten download list: Resource Financing Strategies: as of 12/11/2011. [http://ssrn.com/abstract=1965011](http://ssrn.com/abstract=1965011)
+4.	Research assistance for: *Dividend Growth, Cash Flow and Discount Rate News.* Ian Garrett and Richard Priestley. **Journal of Financial and Quantitative Analysis.**  Vol. 47, No. 5, Oct. 2012, pp. 1003–1028. [http://dx.doi.org/10.1017/S0022109012000427](http://dx.doi.org/10.1017/S0022109012000427)
 5.	Proceedings: *The efficiency of the SDF and Beta methods at evaluating multi-factor asset-pricing models.* With Stuart Hyde and Ian Garrett. **Southwestern Finance Association 48th Annual Meeting Proceedings.** Oklahoma City, USA. 2009.
 
 \hspace{1 mm}
 
-## \faSpotify \hspace{1 mm} Media.
+## `r fontawesome::fa("podcast")` Media.
 
 1. *Retos y oportunidadades en el aprendizaje de ciencia de datos en las escuelas de negocios.* Podcast: Café de Datos, Datlas. Temporada 9, capítulo 132. [Episodio en Spotify](https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=5s9ik8ffQcW_Sy9NVU5sxg); [episodio en YouTube](https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC).
 2. *La industria del acero.* Suplemento Grupo Milenio. June 2016.
 
 \hspace{1 mm}
 
-## \faGithub \hspace{1 mm} Open access.
+## `r fontawesome::fa("folder-open")` Open access.
 
-1. *Quantitative finance with R.* 2024. Available at https://mlozanoqf.github.io/
-
-\hspace{1 mm}
-
-## \faGithub \hspace{1 mm} Open source software projects.
-
-1. *Credit risk in public firms.* 2023. First stage collaborators: Hernán González Aguilera, and Ramiro Castellanos Barrón. Available at https://github.com/mlozanoqf/RunwayFinance
+1. *Quantitative finance with R.* 2024. Available at [https://mlozanoqf.github.io/](https://mlozanoqf.github.io/)
 
 \hspace{1 mm}
 
-## \faFolder \hspace{1 mm} Working papers.
+## `r fontawesome::fa("square-github")` Open source software.
+
+1. *Credit risk in public firms.* 2023. First stage collaborators: Hernán González Aguilera, and Ramiro Castellanos Barrón. Available at [https://github.com/mlozanoqf/RunwayFinance](https://github.com/mlozanoqf/RunwayFinance)
+
+\hspace{1 mm}
+
+## `r fontawesome::fa("spinner")` Working papers.
 
 1.	*Multifactor Empirical Asset Pricing Under Higher-Order Moment Variations.* 2020. With Massimo Guidolin, and Juan Arismendi Zambrano.
-2.	*Performance of asset allocation strategies in Europe: An out-of-sample assessment.* 2014. With Francisco Navarro. http://ssrn.com/abstract=2474542
-3.	*Portfolio choice in the presence of estimation error: A pricing model filter approach.* 2014. http://ssrn.com/abstract=2476321
-4.	*Trade-offs between efficiency and robustness in the empirical evaluation of asset pricing models.* 2011. With Stuart Hyde and Ian Garrett. http://papers.ssrn.com/abstract=1754743 Listed on SSRN’s top ten download list: Econometric & Statistical Methods, and Applied Econometric Modelling in Financial Economics: October 7, 2011 to December 6, 2011.
-5.	*Econometrics of asset pricing: methodological review and empirical exercise.* 2009. http://papers.ssrn.com/abstract=1754762
+2.	*Performance of asset allocation strategies in Europe: An out-of-sample assessment.* 2014. With Francisco Navarro. [http://ssrn.com/abstract=2474542](http://ssrn.com/abstract=2474542)
+3.	*Portfolio choice in the presence of estimation error: A pricing model filter approach.* 2014. [http://ssrn.com/abstract=2476321](http://ssrn.com/abstract=2476321)
+4.	*Trade-offs between efficiency and robustness in the empirical evaluation of asset pricing models.* 2011. With Stuart Hyde and Ian Garrett. [http://papers.ssrn.com/abstract=1754743](http://papers.ssrn.com/abstract=1754743) Listed on SSRN’s top ten download list: Econometric & Statistical Methods, and Applied Econometric Modelling in Financial Economics: October 7, 2011 to December 6, 2011.
+5.	*Econometrics of asset pricing: methodological review and empirical exercise.* 2009. [http://papers.ssrn.com/abstract=1754762](http://papers.ssrn.com/abstract=1754762)
 
 \hspace{1 mm}
 

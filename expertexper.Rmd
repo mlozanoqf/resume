@@ -51,9 +51,9 @@ urlcolor: blue
 
 
 <!-- \hspace{1 mm} -->
-# Background.
+# `r fontawesome::fa("user-tie")` Background.
 
-## \faBookmark \hspace{1 mm} Expertise.
+## `r fontawesome::fa("magnifying-glass")` Expertise.
 
 **Main areas.** Finance, Economics, Statistics, Data Science.
 
@@ -66,7 +66,7 @@ urlcolor: blue
 **Teaching interests.** Introductory economics (microeconomics, macroeconomics), economic analysis, quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics, statistics, innovation.
 
 \hspace{1 mm}
-## Experience. 
+## `r fontawesome::fa("briefcase")` Experience. 
 
 **Professor of finance.** \hfill 2015 – current\
 Universidad de Monterrey (UDEM). Department of Economics and Finance. México.

@@ -1,6 +1,6 @@
-# \faComments \hspace{1 mm} Conferences.
+# `r fontawesome::fa_i(name = "comment", title = "Solid Comment", class = "fas")` Conferences.
 
-## International conferences.
+## `r fontawesome::fa("globe")` International conferences.
 
 1. **Econometric Research in Finance (ERFIN) Workshop. Warsaw, Poland.**\hfill September 2021
 SGH Warsaw School of Economics.\
@@ -33,7 +33,7 @@ Universitat de les Illes Balears.\
 
 \hspace{1 mm}
 
-## \faCommenting \hspace{1 mm} Research seminars.
+## `r fontawesome::fa("person-chalkboard")` Research seminars.
 
 1. **University of Liverpool. Management School Seminar Series. UK.** \hfill November 2019\
 Multifactor empirical asset pricing under higher-order moment variations.
