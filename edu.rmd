@@ -1,6 +1,6 @@
-# \faUniversity \hspace{1 mm} Education.
+# `r fontawesome::fa("building-columns")` Education.
 
-## PhD.
+## `r fontawesome::fa("pen")` PhD.
 
 **PhD in Quantitative Finance.** \hfill 2005 – 2010\
 University of the Basque Country. Spain.\
@@ -16,7 +16,7 @@ The University of Manchester. UK.\
 
 \hspace{1 mm}
 
-## Post-graduate.
+## `r fontawesome::fa("graduation-cap")` Post-graduate.
 
 **Master Degree in Statistical Learning and Data Mining.** \hfill 2019\
 Universidad Nacional de Educación a Distancia (UNED). Spain.
@@ -44,7 +44,7 @@ Tecnológico de Monterrey, Campus Monterrey. México.
 
 \hspace{1 mm}
 
-## Profesional training.
+## `r fontawesome::fa("rocket")` Profesional training.
 
 1. **Training on the European tertiary education register (ETER)**\hfill 2022\
 European Tertiary Education Register. Università della Svizzera italiana.
@@ -95,7 +95,7 @@ Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 
 \hspace{1 mm}
 
-## Certifications in R.
+## `r fontawesome::fa("r-project")` Certifications in R.
 
 **DataCamp courses (42).** Introduction to R; Introduction to Importing Data in R; Introduction to R for Finance; Introduction to Writing Functions in R; Importing and Managing Financial Data in R; Intermediate R for Finance; Data Science for Everyone; Foundations of Probability in R; Time Series Analysis in R; Introduction to the Tidyverse; Credit Risk Modeling in R; Manipulating Time Series Data with \texttt{xts} and \texttt{zoo} in R; Intermediate R; Data Manipulation with \texttt{dplyr}; Joining Data with \texttt{dplyr}; Introduction to Data Visualization with \texttt{ggplot2}; Intermediate Data Visualization with \texttt{ggplot2}; Intermediate Importing Data in R; Data Cleaning in R; Working with Data in the Tidyverse; Working with Dates and Times in R; Exploratory Data Analysis in R; Case Study Exploratory Data Analysis in R; Correlation and Regression in R; Supervised Learning in R Classification; Supervised Learning in R: Regression; Unsupervised Learning in R; Cluster Analysis in R; Machine Learning with \texttt{caret} in R; Data Engineering for Everyone; ARIMA Models in R; Forecasting in R; Visualizing Time Series Data in R; Case Studies: Manipulating Time Series Data in R; Introduction to Portfolio Analysis in R; Intermediate Portfolio Analysis in R; Bond Valuation and Analysis in R; Quantitative Risk Management in R; Financial Trading in R; Equity Valuation in R; Life Insurance Products Valuation in R; GARCH Models in R.
 
@@ -105,7 +105,7 @@ Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 
 \hspace{1 mm}
 
-# \faShareAlt \hspace{1 mm} Service to the academia.
+# `r fontawesome::fa("pen-to-square")` Service to the academia.
 
 **Reviewer.** Quarterly Review of Economics and Finance (since 2011); Journal of Banking and Finance (since 2010).
 
@@ -115,7 +115,7 @@ Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 
 \hspace{1 mm}
 
-# \faCertificate \hspace{1 mm} Awards & honors.
+# `r fontawesome::fa("award")` Awards & honors.
 
 1. UN Climate Change Conference UK. Coventry University. Certified as *carbon literate*. \hfill 2022
 *This certification is part of the Carbon Literacy standard. Unlike other training courses, the Carbon Literacy certificate is not just a recognition of participation. The certificate transforms the course from an educational tool into a recognised qualification and represents a robust understanding of the climate context of each learner’s day-to-day life, and a commitment to recognise ways to adjust our behaviour to reduce our carbon footprint, as well as influencing our social and professional circles.*
