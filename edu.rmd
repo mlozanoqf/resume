@@ -5,82 +5,50 @@
 1. **PhD in Quantitative Finance.** 2005 – 2010.
 Inter-university programme including: [University of the Basque Country,](https://www.ehu.eus/en/en-home) [Universidad de Valencia,](https://www.uv.es/) [Universidad Complutense de Madrid,](https://www.ucm.es/) [Universidad Carlos III de Madrid](https://www.uc3m.es/inicio). Spain. *Supervisor: Prof. Gonzalo Rubio (Universidad CEU Cardenal Herrera). Internal: Prof. Alfonso Novales (Universidad Complutense de Madrid). PhD committee members: Dr. María Victoria Esteban (Universidad del País Vasco); Prof.  Ángel Pardo (Universidad de Valencia); Dr. Rosa Rodríguez (Universidad Carlos III de Madrid); External: Dr. Iñaki Rodríguez (University of Tromsø).*
 2. **Doctor *Europaeus* mention.** 2010.
-European University Association.\
+[European University Association (EUA).](https://www.eua.eu/)\
 *Supporting reviews by: Dr. Angélica González (University of Edinburgh) and Prof. Leopold Sögner (University of Vienna). Additional external reports from: Prof. Stuart Hyde (Manchester Business School); Prof. Richard Stehle (Humboldt University); Dr. Andreas Schrimpf (Aarhus University); Dr. Valerio Potì (Dublin City University); Prof. Marcelo Fernandes (Queen Mary, University of London); Prof. Paul Söderlind (University of St. Gallen).*
 3. **Pre-doctoral Marie Curie research fellow.** 2007 – 2008.
-The University of Manchester. UK.\
+[The University of Manchester.](https://www.manchester.ac.uk/) United Kingdom.\
 *Supported by the Sixth European Community Framework Programme.*
 
 
 ## `r fontawesome::fa("graduation-cap")` Post-graduate.
 
-1. **Master Degree in Statistical Learning and Data Mining.** \hfill 2019\
-Universidad Nacional de Educación a Distancia (UNED). Spain.
-2. **Diploma University Expert in Statistical Learning and Data Mining.** \hfill 2019\
-UNED. Spain.
-3. **Diploma University Expert in Statistical Techniques for the Scientific Analysis of Data.** \hfill 2017\
-UNED. Spain.
-4. **Master Degree in Modern Applied Statistical Methods.** \hfill 2016\
-UNED. Spain.
-5. **Diploma University Expert in Advanced Methods of Applied Statistics.** \hfill 2015\
-UNED. Spain.
-6. **Advanced Studies in Quantitative Finance.** \hfill 2005 – 2006\
-Universidad Complutense de Madrid. Spain.
-7. **MSc Finance.** \hfill 2000 – 2002\
-EGADE Business School. México.
-8. **BS Economics.** \hfill 1993–1997\
-Tecnológico de Monterrey, Campus Monterrey. México.
+1. **Master Degree in Statistical Learning and Data Mining.** 2019. [Universidad Nacional de Educación a Distancia (UNED).](https://www.uned.es/universidad/inicio.html) Spain.
+2. **Diploma University Expert in Statistical Learning and Data Mining.** 2019. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+3. **Diploma University Expert in Statistical Techniques for the Scientific Analysis of Data.** 2017. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+4. **Master Degree in Modern Applied Statistical Methods.** 2016. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+5. **Diploma University Expert in Advanced Methods of Applied Statistics.** 2015. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+6. **Advanced Studies in Quantitative Finance.** 2005 – 2006. [Universidad Complutense de Madrid.](https://www.ucm.es/) Spain.
+7. **MSc Finance.** 2000 – 2002. [EGADE Business School.](https://egade.tec.mx/es/home) México.
+8. **BS Economics.** 1993 – 1997. [Tecnológico de Monterrey,](https://tec.mx/es) Campus Monterrey. México.
 
 ## `r fontawesome::fa("rocket")` Profesional training.
 
-1. **Training on the European tertiary education register (ETER)**\hfill 2022\
-European Tertiary Education Register. Università della Svizzera italiana.
-2. **Evaluación de políticas y programas públicos.**\hfill 2022\
-Secretaría de Hacienda y Crédito Público SHCP. México.
-3. **Spatial models for estimating determinants of regional knowledge creation.**\hfill 2022\
-Methods in Action. AIT Austrian Institute of Technology.
-4. **Introduction to sustainable finance.**\hfill 2022\
-United Nations Climate Change Learning Partnership (UN CC:Learn).
-5. **Synthetic data for privacy, security and augmentation.**\hfill 2022\
-ART-AI. University of Bath.
-6. **Computer vision.**\hfill 2022\
-Duke Machine Learning Winter School. Duke University.
-7. **Dealing with heteroscedasticity and other issues in regressions about scaling.**\hfill 2022\
-Methods in Action. USI – Università della Svizzera Italiana. Lugano, Switzerland.
-8. **Norges Bank-CEPR workshop: Frontier research in banking.**\hfill 2021\
-Christiania Qvartalet Meeting Center, Oslo. Norway.
-9. **Carbon literacy training for business schools.**\hfill 2021\
-Nottingham Business School; UN PRME Champions; and The Carbon Literacy Project.
-10. **Diplomado: Introducción a las migraciones internacionales.**\hfill 2021\
-Universidad Complutense de Madrid & Instituto Complutense de Estudios Internacionales. Spain.
-11. **Science, technology and innovation policy evaluation.**\hfill 2021\
-Manchester Institute of Innovation Research (MIOIR). UK.
-12. **Digital humanities & research software engineering summer school.** \hfill 2021\
-The Alan Turing Institute. UK.
-13. **Diseño de indicadores para el desarrollo social.** \hfill 2020\
-Consejo Nacional de Evaluación de la Política de Desarrollo Social. México.
-14. **Applications of multi-level models to research policy and higher education studies.** \hfill 2020\
-RISIS (Research Infrastructure for Science and Innovation Policy Studies). Italy.
-15. **Summer school on data science for studying science, technology and innovation.** \hfill 2019\
-RISIS. Strathclyde Business School, Glasgow. UK.
-16. **Proyectos de inversión en bienes inmobiliarios.** \hfill 2019\
-Riskmathics. México.
-17. **Faculty training.** \hfill 2015 – 2016\
-Universidad de Monterrey (UDEM). México.
-18. **Faculty training.** \hfill 2015\
-University of Liverpool’s Management School. UK.
-19. **Faculty training.** \hfill 2015\
-University of Roehampton, London Online. UK.
-20. **Course on panel data analysis.** \hfill 2007\
-Instituto de Estudios Fiscales. Spain.
-21. **Teaching techniques: PBL, POL, collaborative learning, case-based method.** \hfill 1999 – 2002\
-Tecnológico de Monterrey, Campus Monterrey. México.
-22. **Ethics across the curriculum.** \hfill 1999\
-Loyola University Chicago.
-23. **Diploma in economic and financial analysis.** \hfill 1998\
-Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
+1. **Training on the European tertiary education register (ETER)** 2022. European Tertiary Education Register. Università della Svizzera italiana.
+2. **Evaluación de políticas y programas públicos.** 2022. Secretaría de Hacienda y Crédito Público SHCP. México.
+3. **Spatial models for estimating determinants of regional knowledge creation.** 2022. Methods in Action. AIT Austrian Institute of Technology.
+4. **Introduction to sustainable finance.** 2022. United Nations Climate Change Learning Partnership (UN CC:Learn).
+5. **Synthetic data for privacy, security and augmentation.** 2022. ART-AI. University of Bath.
+6. **Computer vision.** 2022. Duke Machine Learning Winter School. Duke University.
+7. **Dealing with heteroscedasticity and other issues in regressions about scaling.** 2022. Methods in Action. USI – Università della Svizzera Italiana. Lugano, Switzerland.
+8. **Norges Bank-CEPR workshop: Frontier research in banking.** 2021. Christiania Qvartalet Meeting Center, Oslo. Norway.
+9. **Carbon literacy training for business schools.** 2021. Nottingham Business School; UN PRME Champions; and The Carbon Literacy Project.
+10. **Diplomado: Introducción a las migraciones internacionales.** 2021. Universidad Complutense de Madrid & Instituto Complutense de Estudios Internacionales. Spain.
+11. **Science, technology and innovation policy evaluation.** 2021. Manchester Institute of Innovation Research (MIOIR). United Kingdom.
+12. **Digital humanities & research software engineering summer school.** 2021. The Alan Turing Institute. United Kingdom.
+13. **Diseño de indicadores para el desarrollo social.** 2020. Consejo Nacional de Evaluación de la Política de Desarrollo Social. México.
+14. **Applications of multi-level models to research policy and higher education studies.** 2020. RISIS (Research Infrastructure for Science and Innovation Policy Studies). Italy.
+15. **Summer school on data science for studying science, technology and innovation.** 2019. RISIS. Strathclyde Business School, Glasgow. United Kingdom.
+16. **Proyectos de inversión en bienes inmobiliarios.** 2019. Riskmathics. México.
+17. **Faculty training.** 2015 – 2016. Universidad de Monterrey (UDEM). México.
+18. **Faculty training.** 2015. University of Liverpool’s Management School. United Kingdom.
+19. **Faculty training.** 2015. University of Roehampton, London Online. United Kingdom.
+20. **Course on panel data analysis.** 2007. Instituto de Estudios Fiscales. Spain.
+21. **Teaching techniques: PBL, POL, collaborative learning, case-based method.** 1999 – 2002. Tecnológico de Monterrey, Campus Monterrey. México.
+22. **Ethics across the curriculum.** 1999. Loyola University Chicago.
+23. **Diploma in economic and financial analysis.** 1998. Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 
-\hspace{1 mm}
 
 ## `r fontawesome::fa("r-project")` Certifications in R.
 
@@ -105,7 +73,7 @@ Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 # `r fontawesome::fa("award")` Awards & honors.
 
 1. SBFin-Constância Investimentos Award for the Best Paper in Quantitative Finance 2024. July 2024. [Universidade Tecnológica Federal do Paraná (UTFPR).](https://www.utfpr.edu.br/) Sociedade Brasileira de Finanças (SBFin). XXIV Encontro Brasileiro de Finanças. *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
-2. UN Climate Change Conference UK. Coventry University. Certified as *carbon literate*. \hfill 2022
+2. UN Climate Change Conference United Kingdom. Coventry University. Certified as *carbon literate*. \hfill 2022
 *This certification is part of the Carbon Literacy standard. Unlike other training courses, the Carbon Literacy certificate is not just a recognition of participation. The certificate transforms the course from an educational tool into a recognised qualification and represents a robust understanding of the climate context of each learner’s day-to-day life, and a commitment to recognise ways to adjust our behaviour to reduce our carbon footprint, as well as influencing our social and professional circles.*
 3. UDEM. Member of the research committee CIDINE. \hfill 2015 – 2022
 4. UDEM. Nominated as "Profesor sobresaliente" (business school). \hfill 2019
@@ -114,7 +82,7 @@ Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 7. UDEM. Finalist *Ser Sobresaliente 2016* award. \hfill 2016
 8. Sistema de Expertos de Educación Ejecutiva del Tecnológico de Monterrey. \hfill 2015 – 2020
 9. Listed on SSRN’s top ten download list. \hfill 2011
-10. European Community Framework Programme Marie Curie fellowship. UK. \hfill 2007 – 2008
+10. European Community Framework Programme Marie Curie fellowship. United Kingdom. \hfill 2007 – 2008
 11. Basque Government mobility grant. Spain. \hfill 2007
 12. University of the Basque Country doctoral fellowship. Spain. \hfill 2005 – 2007
 13. BBVA Foundation doctoral fellowship. Spain. \hfill 2004 – 2005

@@ -8,6 +8,7 @@ output:
     template: cv-latex.tex
   html_document:
     df_print: paged
+    css: custom.css
 geometry: margin=.7in
 fontawesome: yes
 jobtitle: Curriculum Vitae.
@@ -18,9 +19,14 @@ keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
-urlcolor: blue
+#urlcolor: red
+
 ---
-\hspace{1 mm}
+<style>
+    a {
+        color: #212130 !important; /* Replace with your preferred color */
+    }
+</style>
 
 <!-- # \faHome \hspace{1 mm} Email. -->
 
