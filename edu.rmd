@@ -2,47 +2,34 @@
 
 ## `r fontawesome::fa("pen")` PhD.
 
-**PhD in Quantitative Finance.** \hfill 2005 – 2010\
-University of the Basque Country. Spain.\
-Inter-university programme including Universidad de Valencia, Universidad Complutense de Madrid, Universidad del País Vasco, Universidad Carlos III de Madrid. *Supervisor: Prof. Gonzalo Rubio (Universidad CEU Cardenal Herrera). Internal: Prof. Alfonso Novales (Universidad Complutense de Madrid). PhD committee members: Dr. María Victoria Esteban (Universidad del País Vasco); Prof.  Ángel Pardo (Universidad de Valencia); Dr. Rosa Rodríguez (Universidad Carlos III de Madrid); External: Dr. Iñaki Rodríguez (University of Tromsø).*
-
-**Doctor *Europaeus* mention.** \hfill 2010\
+1. **PhD in Quantitative Finance.** 2005 – 2010.
+Inter-university programme including: [University of the Basque Country,](https://www.ehu.eus/en/en-home) [Universidad de Valencia,](https://www.uv.es/) [Universidad Complutense de Madrid,](https://www.ucm.es/) [Universidad Carlos III de Madrid](https://www.uc3m.es/inicio). Spain. *Supervisor: Prof. Gonzalo Rubio (Universidad CEU Cardenal Herrera). Internal: Prof. Alfonso Novales (Universidad Complutense de Madrid). PhD committee members: Dr. María Victoria Esteban (Universidad del País Vasco); Prof.  Ángel Pardo (Universidad de Valencia); Dr. Rosa Rodríguez (Universidad Carlos III de Madrid); External: Dr. Iñaki Rodríguez (University of Tromsø).*
+2. **Doctor *Europaeus* mention.** 2010.
 European University Association.\
 *Supporting reviews by: Dr. Angélica González (University of Edinburgh) and Prof. Leopold Sögner (University of Vienna). Additional external reports from: Prof. Stuart Hyde (Manchester Business School); Prof. Richard Stehle (Humboldt University); Dr. Andreas Schrimpf (Aarhus University); Dr. Valerio Potì (Dublin City University); Prof. Marcelo Fernandes (Queen Mary, University of London); Prof. Paul Söderlind (University of St. Gallen).*
-
-**Pre-doctoral Marie Curie research fellow.** \hfill 2007 – 2008\
+3. **Pre-doctoral Marie Curie research fellow.** 2007 – 2008.
 The University of Manchester. UK.\
 *Supported by the Sixth European Community Framework Programme.*
 
-\hspace{1 mm}
 
 ## `r fontawesome::fa("graduation-cap")` Post-graduate.
 
-**Master Degree in Statistical Learning and Data Mining.** \hfill 2019\
+1. **Master Degree in Statistical Learning and Data Mining.** \hfill 2019\
 Universidad Nacional de Educación a Distancia (UNED). Spain.
-
-**Diploma University Expert in Statistical Learning and Data Mining.** \hfill 2019\
+2. **Diploma University Expert in Statistical Learning and Data Mining.** \hfill 2019\
 UNED. Spain.
-
-**Diploma University Expert in Statistical Techniques for the Scientific Analysis of Data.** \hfill 2017\
+3. **Diploma University Expert in Statistical Techniques for the Scientific Analysis of Data.** \hfill 2017\
 UNED. Spain.
-
-**Master Degree in Modern Applied Statistical Methods.** \hfill 2016\
+4. **Master Degree in Modern Applied Statistical Methods.** \hfill 2016\
 UNED. Spain.
-
-**Diploma University Expert in Advanced Methods of Applied Statistics.** \hfill 2015\
+5. **Diploma University Expert in Advanced Methods of Applied Statistics.** \hfill 2015\
 UNED. Spain.
-
-**Advanced Studies in Quantitative Finance.** \hfill 2005 – 2006\
+6. **Advanced Studies in Quantitative Finance.** \hfill 2005 – 2006\
 Universidad Complutense de Madrid. Spain.
-
-**MSc Finance.** \hfill 2000 – 2002\
+7. **MSc Finance.** \hfill 2000 – 2002\
 EGADE Business School. México.
-
-**BS Economics.** \hfill 1993–1997\
+8. **BS Economics.** \hfill 1993–1997\
 Tecnológico de Monterrey, Campus Monterrey. México.
-
-\hspace{1 mm}
 
 ## `r fontawesome::fa("rocket")` Profesional training.
 
@@ -105,7 +92,7 @@ Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 
 \hspace{1 mm}
 
-# `r fontawesome::fa("pen-to-square")` Service to the academia.
+# `r fontawesome::fa_i(name = "pen-to-square", title = "Solid pen-to-square", class = "fas")` Service to the academia.
 
 **Reviewer.** Quarterly Review of Economics and Finance (since 2011); Journal of Banking and Finance (since 2010).
 
@@ -117,25 +104,25 @@ Asociación Mexicana de Intermediarios Bursátiles, A.C. México.
 
 # `r fontawesome::fa("award")` Awards & honors.
 
-1. UN Climate Change Conference UK. Coventry University. Certified as *carbon literate*. \hfill 2022
+1. SBFin-Constância Investimentos Award for the Best Paper in Quantitative Finance 2024. July 2024. [Universidade Tecnológica Federal do Paraná (UTFPR).](https://www.utfpr.edu.br/) Sociedade Brasileira de Finanças (SBFin). XXIV Encontro Brasileiro de Finanças. *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
+2. UN Climate Change Conference UK. Coventry University. Certified as *carbon literate*. \hfill 2022
 *This certification is part of the Carbon Literacy standard. Unlike other training courses, the Carbon Literacy certificate is not just a recognition of participation. The certificate transforms the course from an educational tool into a recognised qualification and represents a robust understanding of the climate context of each learner’s day-to-day life, and a commitment to recognise ways to adjust our behaviour to reduce our carbon footprint, as well as influencing our social and professional circles.*
-2. UDEM. Member of the research committee CIDINE. \hfill 2015 – 2022
-3. UDEM. Nominated as "Profesor sobresaliente" (business school). \hfill 2019
-4. UDEM. President of the academia of finance. \hfill 2016 – 2019
-5. UDEM. Claustro universitario X. \hfill 2017 – 2018 
-6. UDEM. Finalist *Ser Sobresaliente 2016* award. \hfill 2016
-7. Sistema de Expertos de Educación Ejecutiva del Tecnológico de Monterrey. \hfill 2015 – 2020
-8. Listed on SSRN’s top ten download list. \hfill 2011
-9. European Community Framework Programme Marie Curie fellowship. UK. \hfill 2007 – 2008
-10. Basque Government mobility grant. Spain. \hfill 2007
-11. University of the Basque Country doctoral fellowship. Spain. \hfill 2005 – 2007
-12. BBVA Foundation doctoral fellowship. Spain. \hfill 2004 – 2005
-13. Universidad Virtual, Tecnológico de Monterrey. Academic senator member: \hfill 2003
-14. EGADE Business School MSc fellowship. México. \hfill 2000 – 2002
+3. UDEM. Member of the research committee CIDINE. \hfill 2015 – 2022
+4. UDEM. Nominated as "Profesor sobresaliente" (business school). \hfill 2019
+5. UDEM. President of the academia of finance. \hfill 2016 – 2019
+6. UDEM. Claustro universitario X. \hfill 2017 – 2018 
+7. UDEM. Finalist *Ser Sobresaliente 2016* award. \hfill 2016
+8. Sistema de Expertos de Educación Ejecutiva del Tecnológico de Monterrey. \hfill 2015 – 2020
+9. Listed on SSRN’s top ten download list. \hfill 2011
+10. European Community Framework Programme Marie Curie fellowship. UK. \hfill 2007 – 2008
+11. Basque Government mobility grant. Spain. \hfill 2007
+12. University of the Basque Country doctoral fellowship. Spain. \hfill 2005 – 2007
+13. BBVA Foundation doctoral fellowship. Spain. \hfill 2004 – 2005
+14. Universidad Virtual, Tecnológico de Monterrey. Academic senator member: \hfill 2003
+15. EGADE Business School MSc fellowship. México. \hfill 2000 – 2002
 
 \hspace{1 mm}
-
-# \faCogs \hspace{1 mm} Design course assessment material.
+# `r fontawesome::fa("palette")` Design course assessment material.
 
 **University of London, School of Oriental and African Studies.** \hfill 2015 – 2022\
 **MSc in Quantitative Finance and MSc in Economic Policy.**

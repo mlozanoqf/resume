@@ -1,6 +1,8 @@
-# \faEye \hspace{1 mm} Supervision.
 
-## PhD.
+# `r fontawesome::fa_i(name = "eye", title = "Solid Eye", class = "fas")` Supervision.
+
+
+## Supervision: PhD.
 **The University of Manchester.** \hfill 2010 – 2012\
 **PhD Finance.**
 
@@ -8,7 +10,7 @@
 
 \hspace{1 mm}
 
-## MSc (31).
+## Supervision: MSc (31).
 **London School of Business & Finance.**\hfill 2012\
 **MSc Finance & Risk Management.**
 
@@ -62,7 +64,8 @@
 
 \hspace{1 mm}
 
-## MBA (18).
+## Supervision: MBA (18).
+
 **The University of Manchester.** \hfill 2012\
 **Full-Time MBA.**
 
@@ -96,7 +99,8 @@
 
 \hspace{1 mm}
 
-## Undergraduate (41).
+## Supervision: Undergraduate (41).
+
 **Universidad de Monterrey (UDEM).**\hfill 2015 – 2023\
 **Finance, accounting, business and economics degrees.** 
 
@@ -144,7 +148,7 @@
 
 \hspace{1 mm}
 
-# \faMusic \hspace{1 mm} Free time.
+# `r fontawesome::fa("music")` Free time.
 
 I love art as the expression of human creativity and imagination. I spend some free time playing my Yamaha digital piano. I used to be an active keyboardist, piano player, and orchestra director. Most of my experience in this field has been as a musician at live concerts in Mexico and Europe, piano solo concerts, and musicals organized by the Tecnológico de Monterrey for about a decade.
 

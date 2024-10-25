@@ -2,69 +2,36 @@
 
 ## `r fontawesome::fa("globe")` International conferences.
 
-1. **Econometric Research in Finance (ERFIN) Workshop. Warsaw, Poland.**\hfill September 2021
-SGH Warsaw School of Economics.\
-*Multifactor empirical asset pricing under higher-order moment variations.*
-2. **International Conference of the French Finance Association. Nantes, France.**\hfill May 2021
-Audencia Business School.\
-*Multifactor empirical asset pricing under higher-order moment variations.*
-3. **Frontiers of Factor Investing. UK.**\hfill April 2020\
-Lancaster University Management School.\
-*Multifactor empirical asset pricing under higher-order moment variations.*
-4. **World Congress of the Econometric Society. Milan, Italy.** \hfill August 2020\
-The Econometric Society and Bocconi University.\
-*Multifactor empirical asset pricing under higher-order moment variations.*
-5. **Recent Developments in Financial Econometrics and Applications. Australia.** \hfill Jan. 2014\
-Deakin University.\
-*Asset pricing applications.*
-6. **European Financial Management Association. Reading, UK.** \hfill June 2013\
-University of Reading. Henley Business School.\
-*Portfolio performance of linear SDF models: an out-of-sample assessment.*
-7. **Eastern Finance Association Annual Meeting. Washington D.C., USA.** \hfill May 2009\
-*Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
-8. **Southwestern Finance Association 48th Annual Meeting. Oklahoma City, USA.** \hfill Feb. 2009\
-*Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
-9. **XVI Spanish Association of Finance Forum. Barcelona, Spain.**\hfill November 2008\
-ESADE Business School.\
-*Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
-10. **XV Spanish Association of Finance Forum. Palma de Mallorca, Spain.** \hfill November 2007\
-Universitat de les Illes Balears.\
-*Evaluating alternative methods for testing asset pricing models with historical data.*
+1. [Sociedade Brasileira de Finanças (SBFin).](https://www.sbfin.org.br/) Curitiba, Brazil. July 2024. [Universidade Tecnológica Federal do Paraná (UTFPR).](https://www.utfpr.edu.br/) *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
+2. SBFin-Constância Investimentos Award for the Best Paper in Quantitative Finance 2024. July 2024. [Universidade Tecnológica Federal do Paraná (UTFPR).](https://www.utfpr.edu.br/) Sociedade Brasileira de Finanças (SBFin). XXIV Encontro Brasileiro de Finanças. *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
+3. [12th Bachelier World Congress of the Bachelier Finance Society.](https://www.bacheliercongress.com/) Rio de Janeiro, Brazil. July 2024. [FGV EMAp (Escola de Matemática Aplicada de la Fundação Getulio Vargas).](https://emap.fgv.br/) *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
+4. SoFiE2024: 16th Annual Society for Financial Econometrics Conference. Rio de Janeiro, Brazil. June 2024. [Pontifical Catholic University of Rio de Janeiro.](https://www.puc-rio.br/english/) *The Eciency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
+5.  Econometric Research in Finance (ERFIN) Workshop. Warsaw, Poland. September 2021. SGH Warsaw School of Economics. *Multifactor empirical asset pricing under higher-order moment variations.*
+6. International Conference of the [French Finance Association.](https://www.affi.asso.fr/) Nantes, France. May 2021. [Audencia Business School.](https://www.audencia.com/) *Multifactor empirical asset pricing under higher-order moment variations.*
+7. Frontiers of Factor Investing. United Kingdom. April 2020. [Lancaster University Management School.](https://www.lancaster.ac.uk/lums/) *Multifactor empirical asset pricing under higher-order moment variations.*
+8. World Congress of the [Econometric Society.](https://www.econometricsociety.org/) Milan, Italy. August 2020. The Econometric Society and [Bocconi University.](https://www.unibocconi.it/en) *Multifactor empirical asset pricing under higher-order moment variations.*
+9. Recent Developments in Financial Econometrics and Applications. Australia. January 2014. [Deakin University.](https://www.deakin.edu.au/) *Asset pricing applications.*
+10. [European Financial Management Association (EFMA).](https://www.efmaefm.org/) Reading, United Kingdom. June 2013. [University of Reading.](https://www.reading.ac.uk/) [Henley Business School.](https://www.henley.ac.uk/) *Portfolio performance of linear SDF models: an out-of-sample assessment.*
+11. [Eastern Finance Association Annual Meeting (EFA).](https://easternfinance.org/) Washington D.C., USA. May 2009. *Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
+12. Southwestern Finance Association 48th Annual Meeting. Oklahoma City, USA. February 2009. *Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
+13. [XVI Spanish Association of Finance Forum.](https://aefin.es/finance-forum/) Barcelona, Spain. November 2008. [ESADE Business School.](https://www.esade.edu/) *Efficiency of the SDF and Beta methods at evaluating asset-pricing models.*
+14. [XV Spanish Association of Finance Forum.](https://aefin.es/finance-forum/) Palma de Mallorca, Spain. November 2007. [Universitat de les Illes Balears.](https://www.uib.cat/) *Evaluating alternative methods for testing asset pricing models with historical data.*
 
-\hspace{1 mm}
 
 ## `r fontawesome::fa("person-chalkboard")` Research seminars.
 
-1. **University of Liverpool. Management School Seminar Series. UK.** \hfill November 2019\
-Multifactor empirical asset pricing under higher-order moment variations.
-2. **University College Dublin. Seminar Series. Ireland.** \hfill December 2019\
-Multifactor empirical asset pricing under higher-order moment variations.
-3. **Instituto de Contadores Públicos de Nuevo León ICPNL. México.** \hfill July 2017\
-Portfolio choice in the presence of estimation error: A pricing model filter approach.
-4. **Universidad de Monterrey. México.** \hfill June 2017\
-Portfolio choice in the presence of estimation error: A pricing model filter approach.
-5. **Universitat de Barcelona. Riskcenter. Spain.** \hfill September 2012\
-Estimation of asset pricing models: parameter efficiency and implications for asset allocation.
-6. **Stockholm University. School of Business. Sweden.** \hfill September 2011\
-Trade-offs between efficiency and robustness in the empirical evaluation of asset pricing models.
-7. **Lancaster University. Management School. UK.** \hfill July 2011\
-Trade-offs between efficiency and robustness in the empirical evaluation of asset pricing models.
-8. **Universidad de Castilla-La Mancha. Toledo, Spain.** \hfill August 2008\
-Finite sample properties of GMM asset pricing tests.
-9. **Manchester Business School. Annual Doctoral Conference. UK.** \hfill May 2008\
-Tests of multi-factor pricing models and the consumption-based asset pricing.
-10. **University Carlos III of Madrid. Spain.** \hfill April 2008\
-Finite sample properties of GMM asset pricing tests.
-11. **Universidad de Navarra. Pamplona, Spain.** \hfill March 2008\
-Evaluation of asset-pricing models using historical data.
-12. **Universitat de les Illes Balears. Palma de Mallorca, Spain.** \hfill February 2008\
-Evaluation of asset-pricing models using historical data.
-13. **University of the Basque Country. Bilbao, Spain.** \hfill June 2007\
-Testing asset pricing models.
-14. **Instituto Complutense de Análisis Económico. Madrid, Spain.** \hfill July 2007\
-Testing asset pricing models.
-15. **University of Valencia. Spain.** \hfill May 2006\
-Testing asset pricing models.
-
-\hspace{1 mm}
-
+1. [University of Liverpool.](https://www.liverpool.ac.uk/) Management School Seminar Series. United Kingdom. November 2019. *Multifactor empirical asset pricing under higher-order moment variations.*
+2. [University College Dublin.](https://www.ucd.ie/) Seminar Series. Ireland. December 2019. *Multifactor empirical asset pricing under higher-order moment variations.*
+3. [Instituto de Contadores Públicos de Nuevo León (ICPNL).](https://icpnl.org.mx/) México. July 2017. *Portfolio choice in the presence of estimation error: A pricing model filter approach.*
+4. [Universidad de Monterrey (UDEM).](https://www.udem.edu.mx/) México. June 2017. *Portfolio choice in the presence of estimation error: A pricing model filter approach.*
+5. [Universitat de Barcelona.](https://web.ub.edu/inici) [Riskcenter.](https://www.ub.edu/riskcenter/) Spain. September 2012. *Estimation of asset pricing models: parameter efficiency and implications for asset allocation.*
+6. [Stockholm University.](https://www.su.se/cmlink/stockholm-university) [School of Business.](https://www.su.se/stockholm-business-school/) Sweden. September 2011. *Trade-offs between efficiency and robustness in the empirical evaluation of asset pricing models.*
+7. [Lancaster University, Management School.](https://www.lancaster.ac.uk/lums/) United Kingdom. July 2011. *Trade-offs between efficiency and robustness in the empirical evaluation of asset pricing models.*
+8. [Universidad de Castilla-La Mancha.](https://www.uclm.es/) Toledo, Spain. August 2008. *Finite sample properties of GMM asset pricing tests.*
+9. [Alliance Manchester Business School.](https://www.alliancembs.manchester.ac.uk/) Annual Doctoral Conference. United Kingdom. May 2008. *Tests of multi-factor pricing models and the consumption-based asset pricing.*
+10. [University Carlos III of Madrid.](https://www.uc3m.es/Inicio) Spain. April 2008. *Finite sample properties of GMM asset pricing tests.*
+11. [Universidad de Navarra.](https://www.unav.edu/) Pamplona, Spain. March 2008. *Evaluation of asset-pricing models using historical data.*
+12. [Universitat de les Illes Balears.](https://www.uib.cat/) Palma de Mallorca, Spain. February 2008. *Evaluation of asset-pricing models using historical data.*
+13. [University of the Basque Country.](https://www.ehu.eus/en/en-home) Bilbao, Spain. June 2007. *Testing asset pricing models.*
+14. [Instituto Complutense de Análisis Económico (ICAE).](https://www.ucm.es/icae) Madrid, Spain. July 2007. *Testing asset pricing models.*
+15. [University of Valencia.](https://www.uv.es/) Spain. May 2006. *Testing asset pricing models.*

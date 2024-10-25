@@ -68,40 +68,23 @@ urlcolor: blue
 \hspace{1 mm}
 ## `r fontawesome::fa("briefcase")` Experience. 
 
-**Professor of finance.** \hfill 2015 – current\
-Universidad de Monterrey (UDEM). Department of Economics and Finance. México.
+**Professor of finance.** 2015 – current. [Universidad de Monterrey UDEM](https://www.udem.edu.mx/en). Department of Economics and Finance. México.
 
-**Post-doctoral research fellow.** \hfill 2010 – 2012\
-Manchester Business School. Centre for the Analysis of Investment Risk. UK.
+**Post-doctoral research fellow.** 2010 – 2012. [Alliance Manchester Business School.](https://www.alliancembs.manchester.ac.uk/) [Centre for the Analysis of Investment Risk.](https://www.alliancembs.manchester.ac.uk/research/accounting-and-finance/centre-for-the-analysis-of-investment-risk/) United Kingdom.
 
-**Academic staff.** \hfill 2012 – current\
-SOAS University of London, Department of Financial and Management Studies. UK.\
-*Design of course assessment material, postgraduate teaching, postgraduate supervision for the MSc in Quantitative Finance and MSc in Economic Policy.*
+**Academic staff.** 2012 – current. [SOAS University of London.](https://www.soas.ac.uk/) [School of Finance and Management.](https://www.soas.ac.uk/about-soas/colleges-schools-and-departments/school-finance-and-management) United Kingdom. *Design of course assessment material, postgraduate teaching, postgraduate supervision for the MSc in Quantitative Finance and MSc in Economic Policy.*
 
-**Academic staff.** \hfill 2011 – current\
-Alliance Manchester Business School, The University of Manchester, UK.\
-*Postgraduate supervision for the MSc Finance, MSc Financial Management & MBA.*
+**Academic staff.** 2011 – current. [Alliance Manchester Business School.](https://www.alliancembs.manchester.ac.uk/) United Kingdom. *Postgraduate supervision for the MSc Finance, MSc Financial Management & MBA.*
 
-**Pre-doctoral Marie Curie research fellow.** \hfill 2007 – 2008\
-The University of Manchester. UK.\
-*Supported by the Sixth European Community Framework Programme.*
+**Pre-doctoral Marie Curie research fellow.** 2007 – 2008. [The University of Manchester.](https://www.manchester.ac.uk/) United Kingdom. *Supported by the Sixth European Community Framework Programme.*
 
-**Research assistant.** \hfill 2006 – 2007\
-Instituto Complutense de Estudios Internacionales (ICEI). Spain.\
-*Collaborate on European research projects in areas such as innovation and technology policy using microdata.*
+**Research assistant.** 2006 – 2007. [Instituto Complutense de Estudios Internacionales (ICEI).](https://www.ucm.es/icei) Spain. *Collaborate on European research projects in areas such as innovation and technology policy using microdata.*
 
-**Visiting PhD scholar.** \hfill 2005 – 2006\
-University of the Basque Country, Universidad Complutense de Madrid, University Carlos III of Madrid. Spain.
+**Visiting PhD scholar.** 2005 – 2006. [University of the Basque Country,](https://www.ehu.eus/en/en-home) [Universidad Complutense de Madrid,](https://www.ucm.es/) [University Carlos III of Madrid](https://www.uc3m.es/Inicio). Spain.
 
-**Lecturer and/or supervisor.** \hfill 2002 – 2022\
-SOAS University of London, Alliance Manchester Business School, The University of Manchester (Economics Department), University of Liverpool (Management School), London School of Business & Finance, Universidad Complutense de Madrid, Universidad Privada del Norte (Perú), Universidad Autónoma de Nuevo León (México), Tecnológico de Monterrey (México).\
+**Lecturer and/or supervisor.** 2002 – 2022.\
+[The University of Manchester (Economics Department),](https://www.socialsciences.manchester.ac.uk/economics/) [University of Liverpool (Management School),](https://www.liverpool.ac.uk/management/) [London School of Business & Finance,](https://www.lsbf.org.uk/) [Universidad Complutense de Madrid,](https://www.ucm.es/) [Universidad Privada del Norte (Perú),](https://www.upn.edu.pe/) [Universidad Autónoma de Nuevo León (México),](https://www.uanl.mx/) [Tecnológico de Monterrey (México)](https://tec.mx/es).
 
-**Academic coordinator.** \hfill 2002 – 2004\
-Universidad Virtual, Tecnológico de Monterrey.\
-*Responsible for the delivery, maintenance and development of finance and accounting undergraduate courses.*
+**Academic coordinator.** 2002 – 2004. Universidad Virtual, [Tecnológico de Monterrey](https://tec.mx/es). *Responsible for the delivery, maintenance and development of finance and accounting undergraduate courses.*
 
-**Wharton Global Consulting Practicum consultant.** \hfill 2001 – 2002\
-EGADE Business School, and the Wharton School of the University of Pennsylvania.\
-*Develop the business plan for a Mexican company in the beverage industry to enter into the US market.*
-
-\hspace{1 mm}
+**Wharton Global Consulting Practicum consultant.** 2001 – 2002. [EGADE Business School,](https://egade.tec.mx/es/home) and the [Wharton School of the University of Pennsylvania](https://www.wharton.upenn.edu/). *Develop the business plan for a Mexican company in the beverage industry to enter into the US market.*
