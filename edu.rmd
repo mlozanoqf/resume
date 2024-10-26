@@ -2,12 +2,13 @@
 
 ## `r fontawesome::fa("pen")` PhD.
 
-1. **PhD in Quantitative Finance.** 2005 – 2010.
+1. **Post-doctoral research fellow.** 2010 – 2012. [Alliance Manchester Business School.](https://www.alliancembs.manchester.ac.uk/) [Centre for the Analysis of Investment Risk.](https://www.alliancembs.manchester.ac.uk/research/accounting-and-finance/centre-for-the-analysis-of-investment-risk/) United Kingdom.
+2. **PhD in Quantitative Finance.** 2005 – 2010.
 Inter-university programme including: [University of the Basque Country,](https://www.ehu.eus/en/en-home) [Universidad de Valencia,](https://www.uv.es/) [Universidad Complutense de Madrid,](https://www.ucm.es/) [Universidad Carlos III de Madrid](https://www.uc3m.es/inicio). Spain. *Supervisor: Prof. Gonzalo Rubio (Universidad CEU Cardenal Herrera). Internal: Prof. Alfonso Novales (Universidad Complutense de Madrid). PhD committee members: Dr. María Victoria Esteban (Universidad del País Vasco); Prof.  Ángel Pardo (Universidad de Valencia); Dr. Rosa Rodríguez (Universidad Carlos III de Madrid); External: Dr. Iñaki Rodríguez (University of Tromsø).*
-2. **Doctor *Europaeus* mention.** 2010.
+3. **Doctor *Europaeus* mention.** 2010.
 [European University Association (EUA).](https://www.eua.eu/)\
 *Supporting reviews by: Dr. Angélica González (University of Edinburgh) and Prof. Leopold Sögner (University of Vienna). Additional external reports from: Prof. Stuart Hyde (Manchester Business School); Prof. Richard Stehle (Humboldt University); Dr. Andreas Schrimpf (Aarhus University); Dr. Valerio Potì (Dublin City University); Prof. Marcelo Fernandes (Queen Mary, University of London); Prof. Paul Söderlind (University of St. Gallen).*
-3. **Pre-doctoral Marie Curie research fellow.** 2007 – 2008.
+4. **Pre-doctoral Marie Curie research fellow.** 2007 – 2008.
 [The University of Manchester.](https://www.manchester.ac.uk/) United Kingdom.\
 *Supported by the Sixth European Community Framework Programme.*
 
@@ -70,7 +71,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 
 # `r fontawesome::fa("award")` Awards & honors.
 
-1. [DataCamp](https://www.datacamp.com/) Classrooms Teacher Ambassador.
+1. [DataCamp](https://www.datacamp.com/) Classrooms Teacher Ambassador. 2024 – current.
 2. SBFin-Constância Investimentos Award for the Best Paper in Quantitative Finance 2024. July 2024. [Universidade Tecnológica Federal do Paraná (UTFPR).](https://www.utfpr.edu.br/) Sociedade Brasileira de Finanças (SBFin). XXIV Encontro Brasileiro de Finanças. *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
 3. Certified as *carbon literate*. UN Climate Change Conference United Kingdom. [Coventry University.](https://www.coventry.ac.uk/) 2022.
 *This certification is part of the Carbon Literacy standard. Unlike other training courses, the Carbon Literacy certificate is not just a recognition of participation. The certificate transforms the course from an educational tool into a recognised qualification and represents a robust understanding of the climate context of each learner’s day-to-day life, and a commitment to recognise ways to adjust our behaviour to reduce our carbon footprint, as well as influencing our social and professional circles.*
