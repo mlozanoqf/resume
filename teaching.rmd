@@ -2,47 +2,54 @@
 
 ## Teaching: Postgraduate.
 
-**SOAS University of London, Dep. of Financial and Management Studies. UK.**\hfill 2012 – current\
-Finance and Risk Management in the Global Economy (summer school 2020, as Director of Financial Modelling with R); Banking & Capital Markets (2016, 2018, 2019, 2021); Econometric Analysis & Applications (2016 – 2019, 2021, 2022); Risk Management: Principles & Applications (2012, 2014 – 2017, 2019, 2022); Econometric Principles & Data Analysis (2012 – 2015, 2017, 2019, 2023); Derivatives (2015 – 2016); Risk Management in the Global Economy – MOOC FutureLearn platform (2016); Independent Study Project (2019, 2021); Financial Econometrics (2019, 2021, 2022, 2023); Financial Engineering (2021, 2022).
+[SOAS University of London.](https://www.soas.ac.uk/) [School of Finance and Management.](https://www.soas.ac.uk/about-soas/colleges-schools-and-departments/school-finance-and-management)  United Kingdom. 2012 – current.
 
-**Alliance Manchester Business School. UK.** \hfill 2010 – 2023\
-Individual Projects 2010 – 2011 and 2014-15. Research Methods 2011 – 2012. Group Project 2013 – 2014. Global MBA Project 2014-15 and 2015-16. Live Business Project 2018 GMBA. MSc Financial Management programme 2023. 
+Bank Financial Management (2025); Finance and Risk Management in the Global Economy (summer school 2020, as Director of Financial Modelling with R); Banking & Capital Markets (2016, 2018, 2019, 2021); Econometric Analysis & Applications (2016 – 2019, 2021, 2022); Risk Management: Principles & Applications (2012, 2014 – 2017, 2019, 2022); Econometric Principles & Data Analysis (2012 – 2015, 2017, 2019, 2023); Derivatives (2015 – 2016); Risk Management in the Global Economy – MOOC FutureLearn platform (2016); Independent Study Project (2019, 2021); Financial Econometrics (2019, 2021, 2022, 2023); Financial Engineering (2021, 2022).
 
-**Universidad de Monterrey (UDEM). México.** \hfill 2015\
+[Alliance Manchester Business School.](https://www.alliancembs.manchester.ac.uk/) United Kingdom. 2010 – current.
+
+Individual Projects 2010 – 2011 and 2014-15. Research Methods 2011 – 2012. Group Project 2013 – 2014. Global MBA Project 2014-15 and 2015-16. Live Business Project 2018 GMBA. MSc Financial Management programme 2023, 2024. 
+
+[Universidad de Monterrey UDEM.](https://www.udem.edu.mx/en) México. 2015.
+
 Financial Project Evaluation.
 
-**University of Liverpool, Management School. UK.** \hfill 2015\
+[University of Liverpool, Management School.](https://www.liverpool.ac.uk/management/) United Kingdom. 2015.
+
 Economics of Oil, Gas & Energy.
 
-**Manchester Business School, (Finance PhD). UK. ** \hfill 2011 – 2012\
+[Alliance Manchester Business School,](https://www.alliancembs.manchester.ac.uk/) Finance PhD. United Kingdom. 2011 – 2012.
+
 Three sessions of Advanced Finance Research Seminar I.
 
-**Tecnológico de Monterrey. México.** \hfill 2005 – 2009\
+[Tecnológico de Monterrey.](https://tec.mx/es) México. 2005 – 2009.
+
 Fundamentals of Managerial Finance (2008); Managerial Economics (2009); Economics for Decision Taking (2010); Economic Environment (2009); Economics of the Firm (2005).
 
-\hspace{1 mm}
 
-## \faGroup \hspace{1 mm} Teaching: Undergraduate.
+## Teaching: Undergraduate.
 
-**Universidad de Monterrey (with applications in R and Python). México.** \hfill 2015 – current\
+[Universidad de Monterrey UDEM](https://www.udem.edu.mx/en). (with applications in R and Python). México. 2015 – current.
+
 Topics in Finance (2015 – 2019); Econometrics for Financial Markets (2016 – 2023) COIL course joint with Universidad Pontificia Bolivariana; Financial Engineering (2016 – 2023); Financial Project Evaluation (2015, 2022); Financial Structure and Cost of Capital (2015, 2017); Financial Risk Management (2015 – 2023); Quantitative Foundations in Finance (2023 - 2024); Research Methods for Business (2024).
 
-**Universidad Privada del Norte. Perú.** \hfill 2021\
+[Universidad Privada del Norte.](https://www.upn.edu.pe/) Perú. 2021.
+
 Microeconomía para administradores.
 
-**Tecnológico de Monterrey (most of them in English). México.** \hfill 1995 – 2015\
+[Tecnológico de Monterrey.](https://tec.mx/es) (most of them in English). México. 1995 – 2015.
+
 Programming and financial modeling; Economics for International Business (2014, 2018, 2019); Competitive Intelligence and Geo-economics (2013 – 2019); Innovation Project on Regional Businesses (2015 – 2019); FDI and Country Risk (2015); Firm Economics (2015, 2018, 2019); Microeconomics (2015); Macroeconomics (2014, 2019); Financial Sources (2012, 2013); Financial Engineering (2003, 2004, 2012, 2013); Project and Firm Valuation (2011); Investments; Risk Evaluation in Financial Markets (2002 – 2004); Foreign Investment (2002 – 2004); Financial Economics (2002 – 2004); Financial Derivatives (2002 – 2004); Statistics (2002); International Finance (1999 – 2002); Econometrics (TA 1997); Microeconomic Theory (TA 1995 – 1998).
 
-**The University of Manchester. Economics Department. UK.** \hfill 2011 – 2012\
+[The University of Manchester. Economics Department.](https://www.socialsciences.manchester.ac.uk/economics/) United Kingdom. 2011 – 2012.
+
 Business Economics I; Business Economics II.
 
-**Universidad Autónoma de Nuevo León. México.** \hfill 2001\
+[Universidad Autónoma de Nuevo León.](https://www.uanl.mx/) México. 2001.
+
 Economic Development.
 
-\hspace{1 mm}
 
-## \faGroup \hspace{1 mm} Teaching: Executive training.
+## Teaching: Executive training.
 
-Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019); Mexican fiscal reform 2014; entrepreneurial seminar 2014; corporate training in finance for enterprises such as Kimberly-Clark (2013), Stoneridge (2013), Magna (2014, 2017), COPARMEX (2014), Linamar (2015, 10 groups), Ternium (2021). 
-
-
+Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019); Mexican fiscal reform 2014; entrepreneurial seminar 2014; corporate training in finance for enterprises such as [Kimberly-Clark](https://www.kimberly-clark.com.mx/) (2013), [Stoneridge](https://www.stoneridge.com/) (2013), [Magna](https://www.magna.com/es) (2014, 2017), [COPARMEX](https://coparmex.org.mx/) (2014), [Linamar](https://www.linamar.com/es/) (2015, 10 groups), [Ternium](https://mx.ternium.com/es) (2021). 
