@@ -2,13 +2,13 @@
 
 ## `r fontawesome::fa("pen")` PhD.
 
-1. **Post-doctoral research fellow.** 2010 – 2012. [Alliance Manchester Business School.](https://www.alliancembs.manchester.ac.uk/) [Centre for the Analysis of Investment Risk.](https://www.alliancembs.manchester.ac.uk/research/accounting-and-finance/centre-for-the-analysis-of-investment-risk/) United Kingdom.
-2. **PhD in Quantitative Finance.** 2005 – 2010.
+1. **Post-Doc in Finance.** 2010 – 2012. [Alliance Manchester Business School.](https://www.alliancembs.manchester.ac.uk/) [Centre for the Analysis of Investment Risk.](https://www.alliancembs.manchester.ac.uk/research/accounting-and-finance/centre-for-the-analysis-of-investment-risk/) United Kingdom.
+1. **PhD in Quantitative Finance.** 2005 – 2010.
 Inter-university programme including: [University of the Basque Country,](https://www.ehu.eus/en/en-home) [Universidad de Valencia,](https://www.uv.es/) [Universidad Complutense de Madrid,](https://www.ucm.es/) [Universidad Carlos III de Madrid](https://www.uc3m.es/inicio). Spain. *Supervisor: Prof. Gonzalo Rubio (Universidad CEU Cardenal Herrera). Internal: Prof. Alfonso Novales (Universidad Complutense de Madrid). PhD committee members: Dr. María Victoria Esteban (Universidad del País Vasco); Prof.  Ángel Pardo (Universidad de Valencia); Dr. Rosa Rodríguez (Universidad Carlos III de Madrid); External: Dr. Iñaki Rodríguez (University of Tromsø).*
-3. **Doctor *Europaeus* mention.** 2010.
+1. **Doctor *Europaeus* mention.** 2010.
 [European University Association (EUA).](https://www.eua.eu/)\
 *Supporting reviews by: Dr. Angélica González (University of Edinburgh) and Prof. Leopold Sögner (University of Vienna). Additional external reports from: Prof. Stuart Hyde (Manchester Business School); Prof. Richard Stehle (Humboldt University); Dr. Andreas Schrimpf (Aarhus University); Dr. Valerio Potì (Dublin City University); Prof. Marcelo Fernandes (Queen Mary, University of London); Prof. Paul Söderlind (University of St. Gallen).*
-4. **Pre-doctoral Marie Curie research fellow.** 2007 – 2008.
+1. **Pre-doctoral Marie Curie research fellow.** 2007 – 2008.
 [The University of Manchester.](https://www.manchester.ac.uk/) United Kingdom.\
 *Supported by the Sixth European Community Framework Programme.*
 
@@ -16,39 +16,39 @@ Inter-university programme including: [University of the Basque Country,](https:
 ## `r fontawesome::fa("graduation-cap")` Post-graduate.
 
 1. **Master Degree in Statistical Learning and Data Mining.** 2019. [Universidad Nacional de Educación a Distancia (UNED).](https://www.uned.es/universidad/inicio.html) Spain.
-2. **Diploma University Expert in Statistical Learning and Data Mining.** 2019. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
-3. **Diploma University Expert in Statistical Techniques for the Scientific Analysis of Data.** 2017. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
-4. **Master Degree in Modern Applied Statistical Methods.** 2016. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
-5. **Diploma University Expert in Advanced Methods of Applied Statistics.** 2015. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
-6. **Advanced Studies in Quantitative Finance.** 2005 – 2006. [Universidad Complutense de Madrid.](https://www.ucm.es/) Spain.
-7. **MSc Finance.** 2000 – 2002. [EGADE Business School.](https://egade.tec.mx/es/home) México.
-8. **BS Economics.** 1993 – 1997. [Tecnológico de Monterrey,](https://tec.mx/es) Campus Monterrey. México.
+1. **Diploma University Expert in Statistical Learning and Data Mining.** 2019. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+1. **Diploma University Expert in Statistical Techniques for the Scientific Analysis of Data.** 2017. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+1. **Master Degree in Modern Applied Statistical Methods.** 2016. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+1. **Diploma University Expert in Advanced Methods of Applied Statistics.** 2015. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+1. **Advanced Studies in Quantitative Finance.** 2005 – 2006. [Universidad Complutense de Madrid.](https://www.ucm.es/) Spain.
+1. **MSc Finance.** 2000 – 2002. [EGADE Business School.](https://egade.tec.mx/es/home) México.
+1. **BS Economics.** 1993 – 1997. [Tecnológico de Monterrey,](https://tec.mx/es) Campus Monterrey. México.
 
 ## `r fontawesome::fa("rocket")` Profesional training.
 
 1. Training on the [European tertiary education (ETER).](https://eter-project.com/about/) 2022. European Tertiary Education Register. [Università della Svizzera italiana.](https://www.usi.ch/it)
-2. Evaluación de políticas y programas públicos. 2022. [Secretaría de Hacienda y Crédito Público SHCP.](https://www.gob.mx/shcp) México.
-3. Spatial models for estimating determinants of regional knowledge creation. 2022. [Methods in Action.](https://www.risis2.eu/methods-in-action/) [AIT Austrian Institute of Technology.](https://www.ait.ac.at/)
-4. Introduction to sustainable finance. 2022. United Nations Climate Change Learning Partnership [UN CC:Learn.](https://www.uncclearn.org/es/)
-5. Synthetic data for privacy, security and augmentation. 2022. ART-AI. [University of Bath.](https://www.bath.ac.uk/)
-6. Computer vision. 2022. Duke Machine Learning Winter School. [Duke University.](https://duke.edu/)
-7. Dealing with heteroscedasticity and other issues in regressions about scaling. 2022. [Methods in Action.](https://www.risis2.eu/methods-in-action/) USI – [Università della Svizzera italiana.](https://www.usi.ch/it) Lugano, Switzerland.
-8. [Norges Bank](https://www.norges-bank.no/en/)-[CEPR](https://www.cepr.net/) workshop: Frontier research in banking. 2021. Christiania Qvartalet Meeting Center. Oslo, Norway.
-9. Carbon literacy training for business schools. 2021. [Nottingham Business School:](https://www.nottingham.ac.uk/business/) [UN PRME Champions;](https://www.unprme.org/prme-champions/) and [The Carbon Literacy Project.](https://carbonliteracy.com/)
-10. Diplomado: Introducción a las migraciones internacionales. 2021. [Universidad Complutense de Madrid](https://www.ucm.es/) & [Instituto Complutense de Estudios Internacionales.](https://www.ucm.es/icei) Spain.
-11. Science, technology and innovation policy evaluation. 2021. [Manchester Institute of Innovation Research (MIOIR).](https://www.mioir.manchester.ac.uk/) United Kingdom.
-12. Digital humanities & research software engineering summer school. 2021. [The Alan Turing Institute.](https://www.turing.ac.uk/) United Kingdom.
-13. Diseño de indicadores para el desarrollo social. 2020. [Consejo Nacional de Evaluación de la Política de Desarrollo Social.](https://www.coneval.org.mx/Paginas/principal.aspx) México.
-14. Applications of multi-level models to research policy and higher education studies. 2020. [Research Infrastructure for Science and Innovation Policy Studies RISIS.](https://www.risis2.eu/) Italy.
-15. Summer school on data science for studying science, technology and innovation. 2019. [RISIS.](https://www.risis2.eu/) [Strathclyde Business School.](https://www.strath.ac.uk/business/) Glasgow, United Kingdom.
-16. Proyectos de inversión en bienes inmobiliarios. 2019. [Riskmathics.](https://riskmathics.com/) México.
-17. Faculty training. 2015 – 2016. [Universidad de Monterrey (UDEM).](https://www.udem.edu.mx/es) México.
-18. Faculty training. 2015. [University of Liverpool’s Management School.](https://www.liverpool.ac.uk/management/) Liverpool, United Kingdom.
-19. Faculty training. 2015. [University of Roehampton, London Online](https://www.roehampton.ac.uk/). United Kingdom.
-20. Course on panel data analysis. 2007. [Instituto de Estudios Fiscales.](https://campus.ief.es/) Spain.
-21. Teaching techniques: PBL, POL, collaborative learning, case-based method. 1999 – 2002. [Tecnológico de Monterrey,](https://tec.mx/es) Campus Monterrey. México.
-22. Ethics across the curriculum. 1999. [Loyola University Chicago.](https://www.luc.edu/) Chicago, USA.
-23. Diploma in economic and financial analysis. 1998. [Asociación Mexicana de Intermediarios Bursátiles, A.C. México.](https://www.amib.com.mx/)
+1. Evaluación de políticas y programas públicos. 2022. [Secretaría de Hacienda y Crédito Público SHCP.](https://www.gob.mx/shcp) México.
+1. Spatial models for estimating determinants of regional knowledge creation. 2022. [Methods in Action.](https://www.risis2.eu/methods-in-action/) [AIT Austrian Institute of Technology.](https://www.ait.ac.at/)
+1. Introduction to sustainable finance. 2022. United Nations Climate Change Learning Partnership [UN CC:Learn.](https://www.uncclearn.org/es/)
+1. Synthetic data for privacy, security and augmentation. 2022. ART-AI. [University of Bath.](https://www.bath.ac.uk/)
+1. Computer vision. 2022. Duke Machine Learning Winter School. [Duke University.](https://duke.edu/)
+1. Dealing with heteroscedasticity and other issues in regressions about scaling. 2022. [Methods in Action.](https://www.risis2.eu/methods-in-action/) USI – [Università della Svizzera italiana.](https://www.usi.ch/it) Lugano, Switzerland.
+1. [Norges Bank](https://www.norges-bank.no/en/)-[CEPR](https://www.cepr.net/) workshop: Frontier research in banking. 2021. Christiania Qvartalet Meeting Center. Oslo, Norway.
+1. Carbon literacy training for business schools. 2021. [Nottingham Business School:](https://www.nottingham.ac.uk/business/) [UN PRME Champions;](https://www.unprme.org/prme-champions/) and [The Carbon Literacy Project.](https://carbonliteracy.com/)
+1. Diplomado: Introducción a las migraciones internacionales. 2021. [Universidad Complutense de Madrid](https://www.ucm.es/) & [Instituto Complutense de Estudios Internacionales.](https://www.ucm.es/icei) Spain.
+1. Science, technology and innovation policy evaluation. 2021. [Manchester Institute of Innovation Research (MIOIR).](https://www.mioir.manchester.ac.uk/) United Kingdom.
+1. Digital humanities & research software engineering summer school. 2021. [The Alan Turing Institute.](https://www.turing.ac.uk/) United Kingdom.
+1. Diseño de indicadores para el desarrollo social. 2020. [Consejo Nacional de Evaluación de la Política de Desarrollo Social.](https://www.coneval.org.mx/Paginas/principal.aspx) México.
+1. Applications of multi-level models to research policy and higher education studies. 2020. [Research Infrastructure for Science and Innovation Policy Studies RISIS.](https://www.risis2.eu/) Italy.
+1. Summer school on data science for studying science, technology and innovation. 2019. [RISIS.](https://www.risis2.eu/) [Strathclyde Business School.](https://www.strath.ac.uk/business/) Glasgow, United Kingdom.
+1. Proyectos de inversión en bienes inmobiliarios. 2019. [Riskmathics.](https://riskmathics.com/) México.
+1. Faculty training. 2015 – 2016. [Universidad de Monterrey (UDEM).](https://www.udem.edu.mx/es) México.
+1. Faculty training. 2015. [University of Liverpool’s Management School.](https://www.liverpool.ac.uk/management/) Liverpool, United Kingdom.
+1. Faculty training. 2015. [University of Roehampton, London Online](https://www.roehampton.ac.uk/). United Kingdom.
+1. Course on panel data analysis. 2007. [Instituto de Estudios Fiscales.](https://campus.ief.es/) Spain.
+1. Teaching techniques: PBL, POL, collaborative learning, case-based method. 1999 – 2002. [Tecnológico de Monterrey,](https://tec.mx/es) Campus Monterrey. México.
+1. Ethics across the curriculum. 1999. [Loyola University Chicago.](https://www.luc.edu/) Chicago, USA.
+1. Diploma in economic and financial analysis. 1998. [Asociación Mexicana de Intermediarios Bursátiles, A.C. México.](https://www.amib.com.mx/)
 
 
 ## `r fontawesome::fa("r-project")` Certifications in R.
@@ -72,27 +72,27 @@ Inter-university programme including: [University of the Basque Country,](https:
 # `r fontawesome::fa("award")` Awards & honors.
 
 1. [DataCamp](https://www.datacamp.com/) Classrooms Teacher Ambassador. 2024 – current.
-2. SBFin-Constância Investimentos Award for the Best Paper in Quantitative Finance 2024. July 2024. [Universidade Tecnológica Federal do Paraná (UTFPR).](https://www.utfpr.edu.br/) Sociedade Brasileira de Finanças (SBFin). XXIV Encontro Brasileiro de Finanças. *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
-3. Certified as *carbon literate*. UN Climate Change Conference United Kingdom. [Coventry University.](https://www.coventry.ac.uk/) 2022.
+1. SBFin-Constância Investimentos Award for the Best Paper in Quantitative Finance 2024. July 2024. [Universidade Tecnológica Federal do Paraná (UTFPR).](https://www.utfpr.edu.br/) Sociedade Brasileira de Finanças (SBFin). XXIV Encontro Brasileiro de Finanças. *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
+1. Certified as *carbon literate*. UN Climate Change Conference United Kingdom. [Coventry University.](https://www.coventry.ac.uk/) 2022.
 *This certification is part of the Carbon Literacy standard. Unlike other training courses, the Carbon Literacy certificate is not just a recognition of participation. The certificate transforms the course from an educational tool into a recognised qualification and represents a robust understanding of the climate context of each learner’s day-to-day life, and a commitment to recognise ways to adjust our behaviour to reduce our carbon footprint, as well as influencing our social and professional circles.*
-4. [UDEM.](https://www.udem.edu.mx/es) Member of the research committee CIDINE. 2015 – 2022.
-5. [UDEM.](https://www.udem.edu.mx/es) Nominated as "Profesor sobresaliente" (business school). 2019.
-6. [UDEM.](https://www.udem.edu.mx/es) President of the academia of finance. 2016 – 2019.
-7. [UDEM.](https://www.udem.edu.mx/es) Claustro universitario X. 2017 – 2018.
-8. [UDEM.](https://www.udem.edu.mx/es) Finalist *Ser Sobresaliente 2016* award. 2016.
-9. Sistema de Expertos de Educación Ejecutiva del [Tecnológico de Monterrey.](https://tec.mx/es) 2015 – 2020.
-10. Listed on [SSRN’s](https://www.ssrn.com/index.cfm/en/) top ten download list. 2011.
-11. [European Community Framework Programme Marie Curie fellowship.](https://marie-sklodowska-curie-actions.ec.europa.eu/) United Kingdom. 2007 – 2008.
-12. [Basque Government](https://www.euskadi.eus/gobierno-vasco/inicio/) mobility grant. Spain. 2007.
-13. [University of the Basque Country](https://www.ehu.eus/en/en-home) doctoral fellowship. Spain. 2005 – 2007.
-14. [BBVA Foundation](https://www.fundacionbbva.mx/) doctoral fellowship. Spain. 2004 – 2005.
-15. Universidad Virtual, [Tecnológico de Monterrey.](https://tec.mx/es) Academic senator member: 2003.
-16. [EGADE Business School](https://egade.tec.mx/es/home) MSc fellowship. México. 2000 – 2002.
+1. [UDEM.](https://www.udem.edu.mx/es) Member of the research committee CIDINE. 2015 – 2022.
+1. [UDEM.](https://www.udem.edu.mx/es) Nominated as "Profesor sobresaliente" (business school). 2019.
+1. [UDEM.](https://www.udem.edu.mx/es) President of the academia of finance. 2016 – 2019.
+1. [UDEM.](https://www.udem.edu.mx/es) Claustro universitario X. 2017 – 2018.
+1. [UDEM.](https://www.udem.edu.mx/es) Finalist *Ser Sobresaliente 2016* award. 2016.
+1. Sistema de Expertos de Educación Ejecutiva del [Tecnológico de Monterrey.](https://tec.mx/es) 2015 – 2020.
+1. Listed on [SSRN’s](https://www.ssrn.com/index.cfm/en/) top ten download list. 2011.
+1. [European Community Framework Programme Marie Curie fellowship.](https://marie-sklodowska-curie-actions.ec.europa.eu/) United Kingdom. 2007 – 2008.
+1. [Basque Government](https://www.euskadi.eus/gobierno-vasco/inicio/) mobility grant. Spain. 2007.
+1. [University of the Basque Country](https://www.ehu.eus/en/en-home) doctoral fellowship. Spain. 2005 – 2007.
+1. [BBVA Foundation](https://www.fundacionbbva.mx/) doctoral fellowship. Spain. 2004 – 2005.
+1. Universidad Virtual, [Tecnológico de Monterrey.](https://tec.mx/es) Academic senator member: 2003.
+1. [EGADE Business School](https://egade.tec.mx/es/home) MSc fellowship. México. 2000 – 2002.
 
 # `r fontawesome::fa("palette")` Design course assessment material.
 
 [University of London, School of Oriental and African Studies (SOAS).](https://www.soas.ac.uk/) MSc in Quantitative Finance and MSc in Economic Policy. 2015 – 2022.
 
 1. Derivatives (2015 – 2020).
-2. Financial Engineering (2019 – 2022).
-3. Banking and Capital Markets (2019 – 2021).
+1. Financial Engineering (2019 – 2022).
+1. Banking and Capital Markets (2019 – 2021).
