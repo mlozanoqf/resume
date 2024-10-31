@@ -15,14 +15,14 @@ Inter-university programme including: [University of the Basque Country,](https:
 
 ## `r fontawesome::fa("graduation-cap")` Post-graduate.
 
-1. **Master Degree in Statistical Learning and Data Mining.** 2019. [Universidad Nacional de Educación a Distancia (UNED).](https://www.uned.es/universidad/inicio.html) Spain.
-1. **Diploma University Expert in Statistical Learning and Data Mining.** 2019. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
-1. **Diploma University Expert in Statistical Techniques for the Scientific Analysis of Data.** 2017. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
-1. **Master Degree in Modern Applied Statistical Methods.** 2016. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
-1. **Diploma University Expert in Advanced Methods of Applied Statistics.** 2015. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
-1. **Advanced Studies in Quantitative Finance.** 2005 – 2006. [Universidad Complutense de Madrid.](https://www.ucm.es/) Spain.
-1. **MSc Finance.** 2000 – 2002. [EGADE Business School.](https://egade.tec.mx/es/home) México.
-1. **BS Economics.** 1993 – 1997. [Tecnológico de Monterrey,](https://tec.mx/es) Campus Monterrey. México.
+1. Master Degree in Statistical Learning and Data Mining. 2019. [Universidad Nacional de Educación a Distancia (UNED).](https://www.uned.es/universidad/inicio.html) Spain.
+1. Diploma University Expert in Statistical Learning and Data Mining. 2019. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+1. Diploma University Expert in Statistical Techniques for the Scientific Analysis of Data. 2017. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+1. Master Degree in Modern Applied Statistical Methods. 2016. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+1. Diploma University Expert in Advanced Methods of Applied Statistics. 2015. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
+1. Advanced Studies in Quantitative Finance. 2005 – 2006. [Universidad Complutense de Madrid.](https://www.ucm.es/) Spain.
+1. MSc Finance. 2000 – 2002. [EGADE Business School.](https://egade.tec.mx/es/home) México.
+1. BS Economics. 1993 – 1997. [Tecnológico de Monterrey,](https://tec.mx/es) Campus Monterrey. México.
 
 ## `r fontawesome::fa("rocket")` Profesional training.
 
