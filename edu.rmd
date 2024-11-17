@@ -68,9 +68,12 @@ Inter-university programme including: [University of the Basque Country,](https:
 
 **Scientific and academic committees.** Juez en el Torneo Nacional de Debates 2024, IMEF Universitario, México. External evaluator for Agencia Nacional de Investigación y Desarrollo (ANID) del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación de Chile (2021). Examiner for MScs and PG Diplomas in Financial and Management Studies University of London International Programmes (2012, 2015, 2016). Examination panel of biannual Finance PhD reviews Manchester Business School (06/2011 and 06/2012). Eastern Finance Association (2009, 2010 and 2012); Midwest Finance Association (2009 and 2010); Southwestern Finance Association (Annual Meetings: 48th and 49th).
 
+**Trainer / Workshop leader.** Eleven courses on R and Python programming for business (2016 - 2024), organized by student organizations. Eight workshops on research seminars for undergraduate students (2016 - 2024), organized by student organizations. Bases de la inversión y finanzas saludables (2024), IMEF Universitario.
+
 
 # `r fontawesome::fa("award")` Awards & honors.
 
+1. [UDEM.](https://www.udem.edu.mx/es) Secretary of the academia of finance. 2024 – current.
 1. [DataCamp](https://www.datacamp.com/) Classrooms Teacher Ambassador. 2024 – current.
 1. SBFin-Constância Investimentos Award for the Best Paper in Quantitative Finance 2024. July 2024. [Universidade Tecnológica Federal do Paraná (UTFPR).](https://www.utfpr.edu.br/) Sociedade Brasileira de Finanças (SBFin). XXIV Encontro Brasileiro de Finanças. *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
 1. Certified as *carbon literate*. UN Climate Change Conference United Kingdom. [Coventry University.](https://www.coventry.ac.uk/) 2022.
