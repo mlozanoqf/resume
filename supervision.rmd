@@ -15,7 +15,7 @@
 
 [SOAS University of London.](https://www.soas.ac.uk/) MSc in Quantitative Finance and MSc in Economic Policy. 2012 – current.
 
-2. *The ESG-SR frontier.* Luca Burlon. MSc in Quantitative Finance. 2024.
+2. *The ESG-SR frontier for FTSE 100 stocks from 2019 to 2022: practical implications for ESG motivated investors.* Luca Burlon. MSc in Quantitative Finance. 2024.
 1. *Unveiling implied volatility dynamics in option pricing: A sectorial  analysis.* Martina Maria Farrugia. MSc in Quantitative Finance. 2023.
 1. *A bubble identification for the Nikkei 225.* Saori Yamaguchi. MSc in Quantitative Finance. 2021.
 1. *Predicting sector volatility with GARCH models and artificial neural networks.* Curtis Nybo. 2020. MSc in Quantitative Finance.
@@ -97,12 +97,12 @@
 1. Osmar	Arandia Flores, Dariela Prezas Martínez, Sebastián Tejeda Deschamps, Eva Sofía	Zubiria Valdez. 2025.
 1. *Leveraging cognitive variables for personalized portfolios and optimization.*
 Emilio Zea Gómez, José Francisco León Figueroa, María Regina Ramírez Mena, Pablo Alberto Elizondo Leal. 2024.
-1. *Consumer credit and socioeconomic disparities: An in-depth analysis of access and impact.* Marcelo Garza Amaya, Alejandro Rodarte Recio, Marcelo Valdés de la Garza. 2024.
+1. *Consumo de crédito y las disparidades socioeconómicas: un análisis fundamental del acceso a crédito y su impacto en la desigualdad económica.* Marcelo Garza Amaya, Alejandro Rodarte Recio, Marcelo Valdés de la Garza. 2024.
 1. *Development of an independent Robo Advisor for the Mexican stock market.* Lorelei Schauer Tinajero, Mariana Dávila Monsivais, Nayeli Anaid Carrasco Negrín, Salma Odette Woodward Jiménez. 2024.
-1. *Desarrollo de un modelo Cyborg (máquina-hombre) para pronosticar el precio de las acciones en el mercado estadounidense* Angel Alberto Torres Rodríguez, Carlos Adrian González De la Garza, Esteban Cosme Lizárraga, Pablo Alberto Elizondo Leal. 2024.
+1. *Desarrollo de un modelo Cyborg (máquina-hombre) para pronosticar el precio de las acciones en el mercado estadounidense* Ángel Alberto Torres Rodríguez, Carlos Adrián González De la Garza, Esteban Cosme Lizárraga. 2024.
 1. *Razones financieras y redimientos accionarios.* Analucía Díaz Treviño, Carlos Alberto Ibarra Treviño, Iliana Lizeth Salinas López, Paola Torres Angulo. 2023.
 1. *Decisiones de inversión bajo un enfoque conductual.* Paulina Cardenas Rodriguez, Mariana Ocañas Zapata, Samantha Valdez Güereca, Pablo Emilio Ramírez Salazar. 2023.
-1. *Instrumento de cobertura agrícola contra la sequía en el entorno insurtech y el cambio climático.* Héctor Misael González Valerio, Sergio Octavio Castro Cobos, Daniela Garza Rendón, Ana Sofía Dominguez Almaraz. 2023.
+1. *Instrumento de cobertura agrícola contra la sequía en el entorno insurtech y el cambio climático.* Héctor Misael González Valerio, Sergio Octavio Castro Cobos, Daniela Garza Rendón, Ana Sofía Domínguez Almaraz. 2023.
 1. *Algorithmic trading using machine learning predictions.* Esteban González Pedraza, Stephanie Marie Manzur Barragán, José Flavio Rodríguez Picazo, Daniela Zambrano Frias. 2023.
 1. *Financial performance and ESG in the US and Mexican stock markets.* Saulh Andre Gómez Rodríguez, Karla Paola Castillón Garza, Carla Lucía Salinas Garza. 2022.
 1. *Stock price forecast using LSTM neural networks.* Eugenio Felipe Pérez Villarreal. 2022.
