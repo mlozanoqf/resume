@@ -11,6 +11,7 @@
 
 ## `r fontawesome::fa("podcast")` Media.
 
+1. *Lo bueno, lo malo y lo feo de la economía mexicana.* Marzo 2025. Al ritmo de los negocios. Radio UDEM. [Episodio en Soundcloud.](https://soundcloud.com/radioudem/2025-03-04-al-ritmo-de-los-negocios?in=radioudem/sets/al-ritmo-de-los-negocios)
 1. *Riesgo financiero 101.* November 2024. Podcast: Hablemos de economía y política. Asociación para la Conciencia Económica y Política (ACEyP). [Episodio en Spotify.](https://open.spotify.com/episode/7hrOh0tvDH3lioOfXtRqsT?si=be51b90e9bfd478a)
 1. *Retos y oportunidades en el aprendizaje de ciencia de datos en las escuelas de negocios.* December 2023. Podcast: Café de Datos, Datlas. Temporada 9, capítulo 132. [Episodio en Spotify](https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=5s9ik8ffQcW_Sy9NVU5sxg); [episodio en YouTube.](https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC)
 1. *La industria del acero.* Suplemento Grupo Milenio. June 2016.

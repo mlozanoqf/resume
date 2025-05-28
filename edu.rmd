@@ -62,7 +62,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 
 # `r fontawesome::fa_i(name = "pen-to-square", title = "Solid pen-to-square", class = "fas")` Service to the academia.
 
-**Reviewer.** Quarterly Review of Economics and Finance (since 2011); Journal of Banking and Finance (since 2010).
+**Reviewer.** Quarterly Review of Economics and Finance (since 2011); Journal of Banking and Finance (since 2010); Journal of Open Research Software (since 2025).
 
 **Editor.** Associate Editor Journal of Accounting, Finance and Economics (since 2014); Munich Paper of RePEc Archive MPRA (2010, 2011); Advances in Management (2011).
 
@@ -73,6 +73,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 
 # `r fontawesome::fa("award")` Awards & honors.
 
+1. Guest lecturer at [Poznań University of Economics and Business](https://ue.poznan.pl/en/university/) supported by The Erasmus+ KA171 International Credit Mobility (ICM) program. Poland. May 2025.
 1. [UDEM.](https://www.udem.edu.mx/es) Secretary of the academia of finance. 2024 – current.
 1. [DataCamp](https://www.datacamp.com/) Classrooms Teacher Ambassador. 2024 – current.
 1. SBFin-Constância Investimentos Award for the Best Paper in Quantitative Finance 2024. July 2024. [Universidade Tecnológica Federal do Paraná (UTFPR).](https://www.utfpr.edu.br/) Sociedade Brasileira de Finanças (SBFin). XXIV Encontro Brasileiro de Finanças. *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
