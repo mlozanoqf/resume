@@ -29,10 +29,10 @@
 
 [Alliance Manchester Business School.](https://www.alliancembs.manchester.ac.uk/) MSc Financial Management. 2023 – current.
 
-13. Chang Liu, Tianyi Sun, Natasha Brewer, Yalin He. 2025.
-1. Eduardo Alvarado Moreno, Yige Li, Diogo Leite, Ashley Heather. 2025.
-1. Joel Quaye, Yan Zhang, Abdullah Kandeel, Nura Mohamed. 2025.
-1. Marcus De Vries, Pei Ying Yong, Duncan Burry, Hwee Teo, Teo Lester. 2025.
+13. *CEO gender and S&P 500 performance.* Chang Liu, Tianyi Sun, Natasha Brewer, Yalin He. 2025.
+1. *Resilience of accounting-based portfolios: Crisis performance, characteristic strength and market differences.* Eduardo Alvarado Moreno, Yige Li, Diogo Leite, Ashley Heather. 2025.
+1. *The Impact of Leverage on Firm Performance: An Analysis of Tax Shield Benefits and Financial Distress Risks.* Joel Quaye, Yan Zhang, Pavel Bocharov, Nura Mohamed. 2025.
+1. *The quest for the sixth factor: Using large language models to improve the explanatory power of the Fama-French Five-Factor Model.* Marcus De Vries, Pei Ying Yong, Duncan Burry, Hwee Teo, Teo Lester. 2025.
 1. *Resilience in Crisis: Identifying characteristics of high versus low performing firms during the COVID-19 pandemic.* Maxime Almorad, Dafni Konstantina Papailiaki, Alex Butler, Umer Ahmad, Chi Man Chan. 2024.
 1. *Board gender diversity and firm’s financial performance: a comparison across industries in the United States.* Hau Chung Leung, Hon Yin Wong, Mau Nam Chan, Yiu Kwan Choi, Haoran Sun. 2024.
 1. *The Impact of Leadership Diversity on Financial Performance: A Multisectoral Analysis of Gender and Nationality Effects in Global Corporations.* Jieun Byun, Elfindah Princes, Franchesca Deoferio, Gabriel Dimas-Vierra, Ryan Anchoriz. 2024.
