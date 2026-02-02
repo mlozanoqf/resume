@@ -63,16 +63,21 @@ fontsize: 11pt
 
 **Main areas.** Finance, Economics, Statistics, Data Science.
 
-**Programming skills.** Proficient in R. I am familiar with Octave, MATLAB, Python and \LaTeX editors. 
-
-**Computer skills.** RMarkdow, Quarto, Weka, GGobi, E-Views, Stata, Gretl, SPSS, among others.
-
 **Research interests.** Empirical asset pricing; beta and SDF pricing models and tests; financial econometrics; GMM estimation and inference; portfolio allocation models and performance; computational finance; data science applications in business.
 
 **Teaching interests.** Introductory economics (microeconomics, macroeconomics), economic analysis, quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics, statistics, innovation.
 
+**Technical skills.**
+
+- Programming: R; Python; MATLAB/Octave; SQL; $\LaTeX$.
+- Reproducibility and workflow: RStudio; RMarkdown; Quarto; Jupyter Notebooks; Overleaf; Google Colab; Git/GitHub.
+- Econometrics software: Stata; EViews; Gretl; SPSS.
+- Other: OBS Studio; DaVinci Resolve (teaching and research communication).
+
 \hspace{1 mm}
 ## `r fontawesome::fa("briefcase")` Experience. 
+
+**Creator of an educational YouTube channel.** 2025 – current. Develop open-access video materials on finance, econometrics, and data science. [Ah, ya entendí.](https://www.youtube.com/@ahyaentendi)
 
 **Professor of finance.** 2015 – current. [Universidad de Monterrey UDEM](https://www.udem.edu.mx/en). Department of Economics and Finance. México.
 
