@@ -2,6 +2,7 @@
 
 ## `r fontawesome::fa_i(name = "folder", title = "Solid folder", class = "fas")` Journal publications.
 
+1. *The efficiency vs. pricing accuracy trade-off in GMM estimation of multifactor linear asset pricing models.* With Massimo Guidolin, and Juan Arismendi Zambrano. **Forthcoming Journal of Business & Economic Statistics,** 2026.
 1. *Portfolio performance of linear SDF models: An out-of-sample assessment.* With Erwin Hansen and Massimo Guidolin. **Quantitative Finance**.  Vol. 18, No. 8, 1425–1436, 2018. [http://dx.doi.org/10.1080/14697688.2018.1429646](http://dx.doi.org/10.1080/14697688.2018.1429646).
 1. *Evaluating alternative methods for testing asset pricing models with historical data.* With Gonzalo Rubio. **Journal of Empirical Finance.**  Volume 18, Issue 1, January 2011, Pages 136–146. [http://dx.doi.org/10.1016/j.jempfin.2010.05.005](http://dx.doi.org/10.1016/j.jempfin.2010.05.005)
 1. *Financial crisis: imbalances, irrationality and regulation.* Editorial for **Advances in Management.** February 2012. Listed on SSRN’s top ten download list: Resource Financing Strategies: as of 12/11/2011. [http://ssrn.com/abstract=1965011](http://ssrn.com/abstract=1965011)
