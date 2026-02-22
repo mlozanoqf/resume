@@ -6,6 +6,59 @@ library(fontawesome)
 library(vembedr)
 library(tictoc)
 tic()
+
+# Files that define the CV content/version.
+cv_source_files <- c(
+  "index.qmd",
+  "expertexper.Rmd",
+  "publi.Rmd",
+  "conf.Rmd",
+  "edu.Rmd",
+  "teaching.Rmd",
+  "supervision.Rmd",
+  "contact.html",
+  "styles.css"
+)
+cv_source_files <- cv_source_files[file.exists(cv_source_files)]
+cv_word_files <- cv_source_files[grepl("\\.(qmd|Rmd)$", cv_source_files)]
+
+read_utf8 <- function(path) {
+  paste(readLines(path, warn = FALSE, encoding = "UTF-8"), collapse = "\n")
+}
+
+compute_version_hash <- function(paths) {
+  paths <- sort(paths)
+  payload <- paste(vapply(paths, function(p) {
+    paste0(p, "::", read_utf8(p))
+  }, character(1)), collapse = "\n@@\n")
+  if (requireNamespace("digest", quietly = TRUE)) {
+    digest::digest(payload, algo = "sha256", serialize = FALSE)
+  } else {
+    # Fallback without extra dependencies.
+    tf <- tempfile(fileext = ".txt")
+    writeLines(payload, tf, useBytes = TRUE)
+    unname(tools::md5sum(tf))
+  }
+}
+
+count_source_words <- function(paths) {
+  count_one <- function(path) {
+    txt <- read_utf8(path)
+    txt <- gsub("(?s)```.*?```", " ", txt, perl = TRUE)
+    txt <- gsub("\\[(.*?)\\]\\((.*?)\\)", "\\1", txt, perl = TRUE)
+    txt <- gsub("`[^`]*`", " ", txt, perl = TRUE)
+    txt <- gsub("<[^>]+>", " ", txt, perl = TRUE)
+    txt <- gsub("[#*_>~\\[\\](){}]", " ", txt, perl = TRUE)
+    txt <- gsub("\\s+", " ", txt, perl = TRUE)
+    m <- gregexpr("[A-Za-zÀ-ÖØ-öø-ÿ0-9]+(?:['’.-][A-Za-zÀ-ÖØ-öø-ÿ0-9]+)*", txt, perl = TRUE)
+    length(regmatches(txt, m)[[1]])
+  }
+  sum(vapply(paths, count_one, integer(1)))
+}
+
+cv_hash <- compute_version_hash(cv_source_files)
+cv_hash_short <- substr(cv_hash, 1, 12)
+cv_word_count <- count_source_words(cv_word_files)
 ```
 
 ```{r global_options, include = FALSE}
@@ -45,7 +98,13 @@ xfun::file_string('contact.html')
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=D14836&style=flat-square)](mailto:mlozanoqf@gmail.com)
 [![Scholar](https://img.shields.io/badge/Scholar-white?logo=googlescholar&logoColor=4285F4&style=flat-square)](https://scholar.google.com/citations?user=w8boOboAAAAJ&hl=en)
 [![SSRN](https://img.shields.io/badge/SSRN-white?logo=readthedocs&logoColor=000000&style=flat-square)](https://ssrn.com/author=1490785)
+[![Substack](https://img.shields.io/badge/Substack-white?logo=substack&logoColor=FF6719&style=flat-square)](https://substack.com/@ahyaentendi)
 [![Zoom](https://img.shields.io/badge/Zoom-white?logo=zoom&logoColor=2D8CFF&style=flat-square)](https://us02web.zoom.us/j/9209945512)
+
+<div style="font-size:0.78rem;color:#6b7280;margin-top:6px;margin-bottom:2px;">
+  Version <code title="Source hash">`r cv_hash_short`</code> ·
+  Words <code>`r format(cv_word_count, big.mark = ",")`</code>
+</div>
 
 <hr style="border:2px solid gray">
 

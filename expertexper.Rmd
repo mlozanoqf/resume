@@ -77,7 +77,7 @@ fontsize: 11pt
 \hspace{1 mm}
 ## `r fontawesome::fa("briefcase")` Experience. 
 
-**Creator of an educational YouTube channel.** 2025 – current. Develop open-access video materials on finance, econometrics, and data science. [Ah, ya entendí.](https://www.youtube.com/@ahyaentendi)
+**Creator of open-access educational media (YouTube and Substack).** 2025 – current. Develop educational content on finance, econometrics, and data science through [Ah, ya entendí. on YouTube](https://www.youtube.com/@ahyaentendi) and [Ah, ya entendí. on Substack](https://substack.com/@ahyaentendi).
 
 **Professor of finance.** 2015 – current. [Universidad de Monterrey UDEM](https://www.udem.edu.mx/en). Department of Economics and Finance. México.
 

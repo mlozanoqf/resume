@@ -1,3 +1,6 @@
+project:
+  pre-render: scripts/clean_render.R
+
 title: Dr. Martín Lozano.
 subtitle: Curriculum vitae.
 #author: Dr. Martín Lozano <tt>`<martin.lozano@udem.edu>`</tt>

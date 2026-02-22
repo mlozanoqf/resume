@@ -24,7 +24,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 1. MSc Finance. 2000 – 2002. [EGADE Business School.](https://egade.tec.mx/es/home) México.
 1. BS Economics. 1993 – 1997. [Tecnológico de Monterrey,](https://tec.mx/es) Campus Monterrey. México.
 
-## `r fontawesome::fa("rocket")` Profesional training.
+## `r fontawesome::fa("rocket")` Professional training.
 
 1. Training on the [European tertiary education (ETER).](https://eter-project.com/about/) 2022. European Tertiary Education Register. [Università della Svizzera italiana.](https://www.usi.ch/it)
 1. Evaluación de políticas y programas públicos. 2022. [Secretaría de Hacienda y Crédito Público SHCP.](https://www.gob.mx/shcp) México.
@@ -57,7 +57,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 
 **DataCamp skill tracks (6).** Importing & Cleaning Data with R (4 courses); Finance Basics with R (4 courses); Machine Learning Fundamentals in R (4 courses); Time Series with R (6 courses); Finance Fundamentals in R (6 courses); Applied Finance in R (7 courses).
 
-**DataCamp career tacks (2).** Data Scientist with R (19 courses); Quantitative Analyst with R (15 courses).
+**DataCamp career tracks (2).** Data Scientist with R (19 courses); Quantitative Analyst with R (15 courses).
 
 
 # `r fontawesome::fa_i(name = "pen-to-square", title = "Solid pen-to-square", class = "fas")` Service to the academia.
@@ -95,7 +95,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 
 # `r fontawesome::fa("palette")` Design course assessment material.
 
-[University of London, School of Oriental and African Studies (SOAS).](https://www.soas.ac.uk/) MSc in Quantitative Finance and MSc in Economic Policy. 2015 – 2022.
+[University of London, School of Oriental and African Studies (SOAS).](https://www.soas.ac.uk/) MSc in Quantitative Finance and MSc in Economic Policy. 2015 – 2026.
 
 1. Macroeconomic Policy and Financial Markets (2026).
 1. Derivatives (2015 – 2020).

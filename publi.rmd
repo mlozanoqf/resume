@@ -12,7 +12,8 @@
 
 ## `r fontawesome::fa("podcast")` Media.
 
-1. YouTube channel [Ah, ya entendí.](https://www.youtube.com/@ahyaentendi)
+1. YouTube channel [Ah, ya entendí.](https://www.youtube.com/@ahyaentendi) *Contenido de economía y finanzas para públicos diversos, desde finanzas para no financieros hasta temas especializados, incluyendo aplicaciones prácticas de R. EN: Economics and finance content for diverse audiences, from finance for non-finance professionals to specialized topics, including practical R applications.*
+1. Substack channel [Ah, ya entendí.](https://substack.com/@ahyaentendi) *Ensayos sobre temas e investigaciones recientes de economía y finanzas. EN: Essays on current topics and research in economics and finance.*
 1. *Lo bueno, lo malo y lo feo de la economía mexicana.* Marzo 2025. Al ritmo de los negocios. Radio UDEM. [Episodio en Soundcloud.](https://soundcloud.com/radioudem/2025-03-04-al-ritmo-de-los-negocios?in=radioudem/sets/al-ritmo-de-los-negocios)
 1. *Riesgo financiero 101.* November 2024. Podcast: Hablemos de economía y política. Asociación para la Conciencia Económica y Política (ACEyP). [Episodio en Spotify.](https://open.spotify.com/episode/7hrOh0tvDH3lioOfXtRqsT?si=be51b90e9bfd478a)
 1. *Retos y oportunidades en el aprendizaje de ciencia de datos en las escuelas de negocios.* December 2023. Podcast: Café de Datos, Datlas. Temporada 9, capítulo 132. [Episodio en Spotify](https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=5s9ik8ffQcW_Sy9NVU5sxg); [episodio en YouTube.](https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC)
@@ -22,13 +23,20 @@
 
 ## `r fontawesome::fa("folder-open")` Open access.
 
-1. *Quantitative finance with R.* 2024. Available at [https://mlozanoqf.github.io/](https://mlozanoqf.github.io/)
+1. *Quantitative finance with R.* 2026. Series of open-access tutorials:
+   - Credit risk. [https://mlozanoqf.github.io/tutorial_arf/](https://mlozanoqf.github.io/tutorial_arf/) *Practical framework for credit risk measurement and modeling in R, from default prediction to portfolio credit risk.*
+   - Forecasting. [https://mlozanoqf.github.io/tutorial_emf/](https://mlozanoqf.github.io/tutorial_emf/) *End-to-end forecasting toolkit in R for economic and financial time series, combining classical and machine-learning approaches.*
+   - Options and VaR. [https://mlozanoqf.github.io/tutorial_if/](https://mlozanoqf.github.io/tutorial_if/) *Integrated introduction to derivatives and market risk in R, linking option valuation with Value-at-Risk analysis.*
+   - Financial modeling. [https://mlozanoqf.github.io/tutorial_pmf/](https://mlozanoqf.github.io/tutorial_pmf/) *Applied financial modeling in R across valuation, asset allocation, and data-driven decision-making.*
+   - Supervision guide. [https://mlozanoqf.github.io/supervision/](https://mlozanoqf.github.io/supervision/) *Structured guide for developing high-quality academic projects, from research design to writing, presentation, and project management.*
 
 \hspace{1 mm}
 
 ## `r fontawesome::fa("square-github")` Open source software.
 
 1. *Credit risk in public firms.* 2023. First stage collaborators: Hernán González Aguilera, and Ramiro Castellanos Barrón. Available at [https://github.com/mlozanoqf/RunwayFinance](https://github.com/mlozanoqf/RunwayFinance)
+1. *European options strategy analyzer.* 2026. Author: Dr. Martín Lozano. Interactive app to design and evaluate European options strategies, combining payoff visualization with scenario-based profit and risk analysis. Available at [https://mlozanoqf.shinyapps.io/opstr/](https://mlozanoqf.shinyapps.io/opstr/)
+1. *Mini Crypto Miner: Eco-Friendly Proof-of-Work Challenge.* 2026. Author: Dr. Martín Lozano. Educational simulation of proof-of-work mining where users test nonces against a hash target in a local, no-crypto environment to understand mining logic and resource constraints. Available at [https://mlozanoqf.shinyapps.io/pass/](https://mlozanoqf.shinyapps.io/pass/)
 
 \hspace{1 mm}
 
