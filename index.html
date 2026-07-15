@@ -660,52 +660,100 @@ window.Quarto = {
 </script>
 <div id="progress-bar" aria-hidden="true"></div>
 
+
+
 <script>
+
 document.addEventListener("DOMContentLoaded", function () {
+
   var bar = document.getElementById("progress-bar");
+
   var documentBody = document.getElementById("quarto-content");
+
   var html = document.documentElement;
+
   if (!bar || !documentBody) return;
 
+
+
   function updateProgress() {
+
     var height = documentBody.scrollHeight + documentBody.offsetTop;
+
     var scrollable = height - html.clientHeight;
+
     var percentage = scrollable > 0 ? (html.scrollTop / scrollable) * 100 : 0;
+
     bar.style.width = Math.min(100, Math.max(0, percentage)) + "%";
+
   }
+
+
 
   updateProgress();
+
   window.addEventListener("scroll", updateProgress, { passive: true });
+
   window.addEventListener("resize", updateProgress);
+
 });
+
 </script>
+
 <button type="button" id="btn-back-to-top" aria-label="Back to top" title="Back to top">
+
   <svg viewbox="0 0 24 24" aria-hidden="true" focusable="false">
+
     <path d="M12 19V5"></path>
+
     <path d="m5 12 7-7 7 7"></path>
+
   </svg>
+
 </button>
 
+
+
 <script>
+
 document.addEventListener("DOMContentLoaded", function () {
+
   var button = document.getElementById("btn-back-to-top");
+
   if (!button) return;
 
+
+
   function updateVisibility() {
+
     button.classList.toggle("is-visible", window.scrollY > 480);
+
   }
 
+
+
   button.addEventListener("click", function () {
+
     if (window.location.hash && window.history && window.history.replaceState) {
+
       window.history.replaceState(null, "", window.location.pathname + window.location.search);
+
     }
+
     window.scrollTo({ top: 0, behavior: "smooth" });
+
   });
 
+
+
   updateVisibility();
+
   window.addEventListener("scroll", updateVisibility, { passive: true });
+
 });
+
 </script>
+
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
