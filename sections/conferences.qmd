@@ -1,6 +1,6 @@
-# `r fontawesome::fa_i(name = "comment", title = "Solid Comment", class = "fas")` Conferences.
+# Conferences.
 
-## `r fontawesome::fa("globe")` International conferences.
+## International conferences.
 
 1. [Sociedade Brasileira de Finanças (SBFin).](https://www.sbfin.org.br/) Curitiba, Brazil. July 2024. [Universidade Tecnológica Federal do Paraná (UTFPR).](https://www.utfpr.edu.br/) *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
 1. SBFin-Constância Investimentos Award for the Best Paper in Quantitative Finance 2024. July 2024. [Universidade Tecnológica Federal do Paraná (UTFPR).](https://www.utfpr.edu.br/) Sociedade Brasileira de Finanças (SBFin). XXIV Encontro Brasileiro de Finanças. *The Efficiency vs. Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.*
@@ -18,7 +18,7 @@
 1. [XV Spanish Association of Finance Forum.](https://aefin.es/finance-forum/) Palma de Mallorca, Spain. November 2007. [Universitat de les Illes Balears.](https://www.uib.cat/) *Evaluating alternative methods for testing asset pricing models with historical data.*
 
 
-## `r fontawesome::fa("person-chalkboard")` Research seminars.
+## Research seminars.
 
 1. [University of Liverpool.](https://www.liverpool.ac.uk/) Management School Seminar Series. United Kingdom. November 2019. *Multifactor empirical asset pricing under higher-order moment variations.*
 1. [University College Dublin.](https://www.ucd.ie/) Seminar Series. Ireland. December 2019. *Multifactor empirical asset pricing under higher-order moment variations.*

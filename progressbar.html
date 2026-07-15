@@ -1,17 +1,21 @@
-<div id="progress-bar" style="width: 0%; height:2px; background-color: rgb(89 127 235);; position: fixed; top: 0px; z-index: 2000;"></div>
+<div id="progress-bar" aria-hidden="true"></div>
 
-<script id="progressbar" type="text/javascript">
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var bar = document.getElementById("progress-bar");
+  var documentBody = document.getElementById("quarto-content");
+  var html = document.documentElement;
+  if (!bar || !documentBody) return;
 
-document.addEventListener("DOMContentLoaded", function() {
+  function updateProgress() {
+    var height = documentBody.scrollHeight + documentBody.offsetTop;
+    var scrollable = height - html.clientHeight;
+    var percentage = scrollable > 0 ? (html.scrollTop / scrollable) * 100 : 0;
+    bar.style.width = Math.min(100, Math.max(0, percentage)) + "%";
+  }
 
-    const bar = document.querySelector('#progress-bar');
-    const post = document.querySelector('#quarto-content');
-    const html = document.documentElement;
-    
-    const height = post.scrollHeight + post.offsetTop;
-    
-    window.addEventListener('scroll', () => {
-        bar.style.width = (html.scrollTop / (height- html.clientHeight)) * 100 + '%';
-    });
+  updateProgress();
+  window.addEventListener("scroll", updateProgress, { passive: true });
+  window.addEventListener("resize", updateProgress);
 });
 </script>

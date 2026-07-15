@@ -2,25 +2,21 @@
 
 ```{r include=FALSE}
 rm(list = ls())
-library(fontawesome)
-library(vembedr)
-library(tictoc)
-tic()
 
 # Files that define the CV content/version.
 cv_source_files <- c(
   "index.qmd",
-  "expertexper.Rmd",
-  "publi.Rmd",
-  "conf.Rmd",
-  "edu.Rmd",
-  "teaching.Rmd",
-  "supervision.Rmd",
+  "sections/background.qmd",
+  "sections/publications.qmd",
+  "sections/conferences.qmd",
+  "sections/education.qmd",
+  "sections/teaching.qmd",
+  "sections/supervision.qmd",
   "contact.html",
   "styles.css"
 )
 cv_source_files <- cv_source_files[file.exists(cv_source_files)]
-cv_word_files <- cv_source_files[grepl("\\.(qmd|Rmd)$", cv_source_files)]
+cv_word_files <- cv_source_files[grepl("\\.qmd$", cv_source_files)]
 
 read_utf8 <- function(path) {
   paste(readLines(path, warn = FALSE, encoding = "UTF-8"), collapse = "\n")
@@ -63,107 +59,25 @@ cv_word_count <- count_source_words(cv_word_files)
 
 ```{r global_options, include = FALSE}
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
-knitr::opts_chunk$set(fig.pos = "H", out.extra = "")
 ```
 
-
-
-````{=html}
-```{r, echo=FALSE, results='asis'}
-xfun::file_string('contact.html')
+```{=html}
+{{< include contact.html >}}
 ```
-````
 
-[![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=181717&style=flat-square)](https://github.com/mlozanoqf)
-<a href="https://linkedin.com/in/martin-lozano-21818a22" target="_blank" rel="noopener"
-   style="display:inline-flex;align-items:center;gap:4px;
-          background:#e6e6e6;color:#0A66C2;border-radius:2px;
-          padding:2px 5px;font:11px 'DejaVu Sans',Verdana,Arial,sans-serif;
-          text-decoration:none;height:20px;vertical-align:middle;line-height:1;">
-  <svg viewBox="0 0 24 24" width="13" height="13" fill="#0A66C2"
-       style="display:inline-block;vertical-align:middle;">
-    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.039-1.852-3.039-1.853 0-2.136 
-    1.445-2.136 2.939v5.669H9.352V9h3.414v1.561h.049c.476-.9 1.637-1.852 
-    3.372-1.852 3.606 0 4.271 2.373 4.271 5.463v6.28zM5.337 
-    7.433a2.062 2.062 0 11.001-4.124 2.062 2.062 0 
-    01-.001 4.124zM6.765 20.452H3.911V9h2.854v11.452zM22.225 
-    0H1.771C.792 0 0 .771 0 1.723v20.555C0 23.228.792 24 
-    1.771 24h20.451C23.2 24 24 23.228 24 
-    22.277V1.723C24 .771 23.2 0 22.222 0h.003z"/>
-  </svg>
-  LinkedIn
-</a>
-[![YouTube](https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=FF0000&style=flat-square)](https://www.youtube.com/@ahyaentendi)
-[![Website](https://img.shields.io/badge/Website-white?logo=googlechrome&logoColor=4285F4&style=flat-square)](https://sites.google.com/site/mlozanoqf)
-[![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=D14836&style=flat-square)](mailto:mlozanoqf@gmail.com)
-[![Scholar](https://img.shields.io/badge/Scholar-white?logo=googlescholar&logoColor=4285F4&style=flat-square)](https://scholar.google.com/citations?user=w8boOboAAAAJ&hl=en)
-[![SSRN](https://img.shields.io/badge/SSRN-white?logo=readthedocs&logoColor=000000&style=flat-square)](https://ssrn.com/author=1490785)
-[![Substack](https://img.shields.io/badge/Substack-white?logo=substack&logoColor=FF6719&style=flat-square)](https://substack.com/@ahyaentendi)
-[![Zoom](https://img.shields.io/badge/Zoom-white?logo=zoom&logoColor=2D8CFF&style=flat-square)](https://us02web.zoom.us/j/9209945512)
-
-<div style="font-size:0.78rem;color:#6b7280;margin-top:6px;margin-bottom:2px;">
-  Version <code title="Source hash">`r cv_hash_short`</code> ·
-  Words <code>`r format(cv_word_count, big.mark = ",")`</code>
+<div class="cv-build-meta" aria-label="Document version">
+  <span>Version <code title="Source hash">`r cv_hash_short`</code></span>
+  <span>Words <code>`r format(cv_word_count, big.mark = ",")`</code></span>
 </div>
 
-<hr style="border:2px solid gray">
+{{< include sections/background.qmd >}}
 
-```{r experience, child = 'expertexper.Rmd'}
-```
+{{< include sections/publications.qmd >}}
 
+{{< include sections/conferences.qmd >}}
 
-```{r publications, child = 'publi.Rmd'}
-```
+{{< include sections/education.qmd >}}
 
+{{< include sections/teaching.qmd >}}
 
-```{r conferences, child = 'conf.Rmd'}
-```
-
-```{r education, child = 'edu.Rmd'}
-```
-
-
-```{r teaching, child = 'teaching.Rmd'}
-```
-
-
-```{r supervision, child = 'supervision.Rmd'}
-```
-
-<!-- ```{r data science, child = 'Data Science.Rmd'} -->
-<!-- ``` -->
-
-
-<!-- ```{r resources and activities, child = 'Learning resources and activities.Rmd'} -->
-<!-- ``` -->
-
-
-<!-- ```{r evaluation, child = 'Evaluation.Rmd'} -->
-<!-- ``` -->
-
-
-<!-- ```{r check, child = 'Checklist.Rmd'} -->
-<!-- ``` -->
-
-
-<!-- ```{r schedule, child = 'Class schedule ot24.Rmd'} -->
-<!-- ``` -->
-
-<!-- ```{r schedule, child = 'lecturas.Rmd'} -->
-<!-- ``` -->
-
-
-<!-- ```{r resources, child = 'Internet resources.Rmd'} -->
-<!-- ``` -->
-
-```{r include=FALSE}
-a <- toc()
-```
-
-
-This document took `r round(as.numeric((a$toc-a$tic)), 2)` seconds to compile in Quarto version `r quarto::quarto_version()`, and `r R.version.string`.
-
-
-<!-- # `r fontawesome::fa("book-open")` References. {.unnumbered} -->
-<!-- ::: {#refs} -->
-<!-- ::: -->
+{{< include sections/supervision.qmd >}}

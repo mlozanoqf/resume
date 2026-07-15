@@ -1,4 +1,4 @@
-# `r fontawesome::fa("person-chalkboard")` Teaching.
+# Teaching.
 
 ## Teaching: Postgraduate.
 

@@ -1,6 +1,6 @@
-# `r fontawesome::fa("building-columns")` Education.
+# Education.
 
-## `r fontawesome::fa("pen")` PhD.
+## PhD.
 
 1. **Post-Doc in Finance.** 2010 – 2012. [Alliance Manchester Business School.](https://www.alliancembs.manchester.ac.uk/) [Centre for the Analysis of Investment Risk.](https://www.alliancembs.manchester.ac.uk/research/accounting-and-finance/centre-for-the-analysis-of-investment-risk/) United Kingdom.
 1. **PhD in Quantitative Finance.** 2005 – 2010.
@@ -13,7 +13,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 *Supported by the Sixth European Community Framework Programme.*
 
 
-## `r fontawesome::fa("graduation-cap")` Post-graduate.
+## Post-graduate.
 
 1. Master Degree in Statistical Learning and Data Mining. 2019. [Universidad Nacional de Educación a Distancia (UNED).](https://www.uned.es/universidad/inicio.html) Spain.
 1. Diploma University Expert in Statistical Learning and Data Mining. 2019. [UNED.](https://www.uned.es/universidad/inicio.html) Spain.
@@ -24,7 +24,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 1. MSc Finance. 2000 – 2002. [EGADE Business School.](https://egade.tec.mx/es/home) México.
 1. BS Economics. 1993 – 1997. [Tecnológico de Monterrey,](https://tec.mx/es) Campus Monterrey. México.
 
-## `r fontawesome::fa("rocket")` Professional training.
+## Professional training.
 
 1. Training on the [European tertiary education (ETER).](https://eter-project.com/about/) 2022. European Tertiary Education Register. [Università della Svizzera italiana.](https://www.usi.ch/it)
 1. Evaluación de políticas y programas públicos. 2022. [Secretaría de Hacienda y Crédito Público SHCP.](https://www.gob.mx/shcp) México.
@@ -51,7 +51,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 1. Diploma in economic and financial analysis. 1998. [Asociación Mexicana de Intermediarios Bursátiles, A.C. México.](https://www.amib.com.mx/)
 
 
-## `r fontawesome::fa("r-project")` Certifications in R.
+## Certifications in R.
 
 **DataCamp courses (42).** Introduction to R; Introduction to Importing Data in R; Introduction to R for Finance; Introduction to Writing Functions in R; Importing and Managing Financial Data in R; Intermediate R for Finance; Data Science for Everyone; Foundations of Probability in R; Time Series Analysis in R; Introduction to the Tidyverse; Credit Risk Modeling in R; Manipulating Time Series Data with \texttt{xts} and \texttt{zoo} in R; Intermediate R; Data Manipulation with \texttt{dplyr}; Joining Data with \texttt{dplyr}; Introduction to Data Visualization with \texttt{ggplot2}; Intermediate Data Visualization with \texttt{ggplot2}; Intermediate Importing Data in R; Data Cleaning in R; Working with Data in the Tidyverse; Working with Dates and Times in R; Exploratory Data Analysis in R; Case Study Exploratory Data Analysis in R; Correlation and Regression in R; Supervised Learning in R Classification; Supervised Learning in R: Regression; Unsupervised Learning in R; Cluster Analysis in R; Machine Learning with \texttt{caret} in R; Data Engineering for Everyone; ARIMA Models in R; Forecasting in R; Visualizing Time Series Data in R; Case Studies: Manipulating Time Series Data in R; Introduction to Portfolio Analysis in R; Intermediate Portfolio Analysis in R; Bond Valuation and Analysis in R; Quantitative Risk Management in R; Financial Trading in R; Equity Valuation in R; Life Insurance Products Valuation in R; GARCH Models in R.
 
@@ -60,7 +60,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 **DataCamp career tracks (2).** Data Scientist with R (19 courses); Quantitative Analyst with R (15 courses).
 
 
-# `r fontawesome::fa_i(name = "pen-to-square", title = "Solid pen-to-square", class = "fas")` Service to the academia.
+# Service to the academia.
 
 **Reviewer.** Quarterly Review of Economics and Finance (since 2011); Journal of Banking and Finance (since 2010); Journal of Open Research Software (since 2025).
 
@@ -71,7 +71,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 **Trainer / Workshop leader.** Eleven courses on R and Python programming for business (2016 - 2024), organized by student organizations. Eight workshops on research seminars for undergraduate students (2016 - 2024), organized by student organizations. Bases de la inversión y finanzas saludables (2024), IMEF Universitario.
 
 
-# `r fontawesome::fa("award")` Awards & honors.
+# Awards & honors.
 
 1. Guest lecturer at [Poznań University of Economics and Business](https://ue.poznan.pl/en/university/) supported by The Erasmus+ KA171 International Credit Mobility (ICM) program. Poland. May 2025.
 1. [UDEM.](https://www.udem.edu.mx/es) Secretary of the academia of finance. 2024 – current.
@@ -93,7 +93,7 @@ Inter-university programme including: [University of the Basque Country,](https:
 1. Universidad Virtual, [Tecnológico de Monterrey.](https://tec.mx/es) Academic senator member: 2003.
 1. [EGADE Business School](https://egade.tec.mx/es/home) MSc fellowship. México. 2000 – 2002.
 
-# `r fontawesome::fa("palette")` Design course assessment material.
+# Design course assessment material.
 
 [University of London, School of Oriental and African Studies (SOAS).](https://www.soas.ac.uk/) MSc in Quantitative Finance and MSc in Economic Policy. 2015 – 2026.
 

@@ -1,5 +1,5 @@
 
-# `r fontawesome::fa_i(name = "eye", title = "Solid Eye", class = "fas")` Supervision.
+# Supervision.
 
 
 ## Supervision: PhD.
@@ -153,7 +153,7 @@ Emilio Zea Gómez, José Francisco León Figueroa, María Regina Ramírez Mena, 
 1. *Performance evaluation of investment strategies based on automated technical analysis algorithms.* Carlos Andrés Gutiérrez Mendivil, Danya Cecilia Martínez Ramírez, Paulina Torres Treviño, Ana María Barrera Portillo. 2016.
 
 
-# `r fontawesome::fa("music")` Free time.
+# Free time.
 
 I love art as the expression of human creativity and imagination. I spend some free time playing my Yamaha digital piano. I used to be an active keyboardist, piano player, and orchestra director. Most of my experience in this field has been as a musician at live concerts in Mexico and Europe, piano solo concerts, and musicals organized by the Tecnológico de Monterrey for about a decade.
 

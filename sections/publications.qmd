@@ -1,6 +1,6 @@
-# `r fontawesome::fa("folder-plus")` Publications.
+# Publications.
 
-## `r fontawesome::fa_i(name = "folder", title = "Solid folder", class = "fas")` Journal publications.
+## Journal publications.
 
 1. *The efficiency vs. pricing accuracy trade-off in GMM estimation of multifactor linear asset pricing models.* With Massimo Guidolin, and Juan Arismendi Zambrano. **Forthcoming Journal of Business & Economic Statistics,** 2026.
 1. *Portfolio performance of linear SDF models: An out-of-sample assessment.* With Erwin Hansen and Massimo Guidolin. **Quantitative Finance**.  Vol. 18, No. 8, 1425–1436, 2018. [http://dx.doi.org/10.1080/14697688.2018.1429646](http://dx.doi.org/10.1080/14697688.2018.1429646).
@@ -10,7 +10,7 @@
 1. Proceedings: *The efficiency of the SDF and Beta methods at evaluating multi-factor asset-pricing models.* With Stuart Hyde and Ian Garrett. **Southwestern Finance Association 48th Annual Meeting Proceedings.** Oklahoma City, USA. 2009.
 
 
-## `r fontawesome::fa("podcast")` Media.
+## Media.
 
 1. YouTube channel [Ah, ya entendí.](https://www.youtube.com/@ahyaentendi) *Contenido de economía y finanzas para públicos diversos, desde finanzas para no financieros hasta temas especializados, incluyendo aplicaciones prácticas de R. EN: Economics and finance content for diverse audiences, from finance for non-finance professionals to specialized topics, including practical R applications.*
 1. Substack channel [Ah, ya entendí.](https://substack.com/@ahyaentendi) *Ensayos sobre temas e investigaciones recientes de economía y finanzas. EN: Essays on current topics and research in economics and finance.*
@@ -21,7 +21,7 @@
 
 \hspace{1 mm}
 
-## `r fontawesome::fa("folder-open")` Open access.
+## Open access.
 
 1. *Quantitative finance with R.* 2026. Series of open-access tutorials:
    - Credit risk. [https://mlozanoqf.github.io/tutorial_arf/](https://mlozanoqf.github.io/tutorial_arf/) *Practical framework for credit risk measurement and modeling in R, from default prediction to portfolio credit risk.*
@@ -32,7 +32,7 @@
 
 \hspace{1 mm}
 
-## `r fontawesome::fa("square-github")` Open source software.
+## Open source software.
 
 1. *Credit risk in public firms.* 2023. First stage collaborators: Hernán González Aguilera, and Ramiro Castellanos Barrón. Available at [https://github.com/mlozanoqf/RunwayFinance](https://github.com/mlozanoqf/RunwayFinance)
 1. *European options strategy analyzer.* 2026. Author: Dr. Martín Lozano. Interactive app to design and evaluate European options strategies, combining payoff visualization with scenario-based profit and risk analysis. Available at [https://mlozanoqf.shinyapps.io/opstr/](https://mlozanoqf.shinyapps.io/opstr/)
@@ -40,7 +40,7 @@
 
 \hspace{1 mm}
 
-## `r fontawesome::fa("spinner")` Working papers.
+## Working papers.
 
 1. *Multifactor Empirical Asset Pricing Under Higher-Order Moment Variations.* 2020. With Massimo Guidolin, and Juan Arismendi Zambrano.
 1. *Performance of asset allocation strategies in Europe: An out-of-sample assessment.* 2014. With Francisco Navarro. [http://ssrn.com/abstract=2474542](http://ssrn.com/abstract=2474542)

@@ -37,117 +37,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="index_files/libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <style>html{ scroll-behavior: smooth; }</style>
 
-
-
-
-
-
-  <meta charset="UTF-8">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <style>
-
-    #btn-back-to-top {
-
-      position: fixed;
-
-      bottom: 20px;
-
-      right: 20px;
-
-      width: 15px; /* Adjust the width */
-
-      height: 15px; /* Adjust the height */
-
-      box-sizing: content-box;
-
-      z-index: 1000;
-
-      background-color: rgba(0, 123, 255, 0.7);
-
-      border: none;
-
-      color: white;
-
-      display: flex;
-
-      align-items: center;
-
-      justify-content: center;
-
-    }
-
-  </style>
-
-</head>
-
-<body>
-
-
-
-<button type="button" class="btn btn-primary btn-lg bi bi-arrow-up" id="btn-back-to-top"></button>
-
-
-
-<script>
-
-  let backToTopButton = document.getElementById("btn-back-to-top");
-
-
-
-  backToTopButton.addEventListener("click", function () {
-
-    document.documentElement.scrollTop = 0;
-
-  });
-
-</script>
-
-
-
-
-
-
-
-<div id="progress-bar" style="width: 0%; height:2px; background-color: rgb(89 127 235);; position: fixed; top: 0px; z-index: 2000;"></div>
-
-
-
-<script id="progressbar" type="text/javascript">
-
-
-
-document.addEventListener("DOMContentLoaded", function() {
-
-
-
-    const bar = document.querySelector('#progress-bar');
-
-    const post = document.querySelector('#quarto-content');
-
-    const html = document.documentElement;
-
-    
-
-    const height = post.scrollHeight + post.offsetTop;
-
-    
-
-    window.addEventListener('scroll', () => {
-
-        bar.style.width = (html.scrollTop / (height- html.clientHeight)) * 100 + '%';
-
-    });
-
-});
-
-</script>
-<link href="index_files/libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet">
-
-<link href="index_files/libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet">
-
-
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
@@ -179,64 +68,64 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
+</head>
 
+<body>
 
-
-
-<div id="quarto-content" class="page-columns page-rows-contents page-layout-full toc-left">
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article toc-left">
 <div id="quarto-sidebar-toc-left" class="sidebar toc-left">
   <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Contents</h2>
+    <h2 id="toc-title">CV sections</h2>
    
   <ul class="collapse">
-  <li><a href="#background." id="toc-background." class="nav-link active" data-scroll-target="#background."><span class="header-section-number">1</span> <svg aria-hidden="true" role="img" viewbox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M96 128a128 128 0 1 0 256 0A128 128 0 1 0 96 128zm94.5 200.2l18.6 31L175.8 483.1l-36-146.9c-2-8.1-9.8-13.4-17.9-11.3C51.9 342.4 0 405.8 0 481.3c0 17 13.8 30.7 30.7 30.7H162.5c0 0 0 0 .1 0H168 280h5.5c0 0 0 0 .1 0H417.3c17 0 30.7-13.8 30.7-30.7c0-75.5-51.9-138.9-121.9-156.4c-8.1-2-15.9 3.3-17.9 11.3l-36 146.9L238.9 359.2l18.6-31c6.4-10.7-1.3-24.2-13.7-24.2H224 204.3c-12.4 0-20.1 13.6-13.7 24.2z"></path></svg> Background.</a>
+  <li><a href="#background." id="toc-background." class="nav-link active" data-scroll-target="#background.">Background.</a>
   <ul class="collapse">
-  <li><a href="#expertise." id="toc-expertise." class="nav-link" data-scroll-target="#expertise."><span class="header-section-number">1.1</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"></path></svg> Expertise.</a></li>
-  <li><a href="#experience." id="toc-experience." class="nav-link" data-scroll-target="#experience."><span class="header-section-number">1.2</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M184 48H328c4.4 0 8 3.6 8 8V96H176V56c0-4.4 3.6-8 8-8zm-56 8V96H64C28.7 96 0 124.7 0 160v96H192 320 512V160c0-35.3-28.7-64-64-64H384V56c0-30.9-25.1-56-56-56H184c-30.9 0-56 25.1-56 56zM512 288H320v32c0 17.7-14.3 32-32 32H224c-17.7 0-32-14.3-32-32V288H0V416c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V288z"></path></svg> Experience.</a></li>
+  <li><a href="#expertise." id="toc-expertise." class="nav-link" data-scroll-target="#expertise.">Expertise.</a></li>
+  <li><a href="#experience." id="toc-experience." class="nav-link" data-scroll-target="#experience.">Experience.</a></li>
   </ul></li>
-  <li><a href="#publications." id="toc-publications." class="nav-link" data-scroll-target="#publications."><span class="header-section-number">2</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M512 416c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V96C0 60.7 28.7 32 64 32H192c20.1 0 39.1 9.5 51.2 25.6l19.2 25.6c6 8.1 15.5 12.8 25.6 12.8H448c35.3 0 64 28.7 64 64V416zM232 376c0 13.3 10.7 24 24 24s24-10.7 24-24V312h64c13.3 0 24-10.7 24-24s-10.7-24-24-24H280V200c0-13.3-10.7-24-24-24s-24 10.7-24 24v64H168c-13.3 0-24 10.7-24 24s10.7 24 24 24h64v64z"></path></svg> Publications.</a>
+  <li><a href="#publications." id="toc-publications." class="nav-link" data-scroll-target="#publications.">Publications.</a>
   <ul class="collapse">
-  <li><a href="#journal-publications." id="toc-journal-publications." class="nav-link" data-scroll-target="#journal-publications."><span class="header-section-number">2.1</span> <i class="far fa-folder fas" role="presentation" aria-label="folder icon" title="Solid folder"></i> Journal publications.</a></li>
-  <li><a href="#media." id="toc-media." class="nav-link" data-scroll-target="#media."><span class="header-section-number">2.2</span> <svg aria-hidden="true" role="img" viewbox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M319.4 372c48.5-31.3 80.6-85.9 80.6-148c0-97.2-78.8-176-176-176S48 126.8 48 224c0 62.1 32.1 116.6 80.6 148c1.2 17.3 4 38 7.2 57.1l.2 1C56 395.8 0 316.5 0 224C0 100.3 100.3 0 224 0S448 100.3 448 224c0 92.5-56 171.9-136 206.1l.2-1.1c3.1-19.2 6-39.8 7.2-57zm-2.3-38.1c-1.6-5.7-3.9-11.1-7-16.2c-5.8-9.7-13.5-17-21.9-22.4c19.5-17.6 31.8-43 31.8-71.3c0-53-43-96-96-96s-96 43-96 96c0 28.3 12.3 53.8 31.8 71.3c-8.4 5.4-16.1 12.7-21.9 22.4c-3.1 5.1-5.4 10.5-7 16.2C99.8 307.5 80 268 80 224c0-79.5 64.5-144 144-144s144 64.5 144 144c0 44-19.8 83.5-50.9 109.9zM224 312c32.9 0 64 8.6 64 43.8c0 33-12.9 104.1-20.6 132.9c-5.1 19-24.5 23.4-43.4 23.4s-38.2-4.4-43.4-23.4c-7.8-28.5-20.6-99.7-20.6-132.8c0-35.1 31.1-43.8 64-43.8zm0-144a56 56 0 1 1 0 112 56 56 0 1 1 0-112z"></path></svg> Media.</a></li>
-  <li><a href="#open-access." id="toc-open-access." class="nav-link" data-scroll-target="#open-access."><span class="header-section-number">2.3</span> <svg aria-hidden="true" role="img" viewbox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M384 480h48c11.4 0 21.9-6 27.6-15.9l112-192c5.8-9.9 5.8-22.1 .1-32.1S555.5 224 544 224H144c-11.4 0-21.9 6-27.6 15.9L48 357.1V96c0-8.8 7.2-16 16-16H181.5c4.2 0 8.3 1.7 11.3 4.7l26.5 26.5c21 21 49.5 32.8 79.2 32.8H416c8.8 0 16 7.2 16 16v32h48V160c0-35.3-28.7-64-64-64H298.5c-17 0-33.3-6.7-45.3-18.7L226.7 50.7c-12-12-28.3-18.7-45.3-18.7H64C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H87.7 384z"></path></svg> Open access.</a></li>
-  <li><a href="#open-source-software." id="toc-open-source-software." class="nav-link" data-scroll-target="#open-source-software."><span class="header-section-number">2.4</span> <svg aria-hidden="true" role="img" viewbox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M448 96c0-35.3-28.7-64-64-64H64C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96zM265.8 407.7c0-1.8 0-6 .1-11.6c.1-11.4 .1-28.8 .1-43.7c0-15.6-5.2-25.5-11.3-30.7c37-4.1 76-9.2 76-73.1c0-18.2-6.5-27.3-17.1-39c1.7-4.3 7.4-22-1.7-45c-13.9-4.3-45.7 17.9-45.7 17.9c-13.2-3.7-27.5-5.6-41.6-5.6s-28.4 1.9-41.6 5.6c0 0-31.8-22.2-45.7-17.9c-9.1 22.9-3.5 40.6-1.7 45c-10.6 11.7-15.6 20.8-15.6 39c0 63.6 37.3 69 74.3 73.1c-4.8 4.3-9.1 11.7-10.6 22.3c-9.5 4.3-33.8 11.7-48.3-13.9c-9.1-15.8-25.5-17.1-25.5-17.1c-16.2-.2-1.1 10.2-1.1 10.2c10.8 5 18.4 24.2 18.4 24.2c9.7 29.7 56.1 19.7 56.1 19.7c0 9 .1 21.7 .1 30.6c0 4.8 .1 8.6 .1 10c0 4.3-3 9.5-11.5 8C106 393.6 59.8 330.8 59.8 257.4c0-91.8 70.2-161.5 162-161.5s166.2 69.7 166.2 161.5c.1 73.4-44.7 136.3-110.7 158.3c-8.4 1.5-11.5-3.7-11.5-8zm-90.5-54.8c-.2-1.5 1.1-2.8 3-3.2c1.9-.2 3.7 .6 3.9 1.9c.3 1.3-1 2.6-3 3c-1.9 .4-3.7-.4-3.9-1.7zm-9.1 3.2c-2.2 .2-3.7-.9-3.7-2.4c0-1.3 1.5-2.4 3.5-2.4c1.9-.2 3.7 .9 3.7 2.4c0 1.3-1.5 2.4-3.5 2.4zm-14.3-2.2c-1.9-.4-3.2-1.9-2.8-3.2s2.4-1.9 4.1-1.5c2 .6 3.3 2.1 2.8 3.4c-.4 1.3-2.4 1.9-4.1 1.3zm-12.5-7.3c-1.5-1.3-1.9-3.2-.9-4.1c.9-1.1 2.8-.9 4.3 .6c1.3 1.3 1.8 3.3 .9 4.1c-.9 1.1-2.8 .9-4.3-.6zm-8.5-10c-1.1-1.5-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3c1.1 1.5 1.1 3.3 0 4.1c-.9 .6-2.6 0-3.7-1.5zm-6.3-8.8c-1.1-1.3-1.3-2.8-.4-3.5c.9-.9 2.4-.4 3.5 .6c1.1 1.3 1.3 2.8 .4 3.5c-.9 .9-2.4 .4-3.5-.6zm-6-6.4c-1.3-.6-1.9-1.7-1.5-2.6c.4-.6 1.5-.9 2.8-.4c1.3 .7 1.9 1.8 1.5 2.6c-.4 .9-1.7 1.1-2.8 .4z"></path></svg> Open source software.</a></li>
-  <li><a href="#working-papers." id="toc-working-papers." class="nav-link" data-scroll-target="#working-papers."><span class="header-section-number">2.5</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M304 48a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zm0 416a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zM48 304a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm464-48a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zM142.9 437A48 48 0 1 0 75 369.1 48 48 0 1 0 142.9 437zm0-294.2A48 48 0 1 0 75 75a48 48 0 1 0 67.9 67.9zM369.1 437A48 48 0 1 0 437 369.1 48 48 0 1 0 369.1 437z"></path></svg> Working papers.</a></li>
+  <li><a href="#journal-publications." id="toc-journal-publications." class="nav-link" data-scroll-target="#journal-publications.">Journal publications.</a></li>
+  <li><a href="#media." id="toc-media." class="nav-link" data-scroll-target="#media.">Media.</a></li>
+  <li><a href="#open-access." id="toc-open-access." class="nav-link" data-scroll-target="#open-access.">Open access.</a></li>
+  <li><a href="#open-source-software." id="toc-open-source-software." class="nav-link" data-scroll-target="#open-source-software.">Open source software.</a></li>
+  <li><a href="#working-papers." id="toc-working-papers." class="nav-link" data-scroll-target="#working-papers.">Working papers.</a></li>
   </ul></li>
-  <li><a href="#conferences." id="toc-conferences." class="nav-link" data-scroll-target="#conferences."><span class="header-section-number">3</span> <i class="far fa-comment fas" role="presentation" aria-label="comment icon" title="Solid Comment"></i> Conferences.</a>
+  <li><a href="#conferences." id="toc-conferences." class="nav-link" data-scroll-target="#conferences.">Conferences.</a>
   <ul class="collapse">
-  <li><a href="#international-conferences." id="toc-international-conferences." class="nav-link" data-scroll-target="#international-conferences."><span class="header-section-number">3.1</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z"></path></svg> International conferences.</a></li>
-  <li><a href="#research-seminars." id="toc-research-seminars." class="nav-link" data-scroll-target="#research-seminars."><span class="header-section-number">3.2</span> <svg aria-hidden="true" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M192 96a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm-8 384V352h16V480c0 17.7 14.3 32 32 32s32-14.3 32-32V192h56 64 16c17.7 0 32-14.3 32-32s-14.3-32-32-32H384V64H576V256H384V224H320v48c0 26.5 21.5 48 48 48H592c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48H368c-26.5 0-48 21.5-48 48v80H243.1 177.1c-33.7 0-64.9 17.7-82.3 46.6l-58.3 97c-9.1 15.1-4.2 34.8 10.9 43.9s34.8 4.2 43.9-10.9L120 256.9V480c0 17.7 14.3 32 32 32s32-14.3 32-32z"></path></svg> Research seminars.</a></li>
+  <li><a href="#international-conferences." id="toc-international-conferences." class="nav-link" data-scroll-target="#international-conferences.">International conferences.</a></li>
+  <li><a href="#research-seminars." id="toc-research-seminars." class="nav-link" data-scroll-target="#research-seminars.">Research seminars.</a></li>
   </ul></li>
-  <li><a href="#education." id="toc-education." class="nav-link" data-scroll-target="#education."><span class="header-section-number">4</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M243.4 2.6l-224 96c-14 6-21.8 21-18.7 35.8S16.8 160 32 160v8c0 13.3 10.7 24 24 24H456c13.3 0 24-10.7 24-24v-8c15.2 0 28.3-10.7 31.3-25.6s-4.8-29.9-18.7-35.8l-224-96c-8-3.4-17.2-3.4-25.2 0zM128 224H64V420.3c-.6 .3-1.2 .7-1.8 1.1l-48 32c-11.7 7.8-17 22.4-12.9 35.9S17.9 512 32 512H480c14.1 0 26.5-9.2 30.6-22.7s-1.1-28.1-12.9-35.9l-48-32c-.6-.4-1.2-.7-1.8-1.1V224H384V416H344V224H280V416H232V224H168V416H128V224zM256 64a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path></svg> Education.</a>
+  <li><a href="#education." id="toc-education." class="nav-link" data-scroll-target="#education.">Education.</a>
   <ul class="collapse">
-  <li><a href="#phd." id="toc-phd." class="nav-link" data-scroll-target="#phd."><span class="header-section-number">4.1</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M362.7 19.3L314.3 67.7 444.3 197.7l48.4-48.4c25-25 25-65.5 0-90.5L453.3 19.3c-25-25-65.5-25-90.5 0zm-71 71L58.6 323.5c-10.4 10.4-18 23.3-22.2 37.4L1 481.2C-1.5 489.7 .8 498.8 7 505s15.3 8.5 23.7 6.1l120.3-35.4c14.1-4.2 27-11.8 37.4-22.2L421.7 220.3 291.7 90.3z"></path></svg> PhD.</a></li>
-  <li><a href="#post-graduate." id="toc-post-graduate." class="nav-link" data-scroll-target="#post-graduate."><span class="header-section-number">4.2</span> <svg aria-hidden="true" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M320 32c-8.1 0-16.1 1.4-23.7 4.1L15.8 137.4C6.3 140.9 0 149.9 0 160s6.3 19.1 15.8 22.6l57.9 20.9C57.3 229.3 48 259.8 48 291.9v28.1c0 28.4-10.8 57.7-22.3 80.8c-6.5 13-13.9 25.8-22.5 37.6C0 442.7-.9 448.3 .9 453.4s6 8.9 11.2 10.2l64 16c4.2 1.1 8.7 .3 12.4-2s6.3-6.1 7.1-10.4c8.6-42.8 4.3-81.2-2.1-108.7C90.3 344.3 86 329.8 80 316.5V291.9c0-30.2 10.2-58.7 27.9-81.5c12.9-15.5 29.6-28 49.2-35.7l157-61.7c8.2-3.2 17.5 .8 20.7 9s-.8 17.5-9 20.7l-157 61.7c-12.4 4.9-23.3 12.4-32.2 21.6l159.6 57.6c7.6 2.7 15.6 4.1 23.7 4.1s16.1-1.4 23.7-4.1L624.2 182.6c9.5-3.4 15.8-12.5 15.8-22.6s-6.3-19.1-15.8-22.6L343.7 36.1C336.1 33.4 328.1 32 320 32zM128 408c0 35.3 86 72 192 72s192-36.7 192-72L496.7 262.6 354.5 314c-11.1 4-22.8 6-34.5 6s-23.5-2-34.5-6L143.3 262.6 128 408z"></path></svg> Post-graduate.</a></li>
-  <li><a href="#professional-training." id="toc-professional-training." class="nav-link" data-scroll-target="#professional-training."><span class="header-section-number">4.3</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M156.6 384.9L125.7 354c-8.5-8.5-11.5-20.8-7.7-32.2c3-8.9 7-20.5 11.8-33.8L24 288c-8.6 0-16.6-4.6-20.9-12.1s-4.2-16.7 .2-24.1l52.5-88.5c13-21.9 36.5-35.3 61.9-35.3l82.3 0c2.4-4 4.8-7.7 7.2-11.3C289.1-4.1 411.1-8.1 483.9 5.3c11.6 2.1 20.6 11.2 22.8 22.8c13.4 72.9 9.3 194.8-111.4 276.7c-3.5 2.4-7.3 4.8-11.3 7.2v82.3c0 25.4-13.4 49-35.3 61.9l-88.5 52.5c-7.4 4.4-16.6 4.5-24.1 .2s-12.1-12.2-12.1-20.9V380.8c-14.1 4.9-26.4 8.9-35.7 11.9c-11.2 3.6-23.4 .5-31.8-7.8zM384 168a40 40 0 1 0 0-80 40 40 0 1 0 0 80z"></path></svg> Professional training.</a></li>
-  <li><a href="#certifications-in-r." id="toc-certifications-in-r." class="nav-link" data-scroll-target="#certifications-in-r."><span class="header-section-number">4.4</span> <svg aria-hidden="true" role="img" viewbox="0 0 581 512" style="height:1em;width:1.13em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M581 226.6C581 119.1 450.9 32 290.5 32S0 119.1 0 226.6C0 322.4 103.3 402 239.4 418.1V480h99.1v-61.5c24.3-2.7 47.6-7.4 69.4-13.9L448 480h112l-67.4-113.7c54.5-35.4 88.4-84.9 88.4-139.7zm-466.8 14.5c0-73.5 98.9-133 220.8-133s211.9 40.7 211.9 133c0 50.1-26.5 85-70.3 106.4-2.4-1.6-4.7-2.9-6.4-3.7-10.2-5.2-27.8-10.5-27.8-10.5s86.6-6.4 86.6-92.7-90.6-87.9-90.6-87.9h-199V361c-74.1-21.5-125.2-67.1-125.2-119.9zm225.1 38.3v-55.6c57.8 0 87.8-6.8 87.8 27.3 0 36.5-38.2 28.3-87.8 28.3zm-.9 72.5H365c10.8 0 18.9 11.7 24 19.2-16.1 1.9-33 2.8-50.6 2.9v-22.1z"></path></svg> Certifications in R.</a></li>
+  <li><a href="#phd." id="toc-phd." class="nav-link" data-scroll-target="#phd.">PhD.</a></li>
+  <li><a href="#post-graduate." id="toc-post-graduate." class="nav-link" data-scroll-target="#post-graduate.">Post-graduate.</a></li>
+  <li><a href="#professional-training." id="toc-professional-training." class="nav-link" data-scroll-target="#professional-training.">Professional training.</a></li>
+  <li><a href="#certifications-in-r." id="toc-certifications-in-r." class="nav-link" data-scroll-target="#certifications-in-r.">Certifications in R.</a></li>
   </ul></li>
-  <li><a href="#service-to-the-academia." id="toc-service-to-the-academia." class="nav-link" data-scroll-target="#service-to-the-academia."><span class="header-section-number">5</span> <i class="far fa-pen-to-square fas" role="presentation" aria-label="pen-to-square icon" title="Solid pen-to-square"></i> Service to the academia.</a></li>
-  <li><a href="#awards-honors." id="toc-awards-honors." class="nav-link" data-scroll-target="#awards-honors."><span class="header-section-number">6</span> <svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M173.8 5.5c11-7.3 25.4-7.3 36.4 0L228 17.2c6 3.9 13 5.8 20.1 5.4l21.3-1.3c13.2-.8 25.6 6.4 31.5 18.2l9.6 19.1c3.2 6.4 8.4 11.5 14.7 14.7L344.5 83c11.8 5.9 19 18.3 18.2 31.5l-1.3 21.3c-.4 7.1 1.5 14.2 5.4 20.1l11.8 17.8c7.3 11 7.3 25.4 0 36.4L366.8 228c-3.9 6-5.8 13-5.4 20.1l1.3 21.3c.8 13.2-6.4 25.6-18.2 31.5l-19.1 9.6c-6.4 3.2-11.5 8.4-14.7 14.7L301 344.5c-5.9 11.8-18.3 19-31.5 18.2l-21.3-1.3c-7.1-.4-14.2 1.5-20.1 5.4l-17.8 11.8c-11 7.3-25.4 7.3-36.4 0L156 366.8c-6-3.9-13-5.8-20.1-5.4l-21.3 1.3c-13.2 .8-25.6-6.4-31.5-18.2l-9.6-19.1c-3.2-6.4-8.4-11.5-14.7-14.7L39.5 301c-11.8-5.9-19-18.3-18.2-31.5l1.3-21.3c.4-7.1-1.5-14.2-5.4-20.1L5.5 210.2c-7.3-11-7.3-25.4 0-36.4L17.2 156c3.9-6 5.8-13 5.4-20.1l-1.3-21.3c-.8-13.2 6.4-25.6 18.2-31.5l19.1-9.6C65 70.2 70.2 65 73.4 58.6L83 39.5c5.9-11.8 18.3-19 31.5-18.2l21.3 1.3c7.1 .4 14.2-1.5 20.1-5.4L173.8 5.5zM272 192a80 80 0 1 0 -160 0 80 80 0 1 0 160 0zM1.3 441.8L44.4 339.3c.2 .1 .3 .2 .4 .4l9.6 19.1c11.7 23.2 36 37.3 62 35.8l21.3-1.3c.2 0 .5 0 .7 .2l17.8 11.8c5.1 3.3 10.5 5.9 16.1 7.7l-37.6 89.3c-2.3 5.5-7.4 9.2-13.3 9.7s-11.6-2.2-14.8-7.2L74.4 455.5l-56.1 8.3c-5.7 .8-11.4-1.5-15-6s-4.3-10.7-2.1-16zm248 60.4L211.7 413c5.6-1.8 11-4.3 16.1-7.7l17.8-11.8c.2-.1 .4-.2 .7-.2l21.3 1.3c26 1.5 50.3-12.6 62-35.8l9.6-19.1c.1-.2 .2-.3 .4-.4l43.2 102.5c2.2 5.3 1.4 11.4-2.1 16s-9.3 6.9-15 6l-56.1-8.3-32.2 49.2c-3.2 5-8.9 7.7-14.8 7.2s-11-4.3-13.3-9.7z"></path></svg> Awards &amp; honors.</a></li>
-  <li><a href="#design-course-assessment-material." id="toc-design-course-assessment-material." class="nav-link" data-scroll-target="#design-course-assessment-material."><span class="header-section-number">7</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M512 256c0 .9 0 1.8 0 2.7c-.4 36.5-33.6 61.3-70.1 61.3H344c-26.5 0-48 21.5-48 48c0 3.4 .4 6.7 1 9.9c2.1 10.2 6.5 20 10.8 29.9c6.1 13.8 12.1 27.5 12.1 42c0 31.8-21.6 60.7-53.4 62c-3.5 .1-7 .2-10.6 .2C114.6 512 0 397.4 0 256S114.6 0 256 0S512 114.6 512 256zM128 288a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm0-96a32 32 0 1 0 0-64 32 32 0 1 0 0 64zM288 96a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm96 96a32 32 0 1 0 0-64 32 32 0 1 0 0 64z"></path></svg> Design course assessment material.</a></li>
-  <li><a href="#teaching." id="toc-teaching." class="nav-link" data-scroll-target="#teaching."><span class="header-section-number">8</span> <svg aria-hidden="true" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M192 96a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm-8 384V352h16V480c0 17.7 14.3 32 32 32s32-14.3 32-32V192h56 64 16c17.7 0 32-14.3 32-32s-14.3-32-32-32H384V64H576V256H384V224H320v48c0 26.5 21.5 48 48 48H592c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48H368c-26.5 0-48 21.5-48 48v80H243.1 177.1c-33.7 0-64.9 17.7-82.3 46.6l-58.3 97c-9.1 15.1-4.2 34.8 10.9 43.9s34.8 4.2 43.9-10.9L120 256.9V480c0 17.7 14.3 32 32 32s32-14.3 32-32z"></path></svg> Teaching.</a>
+  <li><a href="#service-to-the-academia." id="toc-service-to-the-academia." class="nav-link" data-scroll-target="#service-to-the-academia.">Service to the academia.</a></li>
+  <li><a href="#awards-honors." id="toc-awards-honors." class="nav-link" data-scroll-target="#awards-honors.">Awards &amp; honors.</a></li>
+  <li><a href="#design-course-assessment-material." id="toc-design-course-assessment-material." class="nav-link" data-scroll-target="#design-course-assessment-material.">Design course assessment material.</a></li>
+  <li><a href="#teaching." id="toc-teaching." class="nav-link" data-scroll-target="#teaching.">Teaching.</a>
   <ul class="collapse">
-  <li><a href="#teaching-postgraduate." id="toc-teaching-postgraduate." class="nav-link" data-scroll-target="#teaching-postgraduate."><span class="header-section-number">8.1</span> Teaching: Postgraduate.</a></li>
-  <li><a href="#teaching-undergraduate." id="toc-teaching-undergraduate." class="nav-link" data-scroll-target="#teaching-undergraduate."><span class="header-section-number">8.2</span> Teaching: Undergraduate.</a></li>
-  <li><a href="#teaching-executive-training." id="toc-teaching-executive-training." class="nav-link" data-scroll-target="#teaching-executive-training."><span class="header-section-number">8.3</span> Teaching: Executive training.</a></li>
+  <li><a href="#teaching-postgraduate." id="toc-teaching-postgraduate." class="nav-link" data-scroll-target="#teaching-postgraduate.">Teaching: Postgraduate.</a></li>
+  <li><a href="#teaching-undergraduate." id="toc-teaching-undergraduate." class="nav-link" data-scroll-target="#teaching-undergraduate.">Teaching: Undergraduate.</a></li>
+  <li><a href="#teaching-executive-training." id="toc-teaching-executive-training." class="nav-link" data-scroll-target="#teaching-executive-training.">Teaching: Executive training.</a></li>
   </ul></li>
-  <li><a href="#supervision." id="toc-supervision." class="nav-link" data-scroll-target="#supervision."><span class="header-section-number">9</span> <i class="far fa-eye fas" role="presentation" aria-label="eye icon" title="Solid Eye"></i> Supervision.</a>
+  <li><a href="#supervision." id="toc-supervision." class="nav-link" data-scroll-target="#supervision.">Supervision.</a>
   <ul class="collapse">
-  <li><a href="#supervision-phd." id="toc-supervision-phd." class="nav-link" data-scroll-target="#supervision-phd."><span class="header-section-number">9.1</span> Supervision: PhD.</a></li>
-  <li><a href="#supervision-msc-39-projects." id="toc-supervision-msc-39-projects." class="nav-link" data-scroll-target="#supervision-msc-39-projects."><span class="header-section-number">9.2</span> Supervision: MSc (39 projects).</a></li>
-  <li><a href="#supervision-mba-18-projects." id="toc-supervision-mba-18-projects." class="nav-link" data-scroll-target="#supervision-mba-18-projects."><span class="header-section-number">9.3</span> Supervision: MBA (18 projects).</a></li>
-  <li><a href="#supervision-undergraduate-52-projects." id="toc-supervision-undergraduate-52-projects." class="nav-link" data-scroll-target="#supervision-undergraduate-52-projects."><span class="header-section-number">9.4</span> Supervision: Undergraduate (52 projects).</a></li>
+  <li><a href="#supervision-phd." id="toc-supervision-phd." class="nav-link" data-scroll-target="#supervision-phd.">Supervision: PhD.</a></li>
+  <li><a href="#supervision-msc-39-projects." id="toc-supervision-msc-39-projects." class="nav-link" data-scroll-target="#supervision-msc-39-projects.">Supervision: MSc (39 projects).</a></li>
+  <li><a href="#supervision-mba-18-projects." id="toc-supervision-mba-18-projects." class="nav-link" data-scroll-target="#supervision-mba-18-projects.">Supervision: MBA (18 projects).</a></li>
+  <li><a href="#supervision-undergraduate-52-projects." id="toc-supervision-undergraduate-52-projects." class="nav-link" data-scroll-target="#supervision-undergraduate-52-projects.">Supervision: Undergraduate (52 projects).</a></li>
   </ul></li>
-  <li><a href="#free-time." id="toc-free-time." class="nav-link" data-scroll-target="#free-time."><span class="header-section-number">10</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M499.1 6.3c8.1 6 12.9 15.6 12.9 25.7v72V368c0 44.2-43 80-96 80s-96-35.8-96-80s43-80 96-80c11.2 0 22 1.6 32 4.6V147L192 223.8V432c0 44.2-43 80-96 80s-96-35.8-96-80s43-80 96-80c11.2 0 22 1.6 32 4.6V200 128c0-14.1 9.3-26.6 22.8-30.7l320-96c9.7-2.9 20.2-1.1 28.3 5z"></path></svg> Free time.</a></li>
+  <li><a href="#free-time." id="toc-free-time." class="nav-link" data-scroll-target="#free-time.">Free time.</a></li>
   </ul>
 </nav>
 </div>
 <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
 </div>
-<main class="content column-page-right" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -246,14 +135,14 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page-right">
+<div class="quarto-title-meta">
 
     
   
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">February 27, 2026, 02:17:07 am.</p>
+      <p class="date-modified">July 14, 2026</p>
     </div>
   </div>
     
@@ -264,90 +153,78 @@ window.Quarto = {
 </header>
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- Sección de correos -->
-  <div>
-    <p>
-      <img src="envelope-solid.svg" alt="Envelope Icon" style="width: 16px; height: 16px; vertical-align: middle;"> 
-      Personal: <a href="mailto:mlozanoqf@gmail.com">mlozanoqf@gmail.com</a><br>
-      <img src="envelope-solid.svg" alt="Envelope Icon" style="width: 16px; height: 16px; vertical-align: middle;"> 
-      UDEM: <a href="mailto:martin.lozano@udem.edu">martin.lozano@udem.edu</a><br>
-      <img src="envelope-solid.svg" alt="Envelope Icon" style="width: 16px; height: 16px; vertical-align: middle;"> 
-      SOAS: <a href="mailto:ml143@soas.ac.uk">ml143@soas.ac.uk</a><br>
-      <img src="envelope-solid.svg" alt="Envelope Icon" style="width: 16px; height: 16px; vertical-align: middle;"> 
-      UoM: <a href="mailto:martin.lozanobanda@manchester.ac.uk">martin.lozanobanda@manchester.ac.uk</a>
-    </p>
-  </div>
+<header class="cv-hero">
+  <div class="cv-hero-content">
+    <p class="cv-kicker">Curriculum vitae.</p>
+    <h1 class="cv-name">Dr. Martín Lozano.</h1>
 
-  <!-- Imagen -->
-  <div style="text-align: center; margin-left: 20px; margin-top: -100px;">
-    <img src="foto mlozano.jpg" alt="Fotografía" style="max-width: 200px; height: auto; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-  </div>
-</div>
+    <div class="cv-contact-grid" aria-label="Email addresses">
+      <a class="cv-contact-item" href="mailto:mlozanoqf@gmail.com">
+        <span class="bi bi-envelope-fill cv-contact-icon" aria-hidden="true"></span>
+        <span><small>Personal</small>mlozanoqf@gmail.com</span>
+      </a>
+      <a class="cv-contact-item" href="mailto:martin.lozano@udem.edu">
+        <span class="bi bi-building cv-contact-icon" aria-hidden="true"></span>
+        <span><small>UDEM</small>martin.lozano@udem.edu</span>
+      </a>
+      <a class="cv-contact-item" href="mailto:ml143@soas.ac.uk">
+        <span class="bi bi-mortarboard-fill cv-contact-icon" aria-hidden="true"></span>
+        <span><small>SOAS</small>ml143@soas.ac.uk</span>
+      </a>
+      <a class="cv-contact-item" href="mailto:martin.lozanobanda@manchester.ac.uk">
+        <span class="bi bi-bank2 cv-contact-icon" aria-hidden="true"></span>
+        <span><small>UoM</small>martin.lozanobanda@manchester.ac.uk</span>
+      </a>
+    </div>
 
-<!-- Enlaces y texto a la derecha -->
-<div style="text-align: right; margin-top: 10px;">
-  <p> 
-    <a href="https://mlozanoqf.github.io/">
-      <span style="color: black">Back to Quantitative Finance with </span>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="R Icon" style="width: 30px; height: 30px;">
+    <nav class="cv-social-links" aria-label="Contact and professional profiles">
+      <a href="https://github.com/mlozanoqf" target="_blank" rel="noopener" aria-label="GitHub profile" title="GitHub">
+        <span class="bi bi-github" aria-hidden="true"></span><span class="visually-hidden">GitHub</span>
+      </a>
+      <a href="https://linkedin.com/in/martin-lozano-21818a22" target="_blank" rel="noopener" aria-label="LinkedIn profile" title="LinkedIn">
+        <span class="bi bi-linkedin" aria-hidden="true"></span><span class="visually-hidden">LinkedIn</span>
+      </a>
+      <a href="https://www.youtube.com/@ahyaentendi" target="_blank" rel="noopener" aria-label="YouTube channel" title="YouTube">
+        <span class="bi bi-youtube" aria-hidden="true"></span><span class="visually-hidden">YouTube</span>
+      </a>
+      <a href="https://sites.google.com/site/mlozanoqf" target="_blank" rel="noopener" aria-label="Website" title="Website">
+        <span class="bi bi-globe2" aria-hidden="true"></span><span class="visually-hidden">Website</span>
+      </a>
+      <a href="mailto:mlozanoqf@gmail.com" aria-label="Email" title="Email">
+        <span class="bi bi-envelope-fill" aria-hidden="true"></span><span class="visually-hidden">Email</span>
+      </a>
+      <a href="https://scholar.google.com/citations?user=w8boOboAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="Google Scholar profile" title="Google Scholar">
+        <span class="bi bi-mortarboard-fill" aria-hidden="true"></span><span class="visually-hidden">Scholar</span>
+      </a>
+      <a href="https://ssrn.com/author=1490785" target="_blank" rel="noopener" aria-label="SSRN profile" title="SSRN">
+        <span class="bi bi-journal-text" aria-hidden="true"></span><span class="visually-hidden">SSRN</span>
+      </a>
+      <a href="https://substack.com/@ahyaentendi" target="_blank" rel="noopener" aria-label="Substack newsletter" title="Substack">
+        <span class="bi bi-substack" aria-hidden="true"></span><span class="visually-hidden">Substack</span>
+      </a>
+      <a href="https://us02web.zoom.us/j/9209945512" target="_blank" rel="noopener" aria-label="Zoom meeting" title="Zoom">
+        <span class="bi bi-camera-video-fill" aria-hidden="true"></span><span class="visually-hidden">Zoom</span>
+      </a>
+    </nav>
+
+    <a class="cv-home-link" href="https://mlozanoqf.github.io/">
+      <span class="bi bi-r-circle-fill" aria-hidden="true"></span>
+      <span>Back to Quantitative Finance with R</span>
     </a>
-  </p>
+  </div>
 
-<!--
-  <p> 
-    <a href="https://github.com/mlozanoqf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="martin-lozano-21818a22" height="20" width="30" /></a>
-    <a href="https://ssrn.com/author=1490785" target="blank"><img align="center" src='./ssrn.svg' height="90" width="30" /></a>
-    <a href="mailto:mlozanoqf@gmail.com" target="blank"><img align="center" src='./envelope-solid.svg' alt="mailto:mlozanoqf@gmail.com" height="20" width="30" /></a>
-    <a href="https://linkedin.com/in/martin-lozano-21818a22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martin-lozano-21818a22" height="20" width="30" /></a>
-    <a href="https://www.youtube.com/user/drmartinlozano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/drmartinlozano" height="20" width="30" /></a>
-    <a href="https://scholar.google.com/citations?user=w8boOboAAAAJ&hl=en" target="blank"><img align="center" src='./google-scholar.svg' height="30" width="25" /></a>
-    <a href="https://sites.google.com/site/mlozanoqf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="https://www.youtube.com/channel/drmartinlozano" height="20" width="30" /></a>
-    <a href="https://us02web.zoom.us/j/9209945512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="60" width="50" /></a>
-  </p> -->
-  
-</div>
+  <figure class="cv-portrait-wrap figure">
+    <img class="cv-portrait figure-img" src="foto mlozano.jpg" alt="Fotografía">
+  </figure>
+</header>
 
-<!--<hr style="border:2px solid gray">-->
-<p><a href="https://github.com/mlozanoqf"><img src="https://img.shields.io/badge/GitHub-white?logo=github&amp;logoColor=181717&amp;style=flat-square.png" class="img-fluid" alt="GitHub"></a> <a href="https://linkedin.com/in/martin-lozano-21818a22" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:4px;
-          background:#e6e6e6;color:#0A66C2;border-radius:2px;
-          padding:2px 5px;font:11px 'DejaVu Sans',Verdana,Arial,sans-serif;
-          text-decoration:none;height:20px;vertical-align:middle;line-height:1;"> <svg viewbox="0 0 24 24" width="13" height="13" fill="#0A66C2" style="display:inline-block;vertical-align:middle;"> <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.039-1.852-3.039-1.853 0-2.136 
-    1.445-2.136 2.939v5.669H9.352V9h3.414v1.561h.049c.476-.9 1.637-1.852 
-    3.372-1.852 3.606 0 4.271 2.373 4.271 5.463v6.28zM5.337 
-    7.433a2.062 2.062 0 11.001-4.124 2.062 2.062 0 
-    01-.001 4.124zM6.765 20.452H3.911V9h2.854v11.452zM22.225 
-    0H1.771C.792 0 0 .771 0 1.723v20.555C0 23.228.792 24 
-    1.771 24h20.451C23.2 24 24 23.228 24 
-    22.277V1.723C24 .771 23.2 0 22.222 0h.003z"></path> </svg> LinkedIn </a> <a href="https://www.youtube.com/@ahyaentendi"><img src="https://img.shields.io/badge/YouTube-white?logo=youtube&amp;logoColor=FF0000&amp;style=flat-square.png" class="img-fluid" alt="YouTube"></a> <a href="https://sites.google.com/site/mlozanoqf"><img src="https://img.shields.io/badge/Website-white?logo=googlechrome&amp;logoColor=4285F4&amp;style=flat-square.png" class="img-fluid" alt="Website"></a> <a href="mailto:mlozanoqf@gmail.com"><img src="https://img.shields.io/badge/Email-white?logo=gmail&amp;logoColor=D14836&amp;style=flat-square.png" class="img-fluid" alt="Email"></a> <a href="https://scholar.google.com/citations?user=w8boOboAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Scholar-white?logo=googlescholar&amp;logoColor=4285F4&amp;style=flat-square.png" class="img-fluid" alt="Scholar"></a> <a href="https://ssrn.com/author=1490785"><img src="https://img.shields.io/badge/SSRN-white?logo=readthedocs&amp;logoColor=000000&amp;style=flat-square.png" class="img-fluid" alt="SSRN"></a> <a href="https://substack.com/@ahyaentendi"><img src="https://img.shields.io/badge/Substack-white?logo=substack&amp;logoColor=FF6719&amp;style=flat-square.png" class="img-fluid" alt="Substack"></a> <a href="https://us02web.zoom.us/j/9209945512"><img src="https://img.shields.io/badge/Zoom-white?logo=zoom&amp;logoColor=2D8CFF&amp;style=flat-square.png" class="img-fluid" alt="Zoom"></a></p>
-<div style="font-size:0.78rem;color:#6b7280;margin-top:6px;margin-bottom:2px;">
-<p>Version <code title="Source hash">3bca0b723194</code> · Words <code>6,743</code></p>
+<div class="cv-build-meta" aria-label="Document version">
+<p><span>Version <code title="Source hash">1fb37bc9b03f</code></span> <span>Words <code>6,627</code></span></p>
 </div>
-<hr style="border:2px solid gray">
-<style>
-    a {
-        color: #212130 !important; /* Replace with your preferred color */
-    }
-</style>
-<!-- # \faHome \hspace{1 mm} Email. -->
-<!-- `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"/></svg>`{=html} Personal: <a href="mailto:mlozanoqf@gmail.com">mlozanoqf@gmail.com</a> -->
-<!-- `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"/></svg>`{=html} UDEM: <a href="mailto:martin.lozano@udem.edu">martin.lozano@udem.edu</a>  -->
-<!-- `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"/></svg>`{=html} SOAS: <a href="mailto:ml143@soas.ac.uk">ml143@soas.ac.uk</a>  -->
-<!-- `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"/></svg>`{=html} UoM: <a href="martin.lozanobanda@manchester.ac.uk">martin.lozanobanda@manchester.ac.uk</a> -->
-<!-- `<svg aria-hidden="true" role="img" viewBox="0 0 496 512" style="height:1em;width:0.97em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>`{=html} -->
-<!-- <i class="fa-brands fa-github"></i> [https://github.com/mlozanoqf/](https://github.com/mlozanoqf/) -->
-<!-- <img src="./ssrn.svg" height="65" width="35" /> -->
-<!-- [https://ssrn.com/author=1490785](https://ssrn.com/author=1490785) -->
-<!-- `<svg aria-hidden="true" role="img" viewBox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/></svg>`{=html}[http://www.youtube.com/user/drmartinlozano](http://www.youtube.com/user/drmartinlozano) -->
-<!-- `<svg aria-hidden="true" role="img" viewBox="0 0 480 512" style="height:1em;width:0.94em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M186.1 328.7c0 20.9-10.9 55.1-36.7 55.1s-36.7-34.2-36.7-55.1 10.9-55.1 36.7-55.1 36.7 34.2 36.7 55.1zM480 278.2c0 31.9-3.2 65.7-17.5 95-37.9 76.6-142.1 74.8-216.7 74.8-75.8 0-186.2 2.7-225.6-74.8-14.6-29-20.2-63.1-20.2-95 0-41.9 13.9-81.5 41.5-113.6-5.2-15.8-7.7-32.4-7.7-48.8 0-21.5 4.9-32.3 14.6-51.8 45.3 0 74.3 9 108.8 36 29-6.9 58.8-10 88.7-10 27 0 54.2 2.9 80.4 9.2 34-26.7 63-35.2 107.8-35.2 9.8 19.5 14.6 30.3 14.6 51.8 0 16.4-2.6 32.7-7.7 48.2 27.5 32.4 39 72.3 39 114.2zm-64.3 50.5c0-43.9-26.7-82.6-73.5-82.6-18.9 0-37 3.4-56 6-14.9 2.3-29.8 3.2-45.1 3.2-15.2 0-30.1-.9-45.1-3.2-18.7-2.6-37-6-56-6-46.8 0-73.5 38.7-73.5 82.6 0 87.8 80.4 101.3 150.4 101.3h48.2c70.3 0 150.6-13.4 150.6-101.3zm-82.6-55.1c-25.8 0-36.7 34.2-36.7 55.1s10.9 55.1 36.7 55.1 36.7-34.2 36.7-55.1-10.9-55.1-36.7-55.1z"/></svg>`{=html}[https://mlozanoqf.github.io/](https://mlozanoqf.github.io/) -->
-<!-- `<svg aria-hidden="true" role="img" viewBox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg>`{=html}[http://sites.google.com/site/mlozanoqf/](http://sites.google.com/site/mlozanoqf/) -->
-<!-- `<svg aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>`{=html}[https://linkedin.com/in/martin-lozano-21818a22](https://linkedin.com/in/martin-lozano-21818a22) -->
-<!-- <img src="./google-scholar.svg" height="65" width="35" /> [http://scholar.google.com.mx/citations?user=w8boOboAAAAJ](http://scholar.google.com.mx/citations?user=w8boOboAAAAJ) -->
-<!-- \hspace{1 mm} -->
-<section id="background." class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> <svg aria-hidden="true" role="img" viewbox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M96 128a128 128 0 1 0 256 0A128 128 0 1 0 96 128zm94.5 200.2l18.6 31L175.8 483.1l-36-146.9c-2-8.1-9.8-13.4-17.9-11.3C51.9 342.4 0 405.8 0 481.3c0 17 13.8 30.7 30.7 30.7H162.5c0 0 0 0 .1 0H168 280h5.5c0 0 0 0 .1 0H417.3c17 0 30.7-13.8 30.7-30.7c0-75.5-51.9-138.9-121.9-156.4c-8.1-2-15.9 3.3-17.9 11.3l-36 146.9L238.9 359.2l18.6-31c6.4-10.7-1.3-24.2-13.7-24.2H224 204.3c-12.4 0-20.1 13.6-13.7 24.2z"></path></svg> Background.</h1>
-<section id="expertise." class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="expertise."><span class="header-section-number">1.1</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"></path></svg> Expertise.</h2>
+<section id="background." class="level1">
+<h1>Background.</h1>
+<section id="expertise." class="level2">
+<h2 class="anchored" data-anchor-id="expertise.">Expertise.</h2>
 <p><strong>Main areas.</strong> Finance, Economics, Statistics, Data Science.</p>
 <p><strong>Research interests.</strong> Empirical asset pricing; beta and SDF pricing models and tests; financial econometrics; GMM estimation and inference; portfolio allocation models and performance; computational finance; data science applications in business.</p>
 <p><strong>Teaching interests.</strong> Introductory economics (microeconomics, macroeconomics), economic analysis, quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics, statistics, innovation.</p>
@@ -359,8 +236,8 @@ window.Quarto = {
 <li>Other: OBS Studio; DaVinci Resolve (teaching and research communication).</li>
 </ul>
 </section>
-<section id="experience." class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="experience."><span class="header-section-number">1.2</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M184 48H328c4.4 0 8 3.6 8 8V96H176V56c0-4.4 3.6-8 8-8zm-56 8V96H64C28.7 96 0 124.7 0 160v96H192 320 512V160c0-35.3-28.7-64-64-64H384V56c0-30.9-25.1-56-56-56H184c-30.9 0-56 25.1-56 56zM512 288H320v32c0 17.7-14.3 32-32 32H224c-17.7 0-32-14.3-32-32V288H0V416c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V288z"></path></svg> Experience.</h2>
+<section id="experience." class="level2">
+<h2 class="anchored" data-anchor-id="experience.">Experience.</h2>
 <p><strong>Creator of open-access educational media (YouTube and Substack).</strong> 2025 – current. Develop educational content on finance, econometrics, and data science through <a href="https://www.youtube.com/@ahyaentendi">Ah, ya entendí. on YouTube</a> and <a href="https://substack.com/@ahyaentendi">Ah, ya entendí. on Substack</a>.</p>
 <p><strong>Professor of finance.</strong> 2015 – current. <a href="https://www.udem.edu.mx/en">Universidad de Monterrey UDEM</a>. Department of Economics and Finance. México.</p>
 <p><strong>Teaching fellow.</strong> 2012 – current. <a href="https://www.soas.ac.uk/">SOAS University of London.</a> <a href="https://www.soas.ac.uk/about-soas/colleges-schools-and-departments/school-finance-and-management">School of Finance and Management.</a> United Kingdom. <em>Design of course assessment material, postgraduate teaching, postgraduate supervision for the MSc in Quantitative Finance and MSc in Economic Policy.</em></p>
@@ -374,10 +251,10 @@ window.Quarto = {
 <p><strong>Wharton Global Consulting Practicum consultant.</strong> 2001 – 2002. <a href="https://egade.tec.mx/es/home">EGADE Business School,</a> and the <a href="https://www.wharton.upenn.edu/">Wharton School of the University of Pennsylvania</a>. <em>Develop the business plan for a Mexican company in the beverage industry to enter into the US market.</em></p>
 </section>
 </section>
-<section id="publications." class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M512 416c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V96C0 60.7 28.7 32 64 32H192c20.1 0 39.1 9.5 51.2 25.6l19.2 25.6c6 8.1 15.5 12.8 25.6 12.8H448c35.3 0 64 28.7 64 64V416zM232 376c0 13.3 10.7 24 24 24s24-10.7 24-24V312h64c13.3 0 24-10.7 24-24s-10.7-24-24-24H280V200c0-13.3-10.7-24-24-24s-24 10.7-24 24v64H168c-13.3 0-24 10.7-24 24s10.7 24 24 24h64v64z"></path></svg> Publications.</h1>
-<section id="journal-publications." class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="journal-publications."><span class="header-section-number">2.1</span> <i class="far fa-folder fas" role="presentation" aria-label="folder icon" title="Solid folder"></i> Journal publications.</h2>
+<section id="publications." class="level1">
+<h1>Publications.</h1>
+<section id="journal-publications." class="level2">
+<h2 class="anchored" data-anchor-id="journal-publications.">Journal publications.</h2>
 <ol type="1">
 <li><em>The efficiency vs.&nbsp;pricing accuracy trade-off in GMM estimation of multifactor linear asset pricing models.</em> With Massimo Guidolin, and Juan Arismendi Zambrano. <strong>Forthcoming Journal of Business &amp; Economic Statistics,</strong> 2026.</li>
 <li><em>Portfolio performance of linear SDF models: An out-of-sample assessment.</em> With Erwin Hansen and Massimo Guidolin. <strong>Quantitative Finance</strong>. Vol. 18, No.&nbsp;8, 1425–1436, 2018. <a href="http://dx.doi.org/10.1080/14697688.2018.1429646">http://dx.doi.org/10.1080/14697688.2018.1429646</a>.</li>
@@ -387,8 +264,8 @@ window.Quarto = {
 <li>Proceedings: <em>The efficiency of the SDF and Beta methods at evaluating multi-factor asset-pricing models.</em> With Stuart Hyde and Ian Garrett. <strong>Southwestern Finance Association 48th Annual Meeting Proceedings.</strong> Oklahoma City, USA. 2009.</li>
 </ol>
 </section>
-<section id="media." class="level2" data-number="2.2">
-<h2 data-number="2.2" class="anchored" data-anchor-id="media."><span class="header-section-number">2.2</span> <svg aria-hidden="true" role="img" viewbox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M319.4 372c48.5-31.3 80.6-85.9 80.6-148c0-97.2-78.8-176-176-176S48 126.8 48 224c0 62.1 32.1 116.6 80.6 148c1.2 17.3 4 38 7.2 57.1l.2 1C56 395.8 0 316.5 0 224C0 100.3 100.3 0 224 0S448 100.3 448 224c0 92.5-56 171.9-136 206.1l.2-1.1c3.1-19.2 6-39.8 7.2-57zm-2.3-38.1c-1.6-5.7-3.9-11.1-7-16.2c-5.8-9.7-13.5-17-21.9-22.4c19.5-17.6 31.8-43 31.8-71.3c0-53-43-96-96-96s-96 43-96 96c0 28.3 12.3 53.8 31.8 71.3c-8.4 5.4-16.1 12.7-21.9 22.4c-3.1 5.1-5.4 10.5-7 16.2C99.8 307.5 80 268 80 224c0-79.5 64.5-144 144-144s144 64.5 144 144c0 44-19.8 83.5-50.9 109.9zM224 312c32.9 0 64 8.6 64 43.8c0 33-12.9 104.1-20.6 132.9c-5.1 19-24.5 23.4-43.4 23.4s-38.2-4.4-43.4-23.4c-7.8-28.5-20.6-99.7-20.6-132.8c0-35.1 31.1-43.8 64-43.8zm0-144a56 56 0 1 1 0 112 56 56 0 1 1 0-112z"></path></svg> Media.</h2>
+<section id="media." class="level2">
+<h2 class="anchored" data-anchor-id="media.">Media.</h2>
 <ol type="1">
 <li>YouTube channel <a href="https://www.youtube.com/@ahyaentendi">Ah, ya entendí.</a> <em>Contenido de economía y finanzas para públicos diversos, desde finanzas para no financieros hasta temas especializados, incluyendo aplicaciones prácticas de R. EN: Economics and finance content for diverse audiences, from finance for non-finance professionals to specialized topics, including practical R applications.</em></li>
 <li>Substack channel <a href="https://substack.com/@ahyaentendi">Ah, ya entendí.</a> <em>Ensayos sobre temas e investigaciones recientes de economía y finanzas. EN: Essays on current topics and research in economics and finance.</em></li>
@@ -398,8 +275,8 @@ window.Quarto = {
 <li><em>La industria del acero.</em> Suplemento Grupo Milenio. June 2016.</li>
 </ol>
 </section>
-<section id="open-access." class="level2" data-number="2.3">
-<h2 data-number="2.3" class="anchored" data-anchor-id="open-access."><span class="header-section-number">2.3</span> <svg aria-hidden="true" role="img" viewbox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M384 480h48c11.4 0 21.9-6 27.6-15.9l112-192c5.8-9.9 5.8-22.1 .1-32.1S555.5 224 544 224H144c-11.4 0-21.9 6-27.6 15.9L48 357.1V96c0-8.8 7.2-16 16-16H181.5c4.2 0 8.3 1.7 11.3 4.7l26.5 26.5c21 21 49.5 32.8 79.2 32.8H416c8.8 0 16 7.2 16 16v32h48V160c0-35.3-28.7-64-64-64H298.5c-17 0-33.3-6.7-45.3-18.7L226.7 50.7c-12-12-28.3-18.7-45.3-18.7H64C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H87.7 384z"></path></svg> Open access.</h2>
+<section id="open-access." class="level2">
+<h2 class="anchored" data-anchor-id="open-access.">Open access.</h2>
 <ol type="1">
 <li><em>Quantitative finance with R.</em> 2026. Series of open-access tutorials:
 <ul>
@@ -411,16 +288,16 @@ window.Quarto = {
 </ul></li>
 </ol>
 </section>
-<section id="open-source-software." class="level2" data-number="2.4">
-<h2 data-number="2.4" class="anchored" data-anchor-id="open-source-software."><span class="header-section-number">2.4</span> <svg aria-hidden="true" role="img" viewbox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M448 96c0-35.3-28.7-64-64-64H64C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96zM265.8 407.7c0-1.8 0-6 .1-11.6c.1-11.4 .1-28.8 .1-43.7c0-15.6-5.2-25.5-11.3-30.7c37-4.1 76-9.2 76-73.1c0-18.2-6.5-27.3-17.1-39c1.7-4.3 7.4-22-1.7-45c-13.9-4.3-45.7 17.9-45.7 17.9c-13.2-3.7-27.5-5.6-41.6-5.6s-28.4 1.9-41.6 5.6c0 0-31.8-22.2-45.7-17.9c-9.1 22.9-3.5 40.6-1.7 45c-10.6 11.7-15.6 20.8-15.6 39c0 63.6 37.3 69 74.3 73.1c-4.8 4.3-9.1 11.7-10.6 22.3c-9.5 4.3-33.8 11.7-48.3-13.9c-9.1-15.8-25.5-17.1-25.5-17.1c-16.2-.2-1.1 10.2-1.1 10.2c10.8 5 18.4 24.2 18.4 24.2c9.7 29.7 56.1 19.7 56.1 19.7c0 9 .1 21.7 .1 30.6c0 4.8 .1 8.6 .1 10c0 4.3-3 9.5-11.5 8C106 393.6 59.8 330.8 59.8 257.4c0-91.8 70.2-161.5 162-161.5s166.2 69.7 166.2 161.5c.1 73.4-44.7 136.3-110.7 158.3c-8.4 1.5-11.5-3.7-11.5-8zm-90.5-54.8c-.2-1.5 1.1-2.8 3-3.2c1.9-.2 3.7 .6 3.9 1.9c.3 1.3-1 2.6-3 3c-1.9 .4-3.7-.4-3.9-1.7zm-9.1 3.2c-2.2 .2-3.7-.9-3.7-2.4c0-1.3 1.5-2.4 3.5-2.4c1.9-.2 3.7 .9 3.7 2.4c0 1.3-1.5 2.4-3.5 2.4zm-14.3-2.2c-1.9-.4-3.2-1.9-2.8-3.2s2.4-1.9 4.1-1.5c2 .6 3.3 2.1 2.8 3.4c-.4 1.3-2.4 1.9-4.1 1.3zm-12.5-7.3c-1.5-1.3-1.9-3.2-.9-4.1c.9-1.1 2.8-.9 4.3 .6c1.3 1.3 1.8 3.3 .9 4.1c-.9 1.1-2.8 .9-4.3-.6zm-8.5-10c-1.1-1.5-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3c1.1 1.5 1.1 3.3 0 4.1c-.9 .6-2.6 0-3.7-1.5zm-6.3-8.8c-1.1-1.3-1.3-2.8-.4-3.5c.9-.9 2.4-.4 3.5 .6c1.1 1.3 1.3 2.8 .4 3.5c-.9 .9-2.4 .4-3.5-.6zm-6-6.4c-1.3-.6-1.9-1.7-1.5-2.6c.4-.6 1.5-.9 2.8-.4c1.3 .7 1.9 1.8 1.5 2.6c-.4 .9-1.7 1.1-2.8 .4z"></path></svg> Open source software.</h2>
+<section id="open-source-software." class="level2">
+<h2 class="anchored" data-anchor-id="open-source-software.">Open source software.</h2>
 <ol type="1">
 <li><em>Credit risk in public firms.</em> 2023. First stage collaborators: Hernán González Aguilera, and Ramiro Castellanos Barrón. Available at <a href="https://github.com/mlozanoqf/RunwayFinance">https://github.com/mlozanoqf/RunwayFinance</a></li>
 <li><em>European options strategy analyzer.</em> 2026. Author: Dr.&nbsp;Martín Lozano. Interactive app to design and evaluate European options strategies, combining payoff visualization with scenario-based profit and risk analysis. Available at <a href="https://mlozanoqf.shinyapps.io/opstr/">https://mlozanoqf.shinyapps.io/opstr/</a></li>
 <li><em>Mini Crypto Miner: Eco-Friendly Proof-of-Work Challenge.</em> 2026. Author: Dr.&nbsp;Martín Lozano. Educational simulation of proof-of-work mining where users test nonces against a hash target in a local, no-crypto environment to understand mining logic and resource constraints. Available at <a href="https://mlozanoqf.shinyapps.io/pass/">https://mlozanoqf.shinyapps.io/pass/</a></li>
 </ol>
 </section>
-<section id="working-papers." class="level2" data-number="2.5">
-<h2 data-number="2.5" class="anchored" data-anchor-id="working-papers."><span class="header-section-number">2.5</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M304 48a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zm0 416a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zM48 304a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm464-48a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zM142.9 437A48 48 0 1 0 75 369.1 48 48 0 1 0 142.9 437zm0-294.2A48 48 0 1 0 75 75a48 48 0 1 0 67.9 67.9zM369.1 437A48 48 0 1 0 437 369.1 48 48 0 1 0 369.1 437z"></path></svg> Working papers.</h2>
+<section id="working-papers." class="level2">
+<h2 class="anchored" data-anchor-id="working-papers.">Working papers.</h2>
 <ol type="1">
 <li><em>Multifactor Empirical Asset Pricing Under Higher-Order Moment Variations.</em> 2020. With Massimo Guidolin, and Juan Arismendi Zambrano.</li>
 <li><em>Performance of asset allocation strategies in Europe: An out-of-sample assessment.</em> 2014. With Francisco Navarro. <a href="http://ssrn.com/abstract=2474542">http://ssrn.com/abstract=2474542</a></li>
@@ -430,10 +307,10 @@ window.Quarto = {
 </ol>
 </section>
 </section>
-<section id="conferences." class="level1" data-number="3">
-<h1 data-number="3"><span class="header-section-number">3</span> <i class="far fa-comment fas" role="presentation" aria-label="comment icon" title="Solid Comment"></i> Conferences.</h1>
-<section id="international-conferences." class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="international-conferences."><span class="header-section-number">3.1</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z"></path></svg> International conferences.</h2>
+<section id="conferences." class="level1">
+<h1>Conferences.</h1>
+<section id="international-conferences." class="level2">
+<h2 class="anchored" data-anchor-id="international-conferences.">International conferences.</h2>
 <ol type="1">
 <li><a href="https://www.sbfin.org.br/">Sociedade Brasileira de Finanças (SBFin).</a> Curitiba, Brazil. July 2024. <a href="https://www.utfpr.edu.br/">Universidade Tecnológica Federal do Paraná (UTFPR).</a> <em>The Efficiency vs.&nbsp;Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.</em></li>
 <li>SBFin-Constância Investimentos Award for the Best Paper in Quantitative Finance 2024. July 2024. <a href="https://www.utfpr.edu.br/">Universidade Tecnológica Federal do Paraná (UTFPR).</a> Sociedade Brasileira de Finanças (SBFin). XXIV Encontro Brasileiro de Finanças. <em>The Efficiency vs.&nbsp;Pricing Accuracy Trade-Off in GMM Estimation of Multifactor Linear Asset Pricing Models.</em></li>
@@ -451,8 +328,8 @@ window.Quarto = {
 <li><a href="https://aefin.es/finance-forum/">XV Spanish Association of Finance Forum.</a> Palma de Mallorca, Spain. November 2007. <a href="https://www.uib.cat/">Universitat de les Illes Balears.</a> <em>Evaluating alternative methods for testing asset pricing models with historical data.</em></li>
 </ol>
 </section>
-<section id="research-seminars." class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="research-seminars."><span class="header-section-number">3.2</span> <svg aria-hidden="true" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M192 96a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm-8 384V352h16V480c0 17.7 14.3 32 32 32s32-14.3 32-32V192h56 64 16c17.7 0 32-14.3 32-32s-14.3-32-32-32H384V64H576V256H384V224H320v48c0 26.5 21.5 48 48 48H592c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48H368c-26.5 0-48 21.5-48 48v80H243.1 177.1c-33.7 0-64.9 17.7-82.3 46.6l-58.3 97c-9.1 15.1-4.2 34.8 10.9 43.9s34.8 4.2 43.9-10.9L120 256.9V480c0 17.7 14.3 32 32 32s32-14.3 32-32z"></path></svg> Research seminars.</h2>
+<section id="research-seminars." class="level2">
+<h2 class="anchored" data-anchor-id="research-seminars.">Research seminars.</h2>
 <ol type="1">
 <li><a href="https://www.liverpool.ac.uk/">University of Liverpool.</a> Management School Seminar Series. United Kingdom. November 2019. <em>Multifactor empirical asset pricing under higher-order moment variations.</em></li>
 <li><a href="https://www.ucd.ie/">University College Dublin.</a> Seminar Series. Ireland. December 2019. <em>Multifactor empirical asset pricing under higher-order moment variations.</em></li>
@@ -472,10 +349,10 @@ window.Quarto = {
 </ol>
 </section>
 </section>
-<section id="education." class="level1" data-number="4">
-<h1 data-number="4"><span class="header-section-number">4</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M243.4 2.6l-224 96c-14 6-21.8 21-18.7 35.8S16.8 160 32 160v8c0 13.3 10.7 24 24 24H456c13.3 0 24-10.7 24-24v-8c15.2 0 28.3-10.7 31.3-25.6s-4.8-29.9-18.7-35.8l-224-96c-8-3.4-17.2-3.4-25.2 0zM128 224H64V420.3c-.6 .3-1.2 .7-1.8 1.1l-48 32c-11.7 7.8-17 22.4-12.9 35.9S17.9 512 32 512H480c14.1 0 26.5-9.2 30.6-22.7s-1.1-28.1-12.9-35.9l-48-32c-.6-.4-1.2-.7-1.8-1.1V224H384V416H344V224H280V416H232V224H168V416H128V224zM256 64a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path></svg> Education.</h1>
-<section id="phd." class="level2" data-number="4.1">
-<h2 data-number="4.1" class="anchored" data-anchor-id="phd."><span class="header-section-number">4.1</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M362.7 19.3L314.3 67.7 444.3 197.7l48.4-48.4c25-25 25-65.5 0-90.5L453.3 19.3c-25-25-65.5-25-90.5 0zm-71 71L58.6 323.5c-10.4 10.4-18 23.3-22.2 37.4L1 481.2C-1.5 489.7 .8 498.8 7 505s15.3 8.5 23.7 6.1l120.3-35.4c14.1-4.2 27-11.8 37.4-22.2L421.7 220.3 291.7 90.3z"></path></svg> PhD.</h2>
+<section id="education." class="level1">
+<h1>Education.</h1>
+<section id="phd." class="level2">
+<h2 class="anchored" data-anchor-id="phd.">PhD.</h2>
 <ol type="1">
 <li><strong>Post-Doc in Finance.</strong> 2010 – 2012. <a href="https://www.alliancembs.manchester.ac.uk/">Alliance Manchester Business School.</a> <a href="https://www.alliancembs.manchester.ac.uk/research/accounting-and-finance/centre-for-the-analysis-of-investment-risk/">Centre for the Analysis of Investment Risk.</a> United Kingdom.</li>
 <li><strong>PhD in Quantitative Finance.</strong> 2005 – 2010. Inter-university programme including: <a href="https://www.ehu.eus/en/en-home">University of the Basque Country,</a> <a href="https://www.uv.es/">Universidad de Valencia,</a> <a href="https://www.ucm.es/">Universidad Complutense de Madrid,</a> <a href="https://www.uc3m.es/inicio">Universidad Carlos III de Madrid</a>. Spain. <em>Supervisor: Prof.&nbsp;Gonzalo Rubio (Universidad CEU Cardenal Herrera). Internal: Prof.&nbsp;Alfonso Novales (Universidad Complutense de Madrid). PhD committee members: Dr.&nbsp;María Victoria Esteban (Universidad del País Vasco); Prof.&nbsp;Ángel Pardo (Universidad de Valencia); Dr.&nbsp;Rosa Rodríguez (Universidad Carlos III de Madrid); External: Dr.&nbsp;Iñaki Rodríguez (University of Tromsø).</em></li>
@@ -485,8 +362,8 @@ window.Quarto = {
 <em>Supported by the Sixth European Community Framework Programme.</em></li>
 </ol>
 </section>
-<section id="post-graduate." class="level2" data-number="4.2">
-<h2 data-number="4.2" class="anchored" data-anchor-id="post-graduate."><span class="header-section-number">4.2</span> <svg aria-hidden="true" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M320 32c-8.1 0-16.1 1.4-23.7 4.1L15.8 137.4C6.3 140.9 0 149.9 0 160s6.3 19.1 15.8 22.6l57.9 20.9C57.3 229.3 48 259.8 48 291.9v28.1c0 28.4-10.8 57.7-22.3 80.8c-6.5 13-13.9 25.8-22.5 37.6C0 442.7-.9 448.3 .9 453.4s6 8.9 11.2 10.2l64 16c4.2 1.1 8.7 .3 12.4-2s6.3-6.1 7.1-10.4c8.6-42.8 4.3-81.2-2.1-108.7C90.3 344.3 86 329.8 80 316.5V291.9c0-30.2 10.2-58.7 27.9-81.5c12.9-15.5 29.6-28 49.2-35.7l157-61.7c8.2-3.2 17.5 .8 20.7 9s-.8 17.5-9 20.7l-157 61.7c-12.4 4.9-23.3 12.4-32.2 21.6l159.6 57.6c7.6 2.7 15.6 4.1 23.7 4.1s16.1-1.4 23.7-4.1L624.2 182.6c9.5-3.4 15.8-12.5 15.8-22.6s-6.3-19.1-15.8-22.6L343.7 36.1C336.1 33.4 328.1 32 320 32zM128 408c0 35.3 86 72 192 72s192-36.7 192-72L496.7 262.6 354.5 314c-11.1 4-22.8 6-34.5 6s-23.5-2-34.5-6L143.3 262.6 128 408z"></path></svg> Post-graduate.</h2>
+<section id="post-graduate." class="level2">
+<h2 class="anchored" data-anchor-id="post-graduate.">Post-graduate.</h2>
 <ol type="1">
 <li>Master Degree in Statistical Learning and Data Mining. 2019. <a href="https://www.uned.es/universidad/inicio.html">Universidad Nacional de Educación a Distancia (UNED).</a> Spain.</li>
 <li>Diploma University Expert in Statistical Learning and Data Mining. 2019. <a href="https://www.uned.es/universidad/inicio.html">UNED.</a> Spain.</li>
@@ -498,8 +375,8 @@ window.Quarto = {
 <li>BS Economics. 1993 – 1997. <a href="https://tec.mx/es">Tecnológico de Monterrey,</a> Campus Monterrey. México.</li>
 </ol>
 </section>
-<section id="professional-training." class="level2" data-number="4.3">
-<h2 data-number="4.3" class="anchored" data-anchor-id="professional-training."><span class="header-section-number">4.3</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M156.6 384.9L125.7 354c-8.5-8.5-11.5-20.8-7.7-32.2c3-8.9 7-20.5 11.8-33.8L24 288c-8.6 0-16.6-4.6-20.9-12.1s-4.2-16.7 .2-24.1l52.5-88.5c13-21.9 36.5-35.3 61.9-35.3l82.3 0c2.4-4 4.8-7.7 7.2-11.3C289.1-4.1 411.1-8.1 483.9 5.3c11.6 2.1 20.6 11.2 22.8 22.8c13.4 72.9 9.3 194.8-111.4 276.7c-3.5 2.4-7.3 4.8-11.3 7.2v82.3c0 25.4-13.4 49-35.3 61.9l-88.5 52.5c-7.4 4.4-16.6 4.5-24.1 .2s-12.1-12.2-12.1-20.9V380.8c-14.1 4.9-26.4 8.9-35.7 11.9c-11.2 3.6-23.4 .5-31.8-7.8zM384 168a40 40 0 1 0 0-80 40 40 0 1 0 0 80z"></path></svg> Professional training.</h2>
+<section id="professional-training." class="level2">
+<h2 class="anchored" data-anchor-id="professional-training.">Professional training.</h2>
 <ol type="1">
 <li>Training on the <a href="https://eter-project.com/about/">European tertiary education (ETER).</a> 2022. European Tertiary Education Register. <a href="https://www.usi.ch/it">Università della Svizzera italiana.</a></li>
 <li>Evaluación de políticas y programas públicos. 2022. <a href="https://www.gob.mx/shcp">Secretaría de Hacienda y Crédito Público SHCP.</a> México.</li>
@@ -526,22 +403,22 @@ window.Quarto = {
 <li>Diploma in economic and financial analysis. 1998. <a href="https://www.amib.com.mx/">Asociación Mexicana de Intermediarios Bursátiles, A.C. México.</a></li>
 </ol>
 </section>
-<section id="certifications-in-r." class="level2" data-number="4.4">
-<h2 data-number="4.4" class="anchored" data-anchor-id="certifications-in-r."><span class="header-section-number">4.4</span> <svg aria-hidden="true" role="img" viewbox="0 0 581 512" style="height:1em;width:1.13em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M581 226.6C581 119.1 450.9 32 290.5 32S0 119.1 0 226.6C0 322.4 103.3 402 239.4 418.1V480h99.1v-61.5c24.3-2.7 47.6-7.4 69.4-13.9L448 480h112l-67.4-113.7c54.5-35.4 88.4-84.9 88.4-139.7zm-466.8 14.5c0-73.5 98.9-133 220.8-133s211.9 40.7 211.9 133c0 50.1-26.5 85-70.3 106.4-2.4-1.6-4.7-2.9-6.4-3.7-10.2-5.2-27.8-10.5-27.8-10.5s86.6-6.4 86.6-92.7-90.6-87.9-90.6-87.9h-199V361c-74.1-21.5-125.2-67.1-125.2-119.9zm225.1 38.3v-55.6c57.8 0 87.8-6.8 87.8 27.3 0 36.5-38.2 28.3-87.8 28.3zm-.9 72.5H365c10.8 0 18.9 11.7 24 19.2-16.1 1.9-33 2.8-50.6 2.9v-22.1z"></path></svg> Certifications in R.</h2>
+<section id="certifications-in-r." class="level2">
+<h2 class="anchored" data-anchor-id="certifications-in-r.">Certifications in R.</h2>
 <p><strong>DataCamp courses (42).</strong> Introduction to R; Introduction to Importing Data in R; Introduction to R for Finance; Introduction to Writing Functions in R; Importing and Managing Financial Data in R; Intermediate R for Finance; Data Science for Everyone; Foundations of Probability in R; Time Series Analysis in R; Introduction to the Tidyverse; Credit Risk Modeling in R; Manipulating Time Series Data with and in R; Intermediate R; Data Manipulation with ; Joining Data with ; Introduction to Data Visualization with ; Intermediate Data Visualization with ; Intermediate Importing Data in R; Data Cleaning in R; Working with Data in the Tidyverse; Working with Dates and Times in R; Exploratory Data Analysis in R; Case Study Exploratory Data Analysis in R; Correlation and Regression in R; Supervised Learning in R Classification; Supervised Learning in R: Regression; Unsupervised Learning in R; Cluster Analysis in R; Machine Learning with in R; Data Engineering for Everyone; ARIMA Models in R; Forecasting in R; Visualizing Time Series Data in R; Case Studies: Manipulating Time Series Data in R; Introduction to Portfolio Analysis in R; Intermediate Portfolio Analysis in R; Bond Valuation and Analysis in R; Quantitative Risk Management in R; Financial Trading in R; Equity Valuation in R; Life Insurance Products Valuation in R; GARCH Models in R.</p>
 <p><strong>DataCamp skill tracks (6).</strong> Importing &amp; Cleaning Data with R (4 courses); Finance Basics with R (4 courses); Machine Learning Fundamentals in R (4 courses); Time Series with R (6 courses); Finance Fundamentals in R (6 courses); Applied Finance in R (7 courses).</p>
 <p><strong>DataCamp career tracks (2).</strong> Data Scientist with R (19 courses); Quantitative Analyst with R (15 courses).</p>
 </section>
 </section>
-<section id="service-to-the-academia." class="level1" data-number="5">
-<h1 data-number="5"><span class="header-section-number">5</span> <i class="far fa-pen-to-square fas" role="presentation" aria-label="pen-to-square icon" title="Solid pen-to-square"></i> Service to the academia.</h1>
+<section id="service-to-the-academia." class="level1">
+<h1>Service to the academia.</h1>
 <p><strong>Reviewer.</strong> Quarterly Review of Economics and Finance (since 2011); Journal of Banking and Finance (since 2010); Journal of Open Research Software (since 2025).</p>
 <p><strong>Editor.</strong> Associate Editor Journal of Accounting, Finance and Economics (since 2014); Munich Paper of RePEc Archive MPRA (2010, 2011); Advances in Management (2011).</p>
 <p><strong>Scientific and academic committees.</strong> Juez en el Torneo Nacional de Debates 2024, IMEF Universitario, México. External evaluator for Agencia Nacional de Investigación y Desarrollo (ANID) del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación de Chile (2021). Examiner for MScs and PG Diplomas in Financial and Management Studies University of London International Programmes (2012, 2015, 2016). Examination panel of biannual Finance PhD reviews Manchester Business School (06/2011 and 06/2012). Eastern Finance Association (2009, 2010 and 2012); Midwest Finance Association (2009 and 2010); Southwestern Finance Association (Annual Meetings: 48th and 49th).</p>
 <p><strong>Trainer / Workshop leader.</strong> Eleven courses on R and Python programming for business (2016 - 2024), organized by student organizations. Eight workshops on research seminars for undergraduate students (2016 - 2024), organized by student organizations. Bases de la inversión y finanzas saludables (2024), IMEF Universitario.</p>
 </section>
-<section id="awards-honors." class="level1" data-number="6">
-<h1 data-number="6"><span class="header-section-number">6</span> <svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M173.8 5.5c11-7.3 25.4-7.3 36.4 0L228 17.2c6 3.9 13 5.8 20.1 5.4l21.3-1.3c13.2-.8 25.6 6.4 31.5 18.2l9.6 19.1c3.2 6.4 8.4 11.5 14.7 14.7L344.5 83c11.8 5.9 19 18.3 18.2 31.5l-1.3 21.3c-.4 7.1 1.5 14.2 5.4 20.1l11.8 17.8c7.3 11 7.3 25.4 0 36.4L366.8 228c-3.9 6-5.8 13-5.4 20.1l1.3 21.3c.8 13.2-6.4 25.6-18.2 31.5l-19.1 9.6c-6.4 3.2-11.5 8.4-14.7 14.7L301 344.5c-5.9 11.8-18.3 19-31.5 18.2l-21.3-1.3c-7.1-.4-14.2 1.5-20.1 5.4l-17.8 11.8c-11 7.3-25.4 7.3-36.4 0L156 366.8c-6-3.9-13-5.8-20.1-5.4l-21.3 1.3c-13.2 .8-25.6-6.4-31.5-18.2l-9.6-19.1c-3.2-6.4-8.4-11.5-14.7-14.7L39.5 301c-11.8-5.9-19-18.3-18.2-31.5l1.3-21.3c.4-7.1-1.5-14.2-5.4-20.1L5.5 210.2c-7.3-11-7.3-25.4 0-36.4L17.2 156c3.9-6 5.8-13 5.4-20.1l-1.3-21.3c-.8-13.2 6.4-25.6 18.2-31.5l19.1-9.6C65 70.2 70.2 65 73.4 58.6L83 39.5c5.9-11.8 18.3-19 31.5-18.2l21.3 1.3c7.1 .4 14.2-1.5 20.1-5.4L173.8 5.5zM272 192a80 80 0 1 0 -160 0 80 80 0 1 0 160 0zM1.3 441.8L44.4 339.3c.2 .1 .3 .2 .4 .4l9.6 19.1c11.7 23.2 36 37.3 62 35.8l21.3-1.3c.2 0 .5 0 .7 .2l17.8 11.8c5.1 3.3 10.5 5.9 16.1 7.7l-37.6 89.3c-2.3 5.5-7.4 9.2-13.3 9.7s-11.6-2.2-14.8-7.2L74.4 455.5l-56.1 8.3c-5.7 .8-11.4-1.5-15-6s-4.3-10.7-2.1-16zm248 60.4L211.7 413c5.6-1.8 11-4.3 16.1-7.7l17.8-11.8c.2-.1 .4-.2 .7-.2l21.3 1.3c26 1.5 50.3-12.6 62-35.8l9.6-19.1c.1-.2 .2-.3 .4-.4l43.2 102.5c2.2 5.3 1.4 11.4-2.1 16s-9.3 6.9-15 6l-56.1-8.3-32.2 49.2c-3.2 5-8.9 7.7-14.8 7.2s-11-4.3-13.3-9.7z"></path></svg> Awards &amp; honors.</h1>
+<section id="awards-honors." class="level1">
+<h1>Awards &amp; honors.</h1>
 <ol type="1">
 <li>Guest lecturer at <a href="https://ue.poznan.pl/en/university/">Poznań University of Economics and Business</a> supported by The Erasmus+ KA171 International Credit Mobility (ICM) program. Poland. May 2025.</li>
 <li><a href="https://www.udem.edu.mx/es">UDEM.</a> Secretary of the academia of finance. 2024 – current.</li>
@@ -563,8 +440,8 @@ window.Quarto = {
 <li><a href="https://egade.tec.mx/es/home">EGADE Business School</a> MSc fellowship. México. 2000 – 2002.</li>
 </ol>
 </section>
-<section id="design-course-assessment-material." class="level1" data-number="7">
-<h1 data-number="7"><span class="header-section-number">7</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M512 256c0 .9 0 1.8 0 2.7c-.4 36.5-33.6 61.3-70.1 61.3H344c-26.5 0-48 21.5-48 48c0 3.4 .4 6.7 1 9.9c2.1 10.2 6.5 20 10.8 29.9c6.1 13.8 12.1 27.5 12.1 42c0 31.8-21.6 60.7-53.4 62c-3.5 .1-7 .2-10.6 .2C114.6 512 0 397.4 0 256S114.6 0 256 0S512 114.6 512 256zM128 288a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm0-96a32 32 0 1 0 0-64 32 32 0 1 0 0 64zM288 96a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zm96 96a32 32 0 1 0 0-64 32 32 0 1 0 0 64z"></path></svg> Design course assessment material.</h1>
+<section id="design-course-assessment-material." class="level1">
+<h1>Design course assessment material.</h1>
 <p><a href="https://www.soas.ac.uk/">University of London, School of Oriental and African Studies (SOAS).</a> MSc in Quantitative Finance and MSc in Economic Policy. 2015 – 2026.</p>
 <ol type="1">
 <li>Bank Regulation and Resolution of Banking Crisis (2026).</li>
@@ -574,10 +451,10 @@ window.Quarto = {
 <li>Banking and Capital Markets (2019 – 2021).</li>
 </ol>
 </section>
-<section id="teaching." class="level1" data-number="8">
-<h1 data-number="8"><span class="header-section-number">8</span> <svg aria-hidden="true" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M192 96a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm-8 384V352h16V480c0 17.7 14.3 32 32 32s32-14.3 32-32V192h56 64 16c17.7 0 32-14.3 32-32s-14.3-32-32-32H384V64H576V256H384V224H320v48c0 26.5 21.5 48 48 48H592c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48H368c-26.5 0-48 21.5-48 48v80H243.1 177.1c-33.7 0-64.9 17.7-82.3 46.6l-58.3 97c-9.1 15.1-4.2 34.8 10.9 43.9s34.8 4.2 43.9-10.9L120 256.9V480c0 17.7 14.3 32 32 32s32-14.3 32-32z"></path></svg> Teaching.</h1>
-<section id="teaching-postgraduate." class="level2" data-number="8.1">
-<h2 data-number="8.1" class="anchored" data-anchor-id="teaching-postgraduate."><span class="header-section-number">8.1</span> Teaching: Postgraduate.</h2>
+<section id="teaching." class="level1">
+<h1>Teaching.</h1>
+<section id="teaching-postgraduate." class="level2">
+<h2 class="anchored" data-anchor-id="teaching-postgraduate.">Teaching: Postgraduate.</h2>
 <p><a href="https://ue.poznan.pl/en/university/">Poznań University of Economics and Business</a> supported by The Erasmus+ KA171 International Credit Mobility (ICM) program. Poland. May 2025. <strong>Courses taught:</strong> Financial Econometrics (master’s program); Financial Economics (PhD).</p>
 <p><a href="https://www.soas.ac.uk/">SOAS University of London.</a> <a href="https://www.soas.ac.uk/about-soas/colleges-schools-and-departments/school-finance-and-management">School of Finance and Management.</a> United Kingdom. 2012 – current. <strong>Courses taught:</strong> Bank Regulation and Resolution of Banking Crisis (2026), Macroeconomic Policy and Financial Markets (2026), Research Methods (2026); Portfolio and Fund Management (2025); Bank Financial Management (2025); Finance and Risk Management in the Global Economy (summer school 2020, as director of financial modeling with R); Banking &amp; Capital Markets (2016, 2018, 2019, 2021); Econometric Analysis &amp; Applications (2016 – 2019, 2021, 2022); Risk Management: Principles &amp; Applications (2012, 2014 – 2017, 2019, 2022); Econometric Principles &amp; Data Analysis (2012 – 2015, 2017, 2019, 2023); Derivatives (2015 – 2016); Risk Management in the Global Economy – MOOC FutureLearn platform (2016); Independent Study Project (2019, 2021); Financial Econometrics (2019, 2021 – 2023); Financial Engineering (2021, 2022).</p>
 <p><a href="https://www.alliancembs.manchester.ac.uk/">Alliance Manchester Business School.</a> United Kingdom. 2010 – current. <strong>Courses taught:</strong> Individual Projects 2010 – 2011 and 2014–2015. Research Methods 2011 – 2012. Group Project 2013 – 2014. Global MBA Project 2014–2015 and 2015–2016. Live Business Project 2018 GMBA. MSc Financial Management programme 2023, 2024, 2025.</p>
@@ -586,8 +463,8 @@ window.Quarto = {
 <p><a href="https://www.alliancembs.manchester.ac.uk/">Alliance Manchester Business School,</a> Finance PhD. United Kingdom. 2011 – 2012. <strong>Courses taught:</strong> Three sessions of Advanced Finance Research Seminar I.</p>
 <p><a href="https://tec.mx/es">Tecnológico de Monterrey.</a> México. 2005 – 2010. <strong>Courses taught:</strong> Fundamentals of Managerial Finance (2008); Managerial Economics (2009); Economics for Decision Taking (2010); Economic Environment (2009); Economics of the Firm (2005).</p>
 </section>
-<section id="teaching-undergraduate." class="level2" data-number="8.2">
-<h2 data-number="8.2" class="anchored" data-anchor-id="teaching-undergraduate."><span class="header-section-number">8.2</span> Teaching: Undergraduate.</h2>
+<section id="teaching-undergraduate." class="level2">
+<h2 class="anchored" data-anchor-id="teaching-undergraduate.">Teaching: Undergraduate.</h2>
 <p><a href="https://ue.poznan.pl/en/university/">Poznań University of Economics and Business</a> supported by The Erasmus+ KA171 International Credit Mobility (ICM) program. Poland. May 2025. <strong>Courses taught:</strong> Portfolio Management (undergraduate program).</p>
 <p><a href="https://www.udem.edu.mx/en">Universidad de Monterrey UDEM</a>. (With applications in R and Python). México. 2015 – current. <strong>Courses taught:</strong> Topics in Finance (2015 – 2019); Econometrics for Financial Markets (2016 – 2026); COIL course joint with Universidad Pontificia Bolivariana (2023); COIL course joint with Universidad Católica Luis Amigó (2024); COIL course joint with HWR Berlin and Florida University (2025); Financial Engineering (2016 – 2023); Financial Project Evaluation (2015, 2022); Financial Structure and Cost of Capital (2015, 2017); Financial Risk Management (2015 – 2026); Quantitative Foundations in Finance (2023 – 2026); Research Methods for Business (2024 – 2026).</p>
 <p><a href="https://www.upn.edu.pe/">Universidad Privada del Norte.</a> Perú. 2021. <strong>Courses taught:</strong> Microeconomía para administradores.</p>
@@ -595,22 +472,22 @@ window.Quarto = {
 <p><a href="https://www.socialsciences.manchester.ac.uk/economics/">The University of Manchester. Economics Department.</a> United Kingdom. 2011 – 2012. <strong>Courses taught:</strong> Business Economics I; Business Economics II.</p>
 <p><a href="https://www.uanl.mx/">Universidad Autónoma de Nuevo León.</a> México. 2001. <strong>Courses taught:</strong> Economic Development.</p>
 </section>
-<section id="teaching-executive-training." class="level2" data-number="8.3">
-<h2 data-number="8.3" class="anchored" data-anchor-id="teaching-executive-training."><span class="header-section-number">8.3</span> Teaching: Executive training.</h2>
+<section id="teaching-executive-training." class="level2">
+<h2 class="anchored" data-anchor-id="teaching-executive-training.">Teaching: Executive training.</h2>
 <p><strong>Courses taught:</strong> Finance for non-financiers (online and face-to-face formats 2012 – 2017, 2019); Mexican fiscal reform 2014; entrepreneurial seminar 2014; corporate training in finance for enterprises such as <a href="https://www.kimberly-clark.com.mx/">Kimberly-Clark</a> (2013), <a href="https://www.stoneridge.com/">Stoneridge</a> (2013), <a href="https://www.magna.com/es">Magna</a> (2014, 2017), <a href="https://coparmex.org.mx/">COPARMEX</a> (2014), <a href="https://www.linamar.com/es/">Linamar</a> (2015, 10 groups), <a href="https://mx.ternium.com/es">Ternium</a> (2021).</p>
 </section>
 </section>
-<section id="supervision." class="level1" data-number="9">
-<h1 data-number="9"><span class="header-section-number">9</span> <i class="far fa-eye fas" role="presentation" aria-label="eye icon" title="Solid Eye"></i> Supervision.</h1>
-<section id="supervision-phd." class="level2" data-number="9.1">
-<h2 data-number="9.1" class="anchored" data-anchor-id="supervision-phd."><span class="header-section-number">9.1</span> Supervision: PhD.</h2>
+<section id="supervision." class="level1">
+<h1>Supervision.</h1>
+<section id="supervision-phd." class="level2">
+<h2 class="anchored" data-anchor-id="supervision-phd.">Supervision: PhD.</h2>
 <p><a href="https://www.manchester.ac.uk/">The University of Manchester.</a> PhD Finance. 2010 – 2012.</p>
 <ol type="1">
 <li><em>An economic evaluation of linear SDF models: An out-of-sample assessment.</em> Erwin Hansen (currently professor at the University of Chile). Co-supervision.</li>
 </ol>
 </section>
-<section id="supervision-msc-39-projects." class="level2" data-number="9.2">
-<h2 data-number="9.2" class="anchored" data-anchor-id="supervision-msc-39-projects."><span class="header-section-number">9.2</span> Supervision: MSc (39 projects).</h2>
+<section id="supervision-msc-39-projects." class="level2">
+<h2 class="anchored" data-anchor-id="supervision-msc-39-projects.">Supervision: MSc (39 projects).</h2>
 <p><a href="https://www.lsbf.org.uk/">London School of Business &amp; Finance.</a> MSc Finance &amp; Risk Management. 2012.</p>
 <ol type="1">
 <li><em>Asset pricing anomalies and stock return predictability: How relevant are they for the Swiss Stock market?</em> Julian Mittmann. Co-supervision. 2012.</li>
@@ -666,8 +543,8 @@ window.Quarto = {
 <li><em>Evolución temporal de la frontera media-varianza y su relación con la economía real.</em> Ana María Rivera Serrano. 2012.</li>
 </ol>
 </section>
-<section id="supervision-mba-18-projects." class="level2" data-number="9.3">
-<h2 data-number="9.3" class="anchored" data-anchor-id="supervision-mba-18-projects."><span class="header-section-number">9.3</span> Supervision: MBA (18 projects).</h2>
+<section id="supervision-mba-18-projects." class="level2">
+<h2 class="anchored" data-anchor-id="supervision-mba-18-projects.">Supervision: MBA (18 projects).</h2>
 <p><a href="https://www.manchester.ac.uk/">The University of Manchester.</a> Full-Time MBA. 2012.</p>
 <ol type="1">
 <li><em>Not for profit MBA project: Sustainability of SafeBase (After Adoption).</em> Jorge Alvarez, Adriana Castellares, Kelly Higgins, Niyati Jhalaria, Siamnat Panassorn.</li>
@@ -696,8 +573,8 @@ window.Quarto = {
 <li><em>Proyecto de consultoría de gestión relacionada a la vinculación estratégica entre mercadotecnia y ventas en la organización Empresa Mexicana de Manufacturas S.A. de C.V. (EMMSA).</em> Cesar Alejandro González Galarza, Mónica Rayos Hernández, Jorge Antonio Cisneros de Arce, Jorge Alberto Salazar Barreda. 2023</li>
 </ol>
 </section>
-<section id="supervision-undergraduate-52-projects." class="level2" data-number="9.4">
-<h2 data-number="9.4" class="anchored" data-anchor-id="supervision-undergraduate-52-projects."><span class="header-section-number">9.4</span> Supervision: Undergraduate (52 projects).</h2>
+<section id="supervision-undergraduate-52-projects." class="level2">
+<h2 class="anchored" data-anchor-id="supervision-undergraduate-52-projects.">Supervision: Undergraduate (52 projects).</h2>
 <p><a href="https://www.udem.edu.mx/en">Universidad de Monterrey UDEM.</a> Finance, accounting, business and economics degrees. 2015 – current.</p>
 <ol type="1">
 <li>Elías Daniel Cantú De la Torre, Kenya Paola Flores Gálvez, Emilio Pirez Perez. 2026.</li>
@@ -755,29 +632,11 @@ window.Quarto = {
 </ol>
 </section>
 </section>
-<section id="free-time." class="level1" data-number="10">
-<h1 data-number="10"><span class="header-section-number">10</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M499.1 6.3c8.1 6 12.9 15.6 12.9 25.7v72V368c0 44.2-43 80-96 80s-96-35.8-96-80s43-80 96-80c11.2 0 22 1.6 32 4.6V147L192 223.8V432c0 44.2-43 80-96 80s-96-35.8-96-80s43-80 96-80c11.2 0 22 1.6 32 4.6V200 128c0-14.1 9.3-26.6 22.8-30.7l320-96c9.7-2.9 20.2-1.1 28.3 5z"></path></svg> Free time.</h1>
+<section id="free-time." class="level1">
+<h1>Free time.</h1>
 <p>I love art as the expression of human creativity and imagination. I spend some free time playing my Yamaha digital piano. I used to be an active keyboardist, piano player, and orchestra director. Most of my experience in this field has been as a musician at live concerts in Mexico and Europe, piano solo concerts, and musicals organized by the Tecnológico de Monterrey for about a decade.</p>
 <p>My top painters: Diego Rodríguez de Silva y Velázquez, Francisco José de Goya y Lucientes, Salvador Dalí, Pablo Picasso, Rufino Tamayo, Rembrandt van Rijn, among others.</p>
 <p>My top musicians: Chick Corea, Wynton Marsalis, Paco de Lucía, Dave Brubeck, George Gershwin, Leonard Bernstein, Andreas Vollenweider, George Winston, Suzanne Ciani, Liz Story, among others.</p>
-<!-- ```{r data science, child = 'Data Science.Rmd'} -->
-<!-- ``` -->
-<!-- ```{r resources and activities, child = 'Learning resources and activities.Rmd'} -->
-<!-- ``` -->
-<!-- ```{r evaluation, child = 'Evaluation.Rmd'} -->
-<!-- ``` -->
-<!-- ```{r check, child = 'Checklist.Rmd'} -->
-<!-- ``` -->
-<!-- ```{r schedule, child = 'Class schedule ot24.Rmd'} -->
-<!-- ``` -->
-<!-- ```{r schedule, child = 'lecturas.Rmd'} -->
-<!-- ``` -->
-<!-- ```{r resources, child = 'Internet resources.Rmd'} -->
-<!-- ``` -->
-<p>This document took 0.62 seconds to compile in Quarto version 1.5.54, and R version 4.5.2 (2025-10-31 ucrt).</p>
-<!-- # `<svg aria-hidden="true" role="img" viewBox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M249.6 471.5c10.8 3.8 22.4-4.1 22.4-15.5V78.6c0-4.2-1.6-8.4-5-11C247.4 52 202.4 32 144 32C93.5 32 46.3 45.3 18.1 56.1C6.8 60.5 0 71.7 0 83.8V454.1c0 11.9 12.8 20.2 24.1 16.5C55.6 460.1 105.5 448 144 448c33.9 0 79 14 105.6 23.5zm76.8 0C353 462 398.1 448 432 448c38.5 0 88.4 12.1 119.9 22.6c11.3 3.8 24.1-4.6 24.1-16.5V83.8c0-12.1-6.8-23.3-18.1-27.6C529.7 45.3 482.5 32 432 32c-58.4 0-103.4 20-123 35.6c-3.3 2.6-5 6.8-5 11V456c0 11.4 11.7 19.3 22.4 15.5z"/></svg>`{=html} References. {.unnumbered} -->
-<!-- ::: {#refs} -->
-<!-- ::: -->
 </section>
 
 </main>
@@ -798,6 +657,54 @@ window.Quarto = {
 
   gtag('config', 'G-WDMM7FH736');
 
+</script>
+<div id="progress-bar" aria-hidden="true"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var bar = document.getElementById("progress-bar");
+  var documentBody = document.getElementById("quarto-content");
+  var html = document.documentElement;
+  if (!bar || !documentBody) return;
+
+  function updateProgress() {
+    var height = documentBody.scrollHeight + documentBody.offsetTop;
+    var scrollable = height - html.clientHeight;
+    var percentage = scrollable > 0 ? (html.scrollTop / scrollable) * 100 : 0;
+    bar.style.width = Math.min(100, Math.max(0, percentage)) + "%";
+  }
+
+  updateProgress();
+  window.addEventListener("scroll", updateProgress, { passive: true });
+  window.addEventListener("resize", updateProgress);
+});
+</script>
+<button type="button" id="btn-back-to-top" aria-label="Back to top" title="Back to top">
+  <svg viewbox="0 0 24 24" aria-hidden="true" focusable="false">
+    <path d="M12 19V5"></path>
+    <path d="m5 12 7-7 7 7"></path>
+  </svg>
+</button>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var button = document.getElementById("btn-back-to-top");
+  if (!button) return;
+
+  function updateVisibility() {
+    button.classList.toggle("is-visible", window.scrollY > 480);
+  }
+
+  button.addEventListener("click", function () {
+    if (window.location.hash && window.history && window.history.replaceState) {
+      window.history.replaceState(null, "", window.location.pathname + window.location.search);
+    }
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+
+  updateVisibility();
+  window.addEventListener("scroll", updateVisibility, { passive: true });
+});
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -1033,57 +940,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     });
     clipboardModal.on('success', onCopySuccess);
   }
-  const viewSource = window.document.getElementById('quarto-view-source') ||
-                     window.document.getElementById('quarto-code-tools-source');
-  if (viewSource) {
-    const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
-    viewSource.addEventListener("click", function(e) {
-      if (sourceUrl) {
-        // rstudio viewer pane
-        if (/\bcapabilities=\b/.test(window.location)) {
-          window.open(sourceUrl);
-        } else {
-          window.location.href = sourceUrl;
-        }
-      } else {
-        const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
-        modal.show();
-      }
-      return false;
-    });
-  }
-  function toggleCodeHandler(show) {
-    return function(e) {
-      const detailsSrc = window.document.querySelectorAll(".cell > details > .sourceCode");
-      for (let i=0; i<detailsSrc.length; i++) {
-        const details = detailsSrc[i].parentElement;
-        if (show) {
-          details.open = true;
-        } else {
-          details.removeAttribute("open");
-        }
-      }
-      const cellCodeDivs = window.document.querySelectorAll(".cell > .sourceCode");
-      const fromCls = show ? "hidden" : "unhidden";
-      const toCls = show ? "unhidden" : "hidden";
-      for (let i=0; i<cellCodeDivs.length; i++) {
-        const codeDiv = cellCodeDivs[i];
-        if (codeDiv.classList.contains(fromCls)) {
-          codeDiv.classList.remove(fromCls);
-          codeDiv.classList.add(toCls);
-        } 
-      }
-      return false;
-    }
-  }
-  const hideAllCode = window.document.getElementById("quarto-hide-all-code");
-  if (hideAllCode) {
-    hideAllCode.addEventListener("click", toggleCodeHandler(false));
-  }
-  const showAllCode = window.document.getElementById("quarto-show-all-code");
-  if (showAllCode) {
-    showAllCode.addEventListener("click", toggleCodeHandler(true));
-  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -1100,6 +956,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
