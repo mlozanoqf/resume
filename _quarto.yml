@@ -16,7 +16,6 @@ theme:
 format: 
   html:
     toc: true
-    toc-title: CV sections
     smooth-scroll: true
     anchor-sections: true
     number-sections: false

@@ -405,11 +405,8 @@ section[id^="service-to-the-academia"] > p > strong:first-child {
   padding: 0.8rem 0.7rem;
 }
 
-#TOC > h2 {
-  color: var(--cv-heading);
-  font-family: "Source Serif 4", Georgia, serif;
-  font-size: 1rem;
-  padding: 0 0.55rem;
+#TOC > #toc-title {
+  display: none;
 }
 
 #TOC .nav-link {
