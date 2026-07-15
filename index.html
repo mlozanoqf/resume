@@ -219,7 +219,7 @@ window.Quarto = {
 </header>
 
 <div class="cv-build-meta" aria-label="Document version">
-<p><span>Version <code title="Source hash">d14a60272d9b</code></span> <span>Words <code>6,627</code></span></p>
+<p><span>Version <code title="Source hash">d2274915823f</code></span> <span>Words <code>6,627</code></span></p>
 </div>
 <section id="background." class="level1">
 <h1>Background.</h1>
@@ -717,11 +717,17 @@ document.addEventListener("DOMContentLoaded", function () {
 <script>
 
 document.addEventListener("DOMContentLoaded", function () {
+  function labelColorSchemeToggle() {
+    var colorSchemeToggle = document.querySelector(".quarto-color-scheme-toggle");
+    if (colorSchemeToggle) {
+      colorSchemeToggle.setAttribute("aria-label", "Toggle color scheme");
+      colorSchemeToggle.setAttribute("title", "Toggle color scheme");
+    }
+  }
+  window.setTimeout(labelColorSchemeToggle, 0);
 
   var button = document.getElementById("btn-back-to-top");
-
   if (!button) return;
-
 
 
   function updateVisibility() {

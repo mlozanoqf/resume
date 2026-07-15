@@ -7,6 +7,15 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
+  function labelColorSchemeToggle() {
+    var colorSchemeToggle = document.querySelector(".quarto-color-scheme-toggle");
+    if (colorSchemeToggle) {
+      colorSchemeToggle.setAttribute("aria-label", "Toggle color scheme");
+      colorSchemeToggle.setAttribute("title", "Toggle color scheme");
+    }
+  }
+  window.setTimeout(labelColorSchemeToggle, 0);
+
   var button = document.getElementById("btn-back-to-top");
   if (!button) return;
 
