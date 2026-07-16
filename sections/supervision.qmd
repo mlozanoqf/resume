@@ -8,7 +8,7 @@
 1. *An economic evaluation of linear SDF models: An out-of-sample assessment.* Erwin Hansen (currently professor at the University of Chile). Co-supervision.
 
 
-## Supervision: MSc (39 projects).
+## Supervision: MSc (42 projects).
 [London School of Business & Finance.](https://www.lsbf.org.uk/) MSc Finance & Risk Management. 2012.
 
 1. *Asset pricing anomalies and stock return predictability: How relevant are they for the Swiss Stock market?* Julian Mittmann. Co-supervision. 2012. 
@@ -29,7 +29,10 @@
 
 [Alliance Manchester Business School.](https://www.alliancembs.manchester.ac.uk/) MSc Financial Management. 2023 – current.
 
-13. *CEO gender and S&P 500 performance.* Chang Liu, Tianyi Sun, Natasha Brewer, Yalin He. 2025.
+13. Khalid Almutairi, Omar Bebars, Mohammed Alharbi. 2026.
+1. Sebastian Bitter, Julius Maruschka, Cezary Chodnicki, Mukaddes Zeynep Elvan, Marc Thomas. 2026.
+1. Christian Savvas, Anna Sukha, Georgii Mikaia, Anuoluwapo Orekoya, Faisal Sbinati. 2026.
+1. *CEO gender and S&P 500 performance.* Chang Liu, Tianyi Sun, Natasha Brewer, Yalin He. 2025.
 1. *Resilience of accounting-based portfolios: Crisis performance, characteristic strength and market differences.* Eduardo Alvarado Moreno, Yige Li, Diogo Leite, Ashley Heather. 2025.
 1. *The Impact of Leverage on Firm Performance: An Analysis of Tax Shield Benefits and Financial Distress Risks.* Joel Quaye, Yan Zhang, Pavel Bocharov, Nura Mohamed. 2025.
 1. *The quest for the sixth factor: Using large language models to improve the explanatory power of the Fama-French Five-Factor Model.* Marcus De Vries, Pei Ying Yong, Duncan Burry, Hwee Teo, Teo Lester. 2025.
@@ -41,7 +44,7 @@
 
 [The University of Manchester.](https://www.manchester.ac.uk/) MSc Finance. 2011 – 2012.
 
-22.	*Short-run investment advice and portfolio performance during economic cycles.* Yu Wang. 2012.
+25.	*Short-run investment advice and portfolio performance during economic cycles.* Yu Wang. 2012.
 1. *Empirical evidence of the behaviour of stock volatility with real economic changes – A mean variance frontier perspective.* Linda Anna John. 2012.
 1. *An exploration about risk diversification possibilities in the U.S.* Kush Arora. 2012.
 1. *The role of return predictability in the accuracy of short-run investor advice.* Alexey Dorokhov. 2012.
@@ -54,7 +57,7 @@
 
 [Universidad Complutense de Madrid.](https://www.ucm.es/) MSc in Quantitative Finance and Banking. 2012 – 2017.
 
-32. *Exploration of properties of the implicit stochastic discount factor.* Marc Pallarés García. 2017.
+35. *Exploration of properties of the implicit stochastic discount factor.* Marc Pallarés García. 2017.
 1. *The role of copulas in the characterization of counterparty credit risk.* Norma Angélica Bautista Luna. 2017.
 1. *Mean-variance asset allocation revisited.* David Tarin Bernad. 2017.
 1. *Out-of-sample performance of investment strategies: A dynamic evaluation.* Guzmán Hernández Hernández. 2014.
