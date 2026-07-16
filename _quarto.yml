@@ -27,7 +27,7 @@ format:
       - analytics_resume.html
       - progressbar.html
       - back-to-top.html
-    css: styles.css
+    css: cv-styles.css
 
 link-citations: true
 
