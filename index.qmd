@@ -13,7 +13,7 @@ cv_source_files <- c(
   "sections/teaching.qmd",
   "sections/supervision.qmd",
   "contact.html",
-  "styles.css"
+  "cv-styles.css"
 )
 cv_source_files <- cv_source_files[file.exists(cv_source_files)]
 cv_word_files <- cv_source_files[grepl("\\.qmd$", cv_source_files)]

@@ -160,7 +160,7 @@ hr {
 .cv-contact-grid {
   display: grid;
   gap: 0.65rem 1.35rem;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: max-content max-content;
   margin: 0 0 1.05rem;
 }
 
@@ -182,7 +182,7 @@ hr {
 
 .cv-contact-item > span:last-child {
   min-width: 0;
-  overflow-wrap: anywhere;
+  white-space: nowrap;
 }
 
 .cv-contact-item small {
@@ -204,9 +204,9 @@ hr {
 .cv-social-links {
   display: grid;
   gap: 0.45rem;
-  grid-template-columns: repeat(4, 2.35rem);
-  justify-content: center;
-  margin: 0;
+  grid-template-columns: repeat(8, 2.35rem);
+  justify-content: start;
+  margin: 0 0 1.1rem;
 }
 
 .cv-social-links a {
@@ -259,10 +259,7 @@ body.quarto-dark .cv-social-links a[aria-label*="GitHub"] {
 }
 
 .cv-identity-column {
-  align-self: start;
-  display: grid;
-  gap: 0.85rem;
-  justify-items: center;
+  align-self: center;
   min-width: 0;
 }
 
@@ -518,7 +515,20 @@ section[id^="service-to-the-academia"] > p > strong:first-child {
 @media (min-width: 768px) and (max-width: 1100px) {
   .cv-hero {
     gap: 1.5rem;
-    grid-template-columns: minmax(0, 1fr) 175px;
+    grid-template-columns: minmax(0, 1fr) 145px;
+  }
+
+  .cv-contact-grid {
+    gap: 0.65rem 0.8rem;
+    grid-template-columns: minmax(0, 0.78fr) minmax(0, 1.22fr);
+  }
+
+  .cv-contact-item {
+    font-size: 0.82rem;
+  }
+
+  .cv-contact-item > span:last-child {
+    white-space: normal;
   }
 }
 
@@ -548,7 +558,7 @@ section[id^="service-to-the-academia"] > p > strong:first-child {
 
   .cv-social-links {
     gap: 0.4rem;
-    grid-template-columns: repeat(2, 2.2rem);
+    grid-template-columns: repeat(4, 2.2rem);
   }
 
   .cv-social-links a {
@@ -597,6 +607,7 @@ section[id^="service-to-the-academia"] > p > strong:first-child {
   .cv-social-links {
     gap: 0.38rem;
     grid-template-columns: repeat(4, 2rem);
+    margin-bottom: 1rem;
   }
 
   .cv-social-links a {
