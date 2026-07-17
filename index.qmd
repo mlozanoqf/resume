@@ -55,6 +55,13 @@ count_source_words <- function(paths) {
 cv_hash <- compute_version_hash(cv_source_files)
 cv_hash_short <- substr(cv_hash, 1, 12)
 cv_word_count <- count_source_words(cv_word_files)
+cv_updated_date <- as.Date(Sys.time(), tz = "America/Mexico_City")
+cv_updated_label <- sprintf(
+  "%s %d, %d",
+  month.name[as.integer(format(cv_updated_date, "%m"))],
+  as.integer(format(cv_updated_date, "%d")),
+  as.integer(format(cv_updated_date, "%Y"))
+)
 ```
 
 ```{r global_options, include = FALSE}
@@ -65,7 +72,8 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 {{< include contact.html >}}
 ```
 
-<div class="cv-build-meta" aria-label="Document version">
+<div class="cv-build-meta" aria-label="Document update information">
+  <span>Updated <time datetime="`r format(cv_updated_date, "%Y-%m-%d")`">`r cv_updated_label`</time></span>
   <span>Version <code title="Source hash">`r cv_hash_short`</code></span>
   <span>Words <code>`r format(cv_word_count, big.mark = ",")`</code></span>
 </div>

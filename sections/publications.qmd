@@ -9,6 +9,10 @@
 1. Research assistance for: *Dividend Growth, Cash Flow and Discount Rate News.* Ian Garrett and Richard Priestley. **Journal of Financial and Quantitative Analysis.**  Vol. 47, No. 5, Oct. 2012, pp. 1003–1028. [http://dx.doi.org/10.1017/S0022109012000427](http://dx.doi.org/10.1017/S0022109012000427)
 1. Proceedings: *The efficiency of the SDF and Beta methods at evaluating multi-factor asset-pricing models.* With Stuart Hyde and Ian Garrett. **Southwestern Finance Association 48th Annual Meeting Proceedings.** Oklahoma City, USA. 2009.
 
+## Books.
+
+1. Lozano, Martin. *Applied Credit Risk Modeling with R: A Step-by-Step Guide for Business, Finance, and Risk Analysts.* Forthcoming, CRC Press, Chapman & Hall/CRC Financial Mathematics Series.
+
 
 ## Media.
 
