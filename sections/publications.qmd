@@ -21,14 +21,16 @@
 
 \hspace{1 mm}
 
-## Open access.
+## Open-access publications.
 
-1. *Quantitative finance with R.* 2026. Series of open-access tutorials:
-   - Credit risk. [https://mlozanoqf.github.io/tutorial_arf/](https://mlozanoqf.github.io/tutorial_arf/) *Practical framework for credit risk measurement and modeling in R, from default prediction to portfolio credit risk.*
-   - Forecasting. [https://mlozanoqf.github.io/tutorial_emf/](https://mlozanoqf.github.io/tutorial_emf/) *End-to-end forecasting toolkit in R for economic and financial time series, combining classical and machine-learning approaches.*
-   - Options and VaR. [https://mlozanoqf.github.io/tutorial_if/](https://mlozanoqf.github.io/tutorial_if/) *Integrated introduction to derivatives and market risk in R, linking option valuation with Value-at-Risk analysis.*
-   - Financial modeling. [https://mlozanoqf.github.io/tutorial_pmf/](https://mlozanoqf.github.io/tutorial_pmf/) *Applied financial modeling in R across valuation, asset allocation, and data-driven decision-making.*
-   - Supervision guide. [https://mlozanoqf.github.io/supervision/](https://mlozanoqf.github.io/supervision/) *Structured guide for developing high-quality academic projects, from research design to writing, presentation, and project management.*
+*Quantitative Finance with R.* An evolving collection of open-access online books:
+
+- [***Credit Risk Modeling with R: A Step-by-Step Guide for Business, Finance, and Risk Analysts.***](https://mlozanoqf.github.io/tutorial_arf/) *(pre-print version).* 2026. Applied and reproducible coverage of credit scoring, structural default models, credit spreads and CDS valuation, dependence modeling with copulas, portfolio credit risk, and climate-related credit risk.
+- [***Financial Econometrics with R.***](https://mlozanoqf.github.io/tutorial_emf/) 2026. Applied treatment of economic and financial time-series forecasting, machine-learning methods, GARCH volatility models, and CAPM and Fama-French asset-pricing models, with emphasis on validation, model comparison, and interpretation.
+- [***Options and VaR with R.***](https://mlozanoqf.github.io/tutorial_if/) 2024. Practical introduction to derivative payoffs, option properties, put-call parity, binomial valuation, Wiener processes, Value-at-Risk estimation, and portfolio allocation.
+- [***Financial Modeling with R.***](https://mlozanoqf.github.io/tutorial_pmf/) 2026. Reproducible guide to acquiring, visualizing, and analyzing financial data, covering returns, trading strategies, asset pricing, portfolio allocation, market risk, and blockchain applications.
+
+[***Supervision Guide.***](https://mlozanoqf.github.io/supervision/) 2026. Open-access academic guide to designing, writing, presenting, and managing undergraduate and postgraduate research, software, and consultancy projects, including the responsible use of generative AI.
 
 \hspace{1 mm}
 
