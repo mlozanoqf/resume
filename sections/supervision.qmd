@@ -98,10 +98,14 @@
 19. *Proyecto de consultoría de gestión relacionada a la vinculación estratégica entre mercadotecnia y ventas en la organización Empresa Mexicana de Manufacturas S.A. de C.V. (EMMSA).* Cesar Alejandro González Galarza, Mónica Rayos Hernández, Jorge Antonio Cisneros de Arce, Jorge Alberto Salazar Barreda. 2023
 
 
-## Supervision: Undergraduate (52 projects).
+## Supervision: Undergraduate (56 projects).
 
 [Universidad de Monterrey UDEM.](https://www.udem.edu.mx/en) Finance, accounting, business and economics degrees. 2015  – current.
 
+1. Emiliano Enriquez Diaz De Leon, David Eugenio Martinez Najera, Ana Sofia Rodriguez Picazo. 2028.
+1. Maria Jesus Arcocha Morales, Karol Castillo Martinez, Ana Paola Maldonado de la Cruz, Carmen María Salcedo Vazquez. 2027.
+1. Diego Alberto Ayala Guerra, Mateo Bortoni Marcos, Elias Pacheco Mussi, Manuel Eugenio Aguirre Leal. 2027.
+1. Alonso Bejarano González, Héctor Jesús Flores Jiménez, Diego Esquivel Martínez, Enrique Emiliano Meza Rojas. 2027.
 1. *La Evolución de la Inversión: Creación de Portafolios con Algoritmos Genéticos.* Elías Daniel Cantú De la Torre, Kenya Paola Flores Gálvez, Emilio Pirez Perez. 2026.
 1. *Riesgo de litigación e incertidumbre judicial: Efectos sobre los rendimientos y la volatilidad de las industrias.* Grazia Sofía Cetto Molina, Greta Lucia De la Fuente Alanis, María Fernanda Herrera González, Constanza Ivonne Moreno Cuellar. 2026.
 1. *De la evaluación determinística a la evaluación probabilística: una metodología para proyectos inmobiliarios.* Juan Carlos Celada Cruz, Gabriel Lozano Martinez, Fabián Márquez Ventura, Diego Sánchez Pérez. 2026.
