@@ -29,9 +29,9 @@
 
 [Alliance Manchester Business School.](https://www.alliancembs.manchester.ac.uk/) MSc Financial Management. 2023 – current.
 
-13. Khalid Almutairi, Omar Bebars, Mohammed Alharbi. 2026.
-1. Sebastian Bitter, Julius Maruschka, Cezary Chodnicki, Mukaddes Zeynep Elvan, Marc Thomas. 2026.
-1. Christian Savvas, Anna Sukha, Georgii Mikaia, Anuoluwapo Orekoya, Faisal Sbinati. 2026.
+13. *The Limits of Diversification in Financial Markets: A Multi-Metric, Stationary Bootstrap Comparison of Portfolio Size, Sector Coverage and Asset-Class Variety.* Khalid Almutairi, Omar Bebars, Mohammed Alharbi. 2026.
+1. *Do Neural Network Architectures Improve the Out-of-Sample Forecasting of Crude Oil Volatility More for Brent Than for WTI When Geopolitical Risk Indicators Are Included?* Sebastian Bitter, Julius Maruschka, Cezary Chodnicki, Mukaddes Zeynep Elvan, Marc Thomas. 2026.
+1. *Profitability of Technical Trading Techniques for Gasoil.* Christian Savvas, Anna Sukha, Georgii Mikaia, Anuoluwapo Orekoya, Faisal Sbinati. 2026.
 1. *CEO gender and S&P 500 performance.* Chang Liu, Tianyi Sun, Natasha Brewer, Yalin He. 2025.
 1. *Resilience of accounting-based portfolios: Crisis performance, characteristic strength and market differences.* Eduardo Alvarado Moreno, Yige Li, Diogo Leite, Ashley Heather. 2025.
 1. *The Impact of Leverage on Firm Performance: An Analysis of Tax Shield Benefits and Financial Distress Risks.* Joel Quaye, Yan Zhang, Pavel Bocharov, Nura Mohamed. 2025.
