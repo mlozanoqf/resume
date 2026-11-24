@@ -106,7 +106,7 @@
 1. María Jesús Arcocha Morales, Karol Castillo Martínez, Ana Paola Maldonado de la Cruz, Carmen María Salcedo Vázquez. 2027.
 1. Diego Alberto Ayala Guerra, Mateo Bortoni Marcos, Elías Pacheco Mussi, Manuel Eugenio Aguirre Leal. 2027.
 1. Alonso Bejarano González, Héctor Jesús Flores Jiménez, Diego Esquivel Martínez, Enrique Emiliano Meza Rojas. 2027.
-1. *La Evolución de la Inversión: Creación de Portafolios con Algoritmos Genéticos.* Elías Daniel Cantú De la Torre, Kenya Paola Flores Gálvez, Emilio Pirez Perez. 2026.
+1. *La evolución de la inversión: creación de portafolios de inversión personalizados con algoritmos genéticos.* Elías Daniel Cantú De la Torre, Kenya Paola Flores Gálvez, Emilio Pirez Perez. 2026.
 1. *Riesgo de litigación e incertidumbre judicial: Efectos sobre los rendimientos y la volatilidad de las industrias.* Grazia Sofía Cetto Molina, Greta Lucia De la Fuente Alanis, María Fernanda Herrera González, Constanza Ivonne Moreno Cuellar. 2026.
 1. *De la evaluación determinística a la evaluación probabilística: una metodología para proyectos inmobiliarios.* Juan Carlos Celada Cruz, Gabriel Lozano Martinez, Fabián Márquez Ventura, Diego Sánchez Pérez. 2026.
 1. *Asistente financiero virtual como estrategia de entrenamiento y toma de decisiones para retail investors en México.* Jorge Andrés Macías, Héctor Santiago	Moreno De la Garza, Larissa	Rivera Lara, Ana Carolina	Sandoval Martínez. 2026.
